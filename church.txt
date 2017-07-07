@@ -1,0 +1,137 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.92691019999999,
+               "lng" : 75.8072677
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9282591802915,
+                  "lng" : 75.80861668029151
+               },
+               "southwest" : {
+                  "lat" : 26.92556121970849,
+                  "lng" : 75.80591871970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "281eedd186f32930235b1c550cf9437bd78035ec",
+         "name" : "St. Andrew's Church",
+         "photos" : [
+            {
+               "height" : 1035,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116027896779256491272/photos\"\u003eNarendra Singh\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9PhmWK8ECNGo-UXWCcPd64UlQL1TXVEpHqV7KhmsFAFFpjdrUG-xtoPQg6UPiEqj9UC3SvKAjfwcVGwy7nJRnJYOnpupcrZtbsSXPqrXFrDsUwzFZyUDk2hmwjArWbgCEhBYK9jmp3DDkGuDTIN-hQ9jGhSzZsfkUDCXlxzRNkBe0Dig8Nbj2g",
+               "width" : 1239
+            }
+         ],
+         "place_id" : "ChIJVVVVld2zbTkR4cxX5Y6qejQ",
+         "rating" : 4,
+         "reference" : "CmRRAAAAv7txDdmkrJnGxrcp8roogog7tMg24cnjTsoqjKOzodBokEPe4vb0WNcGLlg8hFOnIi0nhzltUCm22s02PuBRm3vShL5qgFq8I0KcEk4PuP0WOomQ_Z2VazUFdv4c8TMSEhDXx-PhxgTNk2a5OhR0DLbGGhRkGn7NMZrbPywxFk2f_1f_8OizSw",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "OutSide Chandpole Gate, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.92675,
+               "lng" : 75.81045999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9280989802915,
+                  "lng" : 75.8118089802915
+               },
+               "southwest" : {
+                  "lat" : 26.9254010197085,
+                  "lng" : 75.80911101970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "32c99b7168da232152f3bdd9db8df3a125b7d4a6",
+         "name" : "Prena Church",
+         "place_id" : "ChIJP7RdhVaxbTkRGvlouexxOvw",
+         "reference" : "CmRSAAAAHQk-vlNt9YG0m3guFDguzU9FRfjAf4r-mzoJxhFq7frGs-9gcJGsx2IA8vyUk3xY4_nVdcbqnx_f5bNBjyX9K6CS33Gxb1FmuueUdSzIZ1zkVEsm_Xdhnruu51L4GC9IEhD-WEwZjtlYxlJPdUV06FLtGhSqXqOCLgrtR4FBmuVoEEEt95_MrQ",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Shumitra Marg, Vaishali Nagar, Near Mandir, Vaishali Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.913124,
+               "lng" : 75.811024
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9144729802915,
+                  "lng" : 75.81237298029151
+               },
+               "southwest" : {
+                  "lat" : 26.9117750197085,
+                  "lng" : 75.80967501970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "92123a7176c1f0cd6d7df0217f33db1b05757ad1",
+         "name" : "St Xaviers Church",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103632694766813572406/photos\"\u003eAbraham Amal Raj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAADuw-PpZ4pfkNQw8dpf_-R0bOA8nAlrtXcGoZy0mH3TVcQBPXi7YYc4IweOJ-sry53lCIGlBOpuAKElKx1NnBTRFejfCjicDNe5c5L80csyfE8mtJWo4hkyX5vbiFwdoxEhA5JJrrKGSpwDs8CxHjJ-TzGhRTYPR3pl-YB8T9QkIrpKV-8uz3xQ",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJZZlqFam2bTkRjD1bo_8BFgI",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAZ0dhl0zv4uszk6vvEpSf78W2AL-gKBrBYfeZPnCkSV__R99q1TucdbOOsSUpYG8tEQ5hOa-kKOjDQmiOQsH2DD46gcYekr5YKIWYYbHLkZ-BdtYoGy3nntyzOzhrnfwqEhAYSewr_bprIJuhQfZ9GW65GhSk3vMXzIrLoBUbH5UHqxX1uxRsow",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "St. Xavier's Sr. Sec. School Campus, Ashok Marg, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9178916,
+               "lng" : 75.80153799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9192405802915,
+                  "lng" : 75.8028869802915
+               },
+               "southwest" : {
+                  "lat" : 26.9165426197085,
+                  "lng" : 75.80018901970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "039fae023a84260a9ce4cb3925cb8417920b296e",
+         "name" : "Bible Chapel",
+         "place_id" : "ChIJs42b2LWqbTkRWUOj1I0xSrw",
+         "rating" : 5,
+         "reference" : "CmRSAAAAVvYWVwL99zD2IRkrf3aNM5KSPI0Wdy44BmxRjN2D-QEVuI6MhqcIuxUF7rbSNNHFm_barnpOqBRDd-trlq2hIb1YnJZPVFMzKagZztmH2W0zwLBBIsbb7enu0uaKrbf3EhCib2_KsYHBEs02gMUH9jkhGhTB23EQ6qwVSmzAJ1iVk-3gjRs4-A",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "D-83/84, Chomu House, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,782 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCCwEAAMRGJ_fciGnbrCIfo4vBJ5vLRJWUzC0-rLw9t_37IDVdAvwj0nDkF3dYVGFD5JOFlhX4ghBAXpoxnxOPlb7S1T_iZuW_LN_HR_eA9seaX4YtWbrFXdDetN-bjlenu2pW-iG4SqQ6QKZKfKPOIpzJc3zqzAhpnWhM80W-LbMC3sbftOBM-hkcK8RVYO7FxUvUJsS4sHYRDwQfqegAxSvLUJ6iKrQWgRYmgZPtl2n9PsQfWZe5wLBIciNvZOzmtkXjVZ5Ej7n3OOP9LHjY3ygr1aBBfhwQ6dWbluW9SA1NKYjAYk3n7GLhl02V2ITV38t4xZTOihG4ZK1nNB2RY2rypei1cmAnISqiZdlq15_dr3p2EhCz6Fk6uIXTiyzrpLOVa4p6GhRWAUgsfbykuDvzdMLMddT3Jt8-Lw",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9068672,
+               "lng" : 75.8213121
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9082161802915,
+                  "lng" : 75.82266108029151
+               },
+               "southwest" : {
+                  "lat" : 26.9055182197085,
+                  "lng" : 75.81996311970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "c42266f8538b54b9e1f30b33e9be8dc650c25602",
+         "name" : "Arya Samaj Mandir Jaipur",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 669,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102848435301151545347/photos\"\u003eAnju Desai\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAimLBSPo18O5mVSOb_L5cOsEw40h2KbHlgfJd_K92OmTW8UDZZNCldsQQtXKpdYImpsLGvMiidKk-S9a0UJlJV7KrrN1K43CRbyoNXFu1wdgOvCA5knE0utSjYzLZY23hEhCvA0jz1SgkxWvIFW5PWMVyGhS8gjw-wVMlyKpbUy_OuA1dQNOgQA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJJae1qpW2bTkR4eU2Z0Yv_MU",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAp5wmQVHotl_1er53tiPgU1XNq5yoHx0WciTzYarmgewEN4YLeCaUCRWcK-apEAnE1dPf2cn7WOCo3OJKksawZf_McD2a1RcIxXHRW6MqSn9Jj9PF0HkHfIAJt_E3I2A3EhCjxQ_QEMQ5fYOwEbjRhDLoGhS40AQVYNOLUDojjWLLwvdYgI41xg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "07, Near Bhagat Singh Park, Jawahar Lal Nehru Marg, Adarsh Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9252778,
+               "lng" : 75.81688679999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9265227802915,
+                  "lng" : 75.81810488029151
+               },
+               "southwest" : {
+                  "lat" : 26.9238248197085,
+                  "lng" : 75.81540691970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "533384c67f766fc7f12ffd315e3245e318732bcb",
+         "name" : "Shree Swaminarayan Mandir - NarNarayan Dev Gadi",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114388144115460258377/photos\"\u003eIshwar Das Baheti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdJt1PvrwhGENcbIYDqrJty0D3-NxOvSMsRmX0BaGS6u9hgKZWKjm6GsHwYLFCipd86tkNJhjVw4MKA9BDV94JDJFKnAS20suE4QgUvQC5elXmCe7ofm0UvfIZiq3qE-5EhB81BKZ5qGwLd9pSoc0a85rGhR5ds9Wc0hnOMlAbgl9YC1j6ILMBA",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ9fiXP1KxbTkRNYD4mvjTd5E",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAAg48lWDOItjRD4LRwSjAjVuk5EIQGK7No18A5zQ6wXPsi3zBEfnESuzfVYaXAUGjX55vXPs5_IFFADDy_2qpWvUN7xBcPKV8o1fFxEobR0PAA0morSlpzcAQh6zvnxsiUEhAUmVUh0oILkq9z2RBDq15XGhTyWZ6Rcx2KC_67KrqXfgksEOHzTw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "dinanath ki gali, Chandpol Bazar Road, Purani Basti, Pink City, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.918256,
+               "lng" : 75.81411199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9195798802915,
+                  "lng" : 75.81545378029151
+               },
+               "southwest" : {
+                  "lat" : 26.9168819197085,
+                  "lng" : 75.81275581970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "bb4c533c08746c7ca33669cf5dcfba691f3dc6fa",
+         "name" : "Radha Krishna, Narahima And Sai Baba Temple.",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100383603737461878633/photos\"\u003eshivang sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXJID5v-XmxXSCcB0EnDrWWIIWo-TiykMltMZSo6cND9lsQp-j-dNWMH-Wm2ig28iaU9kQ5KKKIjqwHCH-DJ7y4BDJGWgFnpbVSVxCbaEnaRCbAC2lSenHojtC6_FlZWuEhA9mGMgRnB3DHjDLqPacVGKGhTeOyKoIJReLIk7goAteYHSl288Pw",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJW5HGjKy2bTkRrDnTGmqJyvk",
+         "rating" : 5,
+         "reference" : "CmRSAAAAm2DpSkuowpMX09GUboj9E9-I7o6lUe3Yt2eVyyaAPI2cUX2UnIIfh_V_4weAgzwJvfxq6kH-N-N7ELixzOIR7EKSuaXLOQPdcxxfWp6RxnI5-mW07ppdgNN7DKa9OI-JEhAbAGR8dx9qbfHlLbBBALOOGhQ8eHfo9jiTU6eTGtcKZnIen07nvQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "231, Indira Bazar Road, Jayanti Market, Pink City, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9198748,
+               "lng" : 75.82150249999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92122378029151,
+                  "lng" : 75.82285148029149
+               },
+               "southwest" : {
+                  "lat" : 26.9185258197085,
+                  "lng" : 75.82015351970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "c24e34d7714c8bbe6d0b9620c3e30319817585c7",
+         "name" : "Mahaeshwari Samaj",
+         "place_id" : "ChIJ5-fDH7O2bTkRHMDIlQZhnvA",
+         "reference" : "CmRSAAAAr0fwHcZME0uVAXY0iWvu_zBDkf9ErWY381nuR7xhK0_bWkf8F68moe9QL2vb-5XP7urO1vgePJr61pRdmmBsYOLSpRuGXDkJHSSJkfc9kW19QuA3yp_4DBsbXN00qbXkEhCb9-rWqjNF0rCBKCk2izH2GhResyuJLDWE2kvcq6a4RZqf__Ne4w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Gali Singhi, Chaura Rasta, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.913546,
+               "lng" : 75.81250899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9149466802915,
+                  "lng" : 75.8137363302915
+               },
+               "southwest" : {
+                  "lat" : 26.9122487197085,
+                  "lng" : 75.81103836970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "a9a73fd08b79e02207667471deeaf53d5a60fa30",
+         "name" : "Badiyo Ke Balaji",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118107612755951951830/photos\"\u003eBadiyo Ke Balaji\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZu9r90D1_NhuqmSagdNW8V7Hgn0wDYS_ZUQWOwKa84auCAKVl72G1R5F8bT1BvkY4ld_45yP9HWNJz9vav3PwnCX-cAvfSnw9uvUprhCgld8DhLCw_DInqx7AXeYlDQ5EhABQ6swJRsIb2Gl2DuwTyrAGhT6erLpZJGFqLSWrfNAfrJjw4DisQ",
+               "width" : 1368
+            }
+         ],
+         "place_id" : "ChIJKxrBS6m2bTkRbxHDHZGb6FA",
+         "rating" : 5,
+         "reference" : "CmRRAAAA9rIBDspTUvDWAPgFYSdtbw-_eoi5KtA_jAvxeV5-IcdajI6I5jAn0ScfQe4VtupNY9DeK-2YfDvoeXVdmHSLxinYL4V2e6LWDeCUK77fdF6G76OJPSeQkZ0RCwcRpLczEhAgHOzAsjaRa9aV8IYubPVdGhSZ8FjsvJcyIR514yM_mYEn6jTCnw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "2, Mahavir Marg, C-Scheme, Sangram Colony, Ashok Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9197617,
+               "lng" : 75.82425069999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92111068029151,
+                  "lng" : 75.8255996802915
+               },
+               "southwest" : {
+                  "lat" : 26.9184127197085,
+                  "lng" : 75.8229017197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "112fcd6d196155c0c76d83138ebfe61ee86e5270",
+         "name" : "Mandir Shree Gopinathji",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJE15dYrO2bTkR_sfTyECBges",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAEblkFejrXPeusdC_nfb-HbNyAAAqyAZzDtY6MWM9Yjp2HiuzOkEu_PBh6GrlsH_J4s4HOErhhwnF5wwdmFrtaMN63r2ET_gcRS_J8mG8O27HhVmEb6zK0oplvRtcxft-EhCi3_YntqXxDS_rPxTn-KjHGhSLyj9WrVfL_28gvijD1guSyvgjeA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Dulha House Road, Bapu Bazar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9249236,
+               "lng" : 75.8182297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9262480802915,
+                  "lng" : 75.81961143029152
+               },
+               "southwest" : {
+                  "lat" : 26.92355011970849,
+                  "lng" : 75.8169134697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "017f437503c55844485abcd7e28d9dd1122b2103",
+         "name" : "CharBhuja Nath Ji",
+         "place_id" : "ChIJs-3EdlKxbTkRCrJbaaa3onI",
+         "reference" : "CmRRAAAAwmVEG7X_cCZhVpozkXK5IgtdZVzFFXBvzIaHaHxkCjb2UlblOQ2ZK1_1ac59GoSzF7XQUun0eZxyF9BbE-Zsukbry3iOCNQ0FSSi1TkNF3zBeY_pldZ-oeSo2D__6IPiEhB8OaGqiC_gz21hKJblZyYjGhR4OB8sZxgE9uid-TXq9x3lom97qQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "197, Choti Chaupar, Chandpole Bazar, Pink City, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.91588459999999,
+               "lng" : 75.8249618
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9172597802915,
+                  "lng" : 75.8263220802915
+               },
+               "southwest" : {
+                  "lat" : 26.9145618197085,
+                  "lng" : 75.8236241197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "7be811070d5e1eab76d9cc30faec058594f85868",
+         "name" : "Radha Govind Mandir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcRNDqLa2bTkRfUY2_FG_B1g",
+         "rating" : 5,
+         "reference" : "CmRRAAAA-zZrAtaijjQ_qqaR1NOcg1A5Vf39xGUdBSfT0IUygpIAzwEy0xR4Tx78pcdIPPHM0gl_Wy7v7VnBVXKWX1Tlbkcssz533mZ5vvNhip-by6WOJFDeWr0jmQoQRYduNUEsEhAWdaBVmREg0Drp2oxO6d3PGhQvW-7nMLLUX-LjhkSKgKtsR0dnGw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Sanjay Bazar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9160554,
+               "lng" : 75.8250975
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9174043802915,
+                  "lng" : 75.82644648029149
+               },
+               "southwest" : {
+                  "lat" : 26.91470641970849,
+                  "lng" : 75.82374851970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "a032e7fce333122389debd9ae2dfa5e1f4c05811",
+         "name" : "Veer Hanuman Ji Paschim Mukhi",
+         "place_id" : "ChIJyxRRHbS2bTkRcWJI0N6Tl0g",
+         "rating" : 5,
+         "reference" : "CmRRAAAA4mnoi4lA2kGaSAhMjW_Br3eh19OjUZhAerSdUVRDYse5fQ6R5w1VUZD3DDazjFGcu9AD4BAhRNWuh0t4tIME3Ywp8APEkp4bxKF2uTs01RbyyKw8r1ssN-FbwnqIKouMEhCgE7ZYuoViLVQPxQSS_MexGhT_RgGMOwjYYot7KkeS3dMnlAQOvw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Ghat Darwaza, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9174697,
+               "lng" : 75.82601
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9188083802915,
+                  "lng" : 75.8273509302915
+               },
+               "southwest" : {
+                  "lat" : 26.9161104197085,
+                  "lng" : 75.8246529697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "cb9221a57b558201c618cf02481fa7a22e6d2b00",
+         "name" : "Shidhi Vinayak Ganesh Mandir",
+         "photos" : [
+            {
+               "height" : 944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103924589037262656941/photos\"\u003eRJtech Rishi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnPjqKsIavckwNufX5OhPnkQxoN_XrqEuYfUmXZb_nhWf6CVUeDMSLCN1TiBNW6A54pL_7d6cda2u478Ngqzp5Zv0AoSzHl__syGwLkrr5tbCiZMr27PaVP25GgTKz5uFEhD0Dk-nhfSc5J8GJQYyhjONGhQeJ0Jz2IJ6Ksp8hPboCrGii9WnBQ",
+               "width" : 1264
+            }
+         ],
+         "place_id" : "ChIJ2durQLS2bTkRMIbEPshaSrk",
+         "rating" : 3,
+         "reference" : "CmRSAAAApzNy37lHls4cbx_iSoEfIXmGwA3Iz1Sdudd-6vsxeovxNEmzn2BVkNt-NMW0iftHJ2ThPzL9jTCSnINhxIMSEOSQXO6XZ3Up72f9bl_mZ8uuHU25r-jjxcs-4KtjC_s1EhBWwbOwcCt-vAvk29cekoimGhTyegc8NSbqIMgmrILybPb30yPyXg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "4318, SHIDDHI VINAYAK GANESH MANDIR, K.G.B., NATHMAL JI KA CHOK, Johari Bazar Rd, Gulabi Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9266418,
+               "lng" : 75.8095989
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9279907802915,
+                  "lng" : 75.81094788029151
+               },
+               "southwest" : {
+                  "lat" : 26.9252928197085,
+                  "lng" : 75.80824991970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "986e6ed048a7ac511ffa827d80b55b1ac81b6a9d",
+         "name" : "Chandpole Hanumanji",
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104185795013998007373/photos\"\u003eLeo Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZDg1OKBuARSlOGghpOmWKAQMb9hYvX3aigPYo_jOnSXcoGcOeRe5QRVnLxIA0_RrYr6NFrIjsVLESz8RxSHJX43Q9kIEEAwg4QTqrgbyALHRLvWPqXClWLVS-qVmZxq3EhCkZnaKDDVRkvujHqR0ZTNOGhRMJYotWMD-guvOoQBgKVVezwURoA",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJI6nnaFaxbTkRHpmcKtTscZE",
+         "rating" : 4.8,
+         "reference" : "CmRSAAAACT_pIjgNXTB92F76L-QYUtcD8axiweccCxV4Yr5R_PmP5Z1bLozKtcuwEvYE_9eFtl2X36M3JW_lF95rTQzpq2JXBiXUkUqjIEstXUlzj_ZA-FvUuqB2EQuDmWwBHpJ-EhDgkGr9C0AUg1uQqk9sO9IJGhSmMmobqOGWwxbVkEUxuKfNdOH81A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Gate, Chandpole Bazar,, Chandpole, Pink City, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.918281,
+               "lng" : 75.82783999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9196299802915,
+                  "lng" : 75.82918898029151
+               },
+               "southwest" : {
+                  "lat" : 26.9169320197085,
+                  "lng" : 75.8264910197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "e71a4c3c0c381e64bfed5ea97eb15d5863a60566",
+         "name" : "Mangaleshwar Mahadev",
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106034184609868587391/photos\"\u003eMangaleshwar Mahadev\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyvy5sGGhDI8vQjhiNvH2smI6wkIsqP3p7RsndmtDWI59Agp3iLIQkr14kftCZ6efuAthHYIPVzleXEwyXe2pjrdOm5L4AZAUNU90S0PPUzoggnciJ5_S_VIhsMwMvMseEhCEJPlfFj0Uy84HlwyH57CFGhRDP8E-W66iHY8sSVcLHoeg_IW-gA",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJo4z3sLW2bTkR-nekc_rd0WY",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAABCWB3o8cS6c_iCmra7u1rp-xiHo5Cf6eXu8Ik_KHpKKay-l-psY3Gi3AeM5EuXDtO04IrBF8k_nMcE0N9cZpTT0M1vtxE2PUBB90tWusBJcsaQ2zDPRZ_MoKJznTlAyzEhCrZlDNvQnFrt9ZEp92FfboGhSxIaRLvSSYRa3Nhy9nut46Ssp1EQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "3893, M.S.B Ka Rasta, 2 Crossing, Johari Bazar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9282255,
+               "lng" : 75.8194493
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9295744802915,
+                  "lng" : 75.82079828029151
+               },
+               "southwest" : {
+                  "lat" : 26.9268765197085,
+                  "lng" : 75.81810031970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "cd81f80018686cd7e0e07b834042ebaacfe80bd4",
+         "name" : "Manokanashwar Ganesh Mandir",
+         "place_id" : "ChIJVVP-Fk6xbTkR5thkj2mLLag",
+         "reference" : "CmRSAAAAjev8Wtn7JbNZ3NkFAYAnu5uZCt-uWr0VjX0hptdCgyE5rrUbFM3xoUd5fEhdt6OGHBbdHLivsjeIja6RBEpkgEjtE8Pkms1gkK-JPk9muRk9tLG4lAeyQ7FMOPfOqZ88EhC0iNiGx9jgFGMkfdrlNHi3GhTgXGKA56GcKPUqt46ySjjmBsDU7g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "631, Gate ka Ander, Gangauri, Gangori Bazar, Purani Basti, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9288896,
+               "lng" : 75.815844
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9302385802915,
+                  "lng" : 75.81719298029149
+               },
+               "southwest" : {
+                  "lat" : 26.92754061970849,
+                  "lng" : 75.81449501970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "1689bf64b6f5c62596b36ba2ec8bf6c85682d2da",
+         "name" : "Namdev Mandir",
+         "place_id" : "ChIJpXrkqFGxbTkRD9JCVt_5m98",
+         "rating" : 4,
+         "reference" : "CmRSAAAA0KMShxJmpl07ZYmzg6tiyV306Pf9mun5MhJr86DW05xWTZ0DR1_Y7XMRkE6UKA5MqQE7kijSvwdbeZF37DOPEskj_jXBpQsgncGxeJwPRDEDV8aETKt2l7hT0HzMlw2IEhD7X5GWeUqx3si1Qmx8rBViGhRn9kDlpYUF8qSm-qVhCTBynpWd0Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Opposite Gangari Bazar, Shiv Deen Ji Ka Rasta, Chandpole, Purani Basti, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9269772,
+               "lng" : 75.8090007
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9283261802915,
+                  "lng" : 75.81034968029151
+               },
+               "southwest" : {
+                  "lat" : 26.92562821970849,
+                  "lng" : 75.8076517197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "239404f96fd9e28faa4a5dc45c6eb2078f4d4292",
+         "name" : "Parkote Wale Ganeshji Mandir",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105292960811800551987/photos\"\u003eRavindra S\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOB1mEd388NqdV2VRd66CeOO67SR3ec9KT2jfOGrrtrxC1g5q57MLmXYg61xLCL938VJNbmXA3q3dqU_VxWH49nCpy5qSQd8VsF_gqVmDxjA_nwuIVl_6FgY8Xl-dFIrwEhDSwHFqV4gw9XEQRKT96v-5GhSeCROXmwnSw9It5ptRLwDFBPYyiw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJOWRKb1axbTkRnaZ2n8HCzQ0",
+         "reference" : "CmRRAAAA_A-1DR6mBj_JvIyz6CAtkb5nmmSWh2ePnKD86kZZ7JmLSkeKJ-jh7yaFFskZv2aDTsdyXV4TCg-GkO2ZN2WJloKxAXpJrH3ty1QGlH2r9iFQ9h7Be4CH1aewFytNIVIdEhBK5CWkbfWRpc6yk0KtV8yiGhTMS1RGVC2ABwZ1Mqx02Gsd-MGZdw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Near Chandpole Gate, Chandpole Bahar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9291342,
+               "lng" : 75.81401409999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.93067853029151,
+                  "lng" : 75.81541498029151
+               },
+               "southwest" : {
+                  "lat" : 26.9279805697085,
+                  "lng" : 75.8127170197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "e15465bb8ed38bfcb200edb1119335ea5668ba05",
+         "name" : "Gopinath Ji Thikana Mandir",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116561066264298031861/photos\"\u003eMurali Krishna\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8r5DWM4i02RIEABTzDV_K87tgZuk1ctXwnIH6hwcGZfdg0MzIB98y962izfWpDr_KNuSQrHIkmnR4l420Z3XL8EuZ8f2fgq3kXKFopBFzwimWVPGF3xYHnKLyIn6bm1DEhBL3TR5c4iXVrGF689LmO-NGhS5G0rEnLe_PUKGrI3SYkOfMgwFdQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ7ado4FCxbTkRzqeOpWwl59g",
+         "rating" : 4.8,
+         "reference" : "CmRSAAAAreM-vFK2REYGIhAAvI8G7Piwo1SYLYpmcalQpNWIe-BnuUgzL-SpYNIuHUkZVnJV4gT4bXGTD03bJxbOO6mACab6xkKgk3Lx7VIixa66ycVGWihoG9r9WLHkSkFytAM6EhA9yfMaK2zLFvguQA2lCidpGhT6cgvpafSj-my19sCcmeO9rJC_2w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Chandpole, Purani, 1710, Purani Basti Rasta, Chandpole, Purani Basti, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9292436,
+               "lng" : 75.81406509999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9305925802915,
+                  "lng" : 75.8154140802915
+               },
+               "southwest" : {
+                  "lat" : 26.9278946197085,
+                  "lng" : 75.81271611970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "e1409c272ddf062e3b80ab18f02329ea9ebf7318",
+         "name" : "Radha Gopinath Mandir",
+         "photos" : [
+            {
+               "height" : 3864,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115980414259979366775/photos\"\u003eMalte Scholz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQNQVcg8ryNBdzq4NQ1iMN2muWzV5K3aZUpr-IyWyK7I2Qi1pjw8JTkeG4dLpi4BeRQAPVD7vOEBYu24xep-m6rmbJrJS7uNq6RwUNETeQwhZ77jOo1IaLus-t3XSefO0EhA3354smUOe1sz2pQyFWroqGhTN20m4Up5OtjA8EhnKZmyJaIGwZA",
+               "width" : 5152
+            }
+         ],
+         "place_id" : "ChIJ0QsCIVGxbTkRb_qRPRoA2Ck",
+         "rating" : 4.9,
+         "reference" : "CmRRAAAAoK8SRaLx8Yo_Uk898yMGV45dHYDiAUEFcN2N2y_z44a0lfkZfNeZjn9_fXpo_rZNP4NY25wAl_jGvFYY8TT7mwh3gBJR2WzRi_AW7cMGeiiMsaqzjEk0i6gOEEvsuxRWEhAy7sUE_uKkMJ5E08V7wrGoGhSjR3sreGhWc3m_0C7sXbi-Mi-piw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1729, 1729, Chandpole, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9288506,
+               "lng" : 75.8240902
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9301995802915,
+                  "lng" : 75.82543918029151
+               },
+               "southwest" : {
+                  "lat" : 26.9275016197085,
+                  "lng" : 75.82274121970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "ba605d2c475a35739711ec1fdc6a5a68714d0db7",
+         "name" : "Govind Dev Ji Temple",
+         "photos" : [
+            {
+               "height" : 3088,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115231031643491062745/photos\"\u003eKeshav Agarwal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhZ57uJ0hARC0yHfnGaW6CSnuv_kGCET3vyhC93mEQHiRlUAHawPOv7PPabUtiMIO48K9k7UZGEjflh38FwlQQ2P0Nhw3PLvRnqbvCn0MNIKt5Tj1foIJCfJba-dX0leJEhAd1mikC564AlDRJAYmTz1qGhQOEG6ASDy_BoXZdIaMgPi_XLtGnw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJl6ftTjK0bTkRXGBe1TzRYCI",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAESWsyAWouFbYoEjsFWI-7jFrHPmO7IYdjUbpP-OBwQwA8az4X0bTA2yULBZy1MuutfFr5SsYRRQ0HKyBuTNE-Sf23nZxZ9DFWgI3MZME4wcz4A8bI_K-jmt5AoHWqgjfEhDqWBZJyMjojUMnWS6XCrhoGhTpV4WdtVfuE00WZP4nCQ-smT6PCw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jalebi Chowk, Badi Chopade, J.D.A. Market, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9276026,
+               "lng" : 75.82625569999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92895158029151,
+                  "lng" : 75.8276046802915
+               },
+               "southwest" : {
+                  "lat" : 26.9262536197085,
+                  "lng" : 75.82490671970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "4f48dbb9a42f8a3734f06840a9fa82b6b2f445e5",
+         "name" : "Gaurang Chatainya MahaPrabhu Mandir",
+         "place_id" : "ChIJ-RM2XEmxbTkRukb4faLVzt0",
+         "reference" : "CmRSAAAAmD8oSHPZT9doQjsCdCSdcrkvw2GkmqoyTVrv-W8exdsDU63Rp6uBaiTIkSTXR9VviL8yhxxJDgQO1Dl-pMNv7oW1w-XO2FR5Pt5YI2RFlfxmQhMNsUYPkIPv1rqONtgkEhCetOp0VJowtpmGIeM30Kr8GhRAg5TUSGjOEc5ZyHHpJNIjF9jGtg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "J.D.A. Market, Kanwar Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.91885569999999,
+               "lng" : 75.81615889999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9202003302915,
+                  "lng" : 75.8175213302915
+               },
+               "southwest" : {
+                  "lat" : 26.9175023697085,
+                  "lng" : 75.81482336970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "7f0eab321408f1738f6a11000b864b27150f24a4",
+         "name" : "Bhairu Ji",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114368250188680289585/photos\"\u003eBhawani Singh Mandawara\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzDRFMuofhMGHkqIep2zNb6SQ4AILbmUYHVQamO5fi_1ahAyRV_mmWzJAHJfre7A1pq_8kx5-4y9Or14fCtbjfXF23iyJLxTkmL-5A96EzmRhN5kt7P2jsnEZfof1k0D3EhA8zN8Ha9pzv-UdDPucLWX2GhRUlQuXhm9aVZBaYatf0SSep1WlRQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJSScDG622bTkRspjNQ8rwAH0",
+         "rating" : 5,
+         "reference" : "CmRRAAAAN7mfS2kjPLNa2ynE-cQHJhrnXDNHVA_CsPRBATOI85LNx7C6mwEwkDxT0kWNdx3NulR62aaVTV3Gce6bAv-favYzUGQ_5-OX0vnG8OhhCOUp8C--xdYXhJ65Xfl4yrF_EhB2amK3bMo0Pcg4Cp5nSeOCGhRZGg9tLJ83ZdnMYDZruK5r8j3p9A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Opp. H., 524, Namak Ki Mandi Ka Rasta Kishanpole Bazar, Chandpole Bazar, Indira Bazar, Topkhana Desh, Namak Ki Mandi Ka Rasta, Kishanpole Bazar, Chandpole Bazar, Indira Bazar, Topkhana Desh, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

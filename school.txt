@@ -1,0 +1,641 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCBQEAALLB9TI9ZfD-LooWGSl7A8DP0ZhoSLJ2TFxGk89jKn-6VEESgU-pz_sL-0CWUPBWfwI0GdqEDSpS4NlNSkTWVo2UVRfuJal1rpUMLnaKYeMF1Pqb6PUyo6krFdGGQ0M3lcYl4wooEkgukuhRYF31amqUNaSbGJ8esWh6YMopgBsHWJsdCoXtus3ik6KnhgXBRgUp3wXJWk_qGiiyjz9oZkSh5600_w3Imxt25EvBNSGs91Bau9lJC5-XEZszF71XM2pI9LLAO0ry9iPEJCNShoX_ggucSetine0jITzIGBY9-4exvT-rcljCR0e7liUlACSo5JHF8hqpKgfhqZZIWrjoK4JCcIQQn48B9_aZqOLjEhBq-1IEmjYtudtNOa3NmzknGhQ889Y72-1MY0MK0Kj_ywQOM0Beig",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9147131,
+               "lng" : 75.8157951
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9159836802915,
+                  "lng" : 75.8175562302915
+               },
+               "southwest" : {
+                  "lat" : 26.9132857197085,
+                  "lng" : 75.81485826970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "49d08f5c1e607a72df3b2f48d0e39b1be0f31a6a",
+         "name" : "MGD Girls' School",
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101463681102492863293/photos\"\u003eJASRAM MEENA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfkqb0zghJ2JH5WtiuGETrwamuTAZEKDpEN1DKXG9MDa3XsC29uIQ_zFbmBdaTdFNZr3M6S6BSqQCG4AqAdNVDc5Ncxe1hwOSxNSfBvPqm-unusdIgGDjbGWPSAy4aZKIEhCPD3P1R_Fr37jevz8fhufGGhRedwPDx34e7ZHND7cDcpwlPlassg",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJcwWFmq62bTkRmOHjdj4cHHQ",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAA2qvOz9yKGVhveGzwFvdT2sgHBnwsFxezuJ5B94yK3wUWB0C-tIO2uQB5iq7r7kylZ41q_4wnlIu0kDP1y6zAYGJ_r-5raSKgBxmZT_NGUoU6SrcOmFjvgKMrhxASBU3TEhDKzj24W0ZSOeiJefG0Gc3pGhQOxUFehNfqloInTepRWN8E3KM1qg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Ajmeri Gate, Sawai Ram Singh Road, Sangram Colony, Ashok Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9112885,
+               "lng" : 75.8082249
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9126374802915,
+                  "lng" : 75.80957388029151
+               },
+               "southwest" : {
+                  "lat" : 26.9099395197085,
+                  "lng" : 75.80687591970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "910b9162f8af35b4c670c31ee27c55173be30942",
+         "name" : "St Soldier Public School",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103294057328927118836/photos\"\u003eDeepak Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtEonuH5pJppzwgos89B1ssZxaXP_76LuhC1guQKBoy9v8EnyYXhJFpZnFLEcR-ybXWkwt8Tw4Ieiy6gMcJo771JZOoQdGVWuDhtRFx-cHF71i98SvlN0rGJnnmOImdt5EhCB1Idqt9ECfjcb5u_l45paGhRC_29M9vVO-wq6jdO6N8NX2QWPfg",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJg4CHSqi2bTkRlkVYMiYhBBQ",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAFgt4zls8qV7mx9ZQe5ZvLs5v24SJCByHj7IgXyppS7De8aVkylcwlyynvPrT2_Co6rA-ITvoo_Idz34XqfoZmxfSVhKSN5iSL6jScDjeDl1nNTSO5EpwevAPsOmyaQN8EhAYUwRyntXcelt2xyDtyFjDGhQjfgPln4VCEiD5WIL7F2YS86RLBg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "C-31 Bhagawan Das Road,C-Scheme, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.916546,
+               "lng" : 75.82421789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9178949802915,
+                  "lng" : 75.8255668802915
+               },
+               "southwest" : {
+                  "lat" : 26.9151970197085,
+                  "lng" : 75.82286891970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "95a97b1ffdddcfa81c9d81c89669a9bbeb522ed4",
+         "name" : "S S Jain Subodh Sr Sec School (Boys)",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115855448768871419597/photos\"\u003ebhag chand meena\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAHavm_hjf7hBeYl700-gbYfIQkhDlnarJlER-ywPX8lWgIfGPt39PkYmBaaqX_KY-HYfgKMK_nwdpvhxSY-amGDhtftYrlSj-dMvTMLWSQaVwYc2g7NGP4forRop_X-Z3EhDUJZoAg0D2-V_iRudAv_mXGhTmr73XtYkgcT1xETcqUltDhtSHyQ",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJk8kj3bO2bTkREQYZY6z1MC0",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAAX4PKJJDrh8lNRt1M5kBKdyuoqW6o5LNI_sbABaVLSHClje0YxpfOzytzLInmCBb-0DfoDmIy92NLL4FdPDHd2WbbnCadAybXWAUxyuu0bXXT8KTB3J2tZCP_VwIGeJWCEhBwmVm9mztUl62SQ2U3Unr5GhSOnqj_B3jqT9W4xVcqHB4u6K709A",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Bapu Market, Bapu Bazaar, Pink City, Biseswarji, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9110232,
+               "lng" : 75.8093102
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9123721802915,
+                  "lng" : 75.81065918029149
+               },
+               "southwest" : {
+                  "lat" : 26.9096742197085,
+                  "lng" : 75.80796121970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "0f1eebc670a5aa63e4b2474d9eb41ef471a0f07e",
+         "name" : "Mahaveer Public School",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117271786220542971570/photos\"\u003eVishnu Yadav\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuNInzstLC0SqoM3ZHhAD2dXfvdcYz4nwUsab_2PpZVl1JXUDGSiiaPQbyYyO_PpISs5Jy2lACBerB83L-GY11It-9n7Ds_Q3PfOT45EnRDEvO7kbK1ihh_zzbDP_IF2PEhAQuHMrfRq0grbgJ8QCNZ1QGhSo02xbxBpIdOgbddVNTKg43e16sA",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJvSmbX6i2bTkRAC1HzUH9P_U",
+         "rating" : 4,
+         "reference" : "CmRSAAAAk_o2UwXDrj6YBqky0ec9Ko0NsSIp4SN9UCI2SDBwDA8CbRgvT2_J6mdaf1ms9-WDJD90Xu8EHzz55XYCdm71VBnxZM9AL-yr2O1jKQMxuXmJW2gNEO0DfNFjKL_EibB1EhB0VOn9FIlLIw3V72hePBXBGhQ-ebtnMInbNP8BYkvkgfQRElG5Rg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Vardhmaan Path, C Scheme, Arjun Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9107691,
+               "lng" : 75.8099737
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9119806802915,
+                  "lng" : 75.81126293029151
+               },
+               "southwest" : {
+                  "lat" : 26.9092827197085,
+                  "lng" : 75.80856496970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f6ada93329a94bd39c13d6e676e3d60649977b4d",
+         "name" : "Shri Mahaveer Digamber Jain High Secondary School Alumni Association",
+         "place_id" : "ChIJOxlLjKi2bTkROfmTrndag2w",
+         "rating" : 3.3,
+         "reference" : "CmRRAAAAgmF9APmBlkKwO9y9FNkpnYemgcITgtIUzTN98-5M-Gw9Exid_yyGrwT2-hxOuyP4ohdJeoFkEbu_KKpJ7dbqvRLne6Q_-u-fpMTXJz4nXMixlclGwGXqtSfM1i6e4gAPEhAcEtQyuwTUzShslfGaTvPTGhSrtCNT1MLHY5CTAv_-ws0AZ4wjXg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Mahavir Marg, C-Scheme, Sangram Colony, Ashok Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9151141,
+               "lng" : 75.8045376
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9164630802915,
+                  "lng" : 75.80588658029151
+               },
+               "southwest" : {
+                  "lat" : 26.9137651197085,
+                  "lng" : 75.80318861970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "2ae542341598bacc9c8a0251b9ba9b88740b2c70",
+         "name" : "ICFAI Group",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 305,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106602283249129571161/photos\"\u003ebsraj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPhcy9LVyg1t_EMif8j8uPF_es5AXQmFrn9eEGUe5Axt6VaemvAbCZZGDQYks0F8D-jEhO6CIdLbdvHnVmzDjQfk6eWiTQelFztzB_JFeKK7lF9fEz7SKWkGvcR14x61uEhDGxrRODkfhuU5qPLMDth_RGhRxrtRkSSB0-uZrVuwlH9dYBxo_Ew",
+               "width" : 898
+            }
+         ],
+         "place_id" : "ChIJq4MN0fWzbTkRMshgBNjs-CA",
+         "rating" : 4,
+         "reference" : "CmRRAAAA04HvyEA1IRQ-AwSwj01BTsRi0YW-cOGrK0fZdQS3pjqahwHpBT3XFrgRrkoiK6EcWve8TojL5CJypv0LMKSjk3Q8GBritcjJ2qe9320ZGk319n7XxTclGEKKj1rlW8r0EhCLz8OriBRmCrRj7zYz60JUGhTkisk-gwhCH0d_66-gw8psLrtVrg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "G-2, Ground Floor, Shyam Anukampa, Ashok Marg, C-Scheme, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9210176,
+               "lng" : 75.8139145
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9223665802915,
+                  "lng" : 75.81526348029151
+               },
+               "southwest" : {
+                  "lat" : 26.91966861970849,
+                  "lng" : 75.8125655197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "8d7fc2936d7b6fdb3e9ddd0903b364c8b05b29c0",
+         "name" : "Shri TIlak Bal Mandir Secondary School",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ869hSVOxbTkR994RHtwOq_Y",
+         "reference" : "CmRSAAAAHlWzCRe6IlFrZCDSxfQFy43ZiQ1P18UnczwGmJeFMJ_AKy-eaEHrgY2VFL0DLI7jyUTYUfOVOjBR2G-2akxWUYUasOLldjIhtymB6PFfi7jyg9rzFBl0Cy_lcoIb1TdEEhCGmfszEW1A0JejjNa0jUAPGhR02fzePFboWZof30Yv0qzqK9uVbA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "1492, Indira Bazar Road, Pink City, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.912446,
+               "lng" : 75.82792139999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9137949802915,
+                  "lng" : 75.8292703802915
+               },
+               "southwest" : {
+                  "lat" : 26.91109701970849,
+                  "lng" : 75.82657241970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f96f910de43c539a27170efdffdfb6861d85cb2a",
+         "name" : "Shri Agrasen Public School",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1367,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104712691923885759273/photos\"\u003eShri Agrasen Public School\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAyYsDSW8Jj6U95XH8HqMSocEdwj86XDl2NWnga5aNEjK98y0ra_GY7qDcP5A9Ih6tzz7x1IBpW2HrRcyXqC6RdQRE412yIhiB5-2l9QHeiY2KKzdO9Qx2HcdNVeBWfeg4EhCummo52hZrpYIiNRyNpDQCGhSrPlPt6m4nYmP1pM6SrVJKpcKOIg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJU5_DVMS2bTkRvX6goDWv3Ek",
+         "rating" : 4,
+         "reference" : "CmRRAAAAMsUV2XxjED1bWMkAE9YZ5Rmq42Zcl1yxpI3SFC4R0nyXbvKZYMxBR-1ZvUYjOSfCM_bhg2PGr9ZC_43xUD097viYgq9Bd3h2g0gaFlSZMtGvNXU97oT3Z2GiBMNAkMBeEhC4UEP2KOWwKi_OC2ZWvJgsGhQnDkK_P8XrM0ZKHWGNqjCZR_X3xw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Agarwal College Campus, Agra Road, Near Sanganeri Gate, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.926575,
+               "lng" : 75.81080299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9279239802915,
+                  "lng" : 75.8121519802915
+               },
+               "southwest" : {
+                  "lat" : 26.9252260197085,
+                  "lng" : 75.8094540197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "330a4c816230a9a777da2de89c297da9ad60e194",
+         "name" : "SPC Education Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJVeO4m1axbTkRzOpGtlIeu8Y",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAST4dTIwGymybFHPcM2B27zfisdl28z93-pEn_oNctkSSZSr7SuzFBDby7RNzQ6rVIGjwXTIe-LHbgacNDobJ5LOUJlSjq202PP4RF3dKOYDG1X-SB1fz4xMdOuYh_UoyEhBrHih4hc815Tt6YHuhtxafGhRGARYghwpZu4bY3Oq7sGoI8Cg8cw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Chandpole Gate, National Highway 11, Pink City, Jaipur,India"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9170204,
+               "lng" : 75.81696509999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9183693802915,
+                  "lng" : 75.81831408029149
+               },
+               "southwest" : {
+                  "lat" : 26.9156714197085,
+                  "lng" : 75.81561611970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "69fb2af8d719edaee68fbac283b83205469f5a38",
+         "name" : "student",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103038099522563042972/photos\"\u003estudent\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARa3rUqLyd21Yb9I9ziS1L5heF2YX3hmqgrVk-fnfw_ebkxtcr66cL_K6gzpSTCEeUMU00wPYebGybuSEy-A7H2TZtAjTtGYD9qR_QD8vFqhnXdjeQPH_BydZUnXvUlCEEhCkM9ptnfy2FwuxelNUooltGhSH92WzVhIv4preL_VuDyNxXywu9A",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJwbAghgu0bTkRHUBKVbZpxy0",
+         "reference" : "CmRRAAAAScQbtyP8stagl-ifDnkDGo1nSAKbXkmOMDOuQd53hQfhVT62Fmz-W_W1Y337Ev99DfP3xbWpU8Gta2s9nBQFS8Q6tUG-UMroEOLZ0hMlZ21kKO7pZDSgt08a6JCjeQt3EhBvmOB3Mfdaxm7vj5fa1MgrGhRIl0u5sMU7g6BqNK3v7Q0pnYIaEA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "21, Link Road, Jayanti Market, Nehru Bazar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9204235,
+               "lng" : 75.8156769
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9217724802915,
+                  "lng" : 75.81702588029151
+               },
+               "southwest" : {
+                  "lat" : 26.9190745197085,
+                  "lng" : 75.81432791970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "5d947e353b9524fc6bd145c6ec3e6febe1493d1d",
+         "name" : "The Santa Kidz",
+         "place_id" : "ChIJGyDwKa22bTkRbo9Q91lrAFQ",
+         "reference" : "CmRRAAAAb-uC2wqv6nP865L_iOnZUrGwd3RZMBfhuc9nA1mxwcnA2nKUoTFOm0qG1SB4wN6BxKS_QYpRhwxHmUDRiQxsyakTKkZMq5nol9o5M5Dv5qwu_MM-99nEJEwAyedTKlFSEhBFpSR8hlkkazpZluE0710wGhTFyFiuInrNkXG5HEeskjqJL9lmMw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Shwetamber Jain Temple Dadabari (dada vadi), near, Moti Doongri Rd, Adarsh Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.92602,
+               "lng" : 75.81711
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9273689802915,
+                  "lng" : 75.81845898029151
+               },
+               "southwest" : {
+                  "lat" : 26.9246710197085,
+                  "lng" : 75.81576101970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "bf17b3225f17afcf39e53ccaed5285c73993b54e",
+         "name" : "Koda International School",
+         "place_id" : "ChIJs3oCGFKxbTkRlrvqCFgaZz8",
+         "reference" : "CmRRAAAAxHhqZ7RM8T3JMmHK0q69FgP14gltD-d_dVrfNG7weDsr_kRIwIFW5JgcHDxCUCUFxh5txs0T-RWx0nJtZtXfXeSWzVLmll6yAGZJVR6BW6z84jHJJI1pBVefeSUqqud_EhBSIKX1sAtq3Xq6aIs_SNRTGhRLU57loE6A5VxCcycOr-28EHIFqg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Sansar Chandra Road, Nandpuri Market, Sansar Chandra Road, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.92667,
+               "lng" : 75.81518
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9280189802915,
+                  "lng" : 75.81652898029151
+               },
+               "southwest" : {
+                  "lat" : 26.92532101970849,
+                  "lng" : 75.8138310197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "a10e6cf100c9bb1e4058a461b5526283b1ef617c",
+         "name" : "D International School",
+         "place_id" : "ChIJCbjHfVGxbTkR9WHxPbHFbko",
+         "reference" : "CmRRAAAAn5Dgvs0FGcKvWxU3Qc2ldF48NAsQ-xZl-SX7rdXNlGaW2H1zzNTtBB5wMwMQsmzxNq4-29IKsUuSKEyBzP7cXIZbW7J_edWBBo2oT4UqEjW43iGWg54q_BHuQIjzPgcXEhAQWk4fBAiQhIF-gP9E2FqPGhQk5jGnWp74csFt-rPrTjw5ckKU0g",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "390, Govind Rao Ji Ka Rasta, Govind Rao Ji Ka Rasta, Opposite Cotton Bazar, Chandpole Bazar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9150625,
+               "lng" : 75.82431079999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9164336802915,
+                  "lng" : 75.82566183029151
+               },
+               "southwest" : {
+                  "lat" : 26.9137357197085,
+                  "lng" : 75.82296386970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "9f032b5253a4893ab72fd1b5c0c956a58e5aaefa",
+         "name" : "SHRI AGRASEN PUBLIC SCHOOL",
+         "place_id" : "ChIJgSIpTbG2bTkRaYYM8Vu2Q14",
+         "reference" : "CmRRAAAAxLgq-cXtyrm8qQusUKRbNt9tOJMixRUrD5N8oY6ib-Kd4XPU8An8hSqAU7iv1TaBhfKs6IUSAIwC_UwuYPMo4KnYLjMs1VI1VrnrdIaYHlv-RY9MEWrKdXBln65JuYeAEhBlqHVhVeI1tsiITA38guNHGhRAQpaNlM2BE49hs5FM_-2hu_xKOA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Sanganeri Gate Bus Stop, Mirza Ismail Road, Kailash Puri, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9159783,
+               "lng" : 75.8247973
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9173303802915,
+                  "lng" : 75.82613653029149
+               },
+               "southwest" : {
+                  "lat" : 26.9146324197085,
+                  "lng" : 75.82343856970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "7f056712c07bff8bd187021af865db2dd9cdcf5a",
+         "name" : "Shri Agrasen Public School",
+         "place_id" : "ChIJpR_eqba2bTkR9SHdnfcyuZQ",
+         "reference" : "CmRSAAAAPm2Ts6tYl9YNU-2RG9XESSd1PkVFb1-FQaQumRmpmDrbE1fl0Sa-H3bLsI2iFZ157dbuM84OU426ZlHymLL946UPzzuCHQ9waI03JlAU8lzo5BSZkc5XZtKCP0scqeyWEhC3Xj2UyBpI4pFQkm4VaVyTGhSItu1Owpgd39uGWd8hw1DLGkpP5w",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Johari Bazar Road, Fateh Tibba, Sanganer, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9127821,
+               "lng" : 75.8090131
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9141310802915,
+                  "lng" : 75.81036208029151
+               },
+               "southwest" : {
+                  "lat" : 26.9114331197085,
+                  "lng" : 75.80766411970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "509d177b23d98ce00b3bca216c587065906c61d8",
+         "name" : "St Xaviers School",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113138118255396758788/photos\"\u003eManoj Tiwari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXtxaPQdfl-aF5tBlhIY2x02XRI_HiGQnZ_aoW4O0gyACpNeo8JZGRHQ58gV2kqJgS8K3pWUnUeNmxQmKyP7rwN4ivMVOYu_SSu8qowua0RJ2tK8G_B4RRTKWnibuDqF2EhDqmmE-D-G8e0mAsZJdt_RgGhTJcIuGL-iW2hZxfhbmrRpc4TnbKQ",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJg_XaSqq2bTkRleGWgklZxRU",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAXmntlRecvl0HX15mR5jKcUWqp0Ie9E7TGMN-0-S-7iM92ZZWtOxgzaYRV9JcYewKmcgT4QouqNR9SRQm7gCABIQaG3PQEMHuLjWxdEE24ZVniTRrx2j4J31Tg6B6Ox4WEhBMctznxZfYsRNrLNsIHqPmGhRiMiM0FXdGDWoEd34SROoKP-z6xQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Bhagwan Das Road, C-Scheme, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9227634,
+               "lng" : 75.8087342
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9241039302915,
+                  "lng" : 75.8101227302915
+               },
+               "southwest" : {
+                  "lat" : 26.9214059697085,
+                  "lng" : 75.80742476970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "81acf0b23a7dc43371e506c3569470fa903d053e",
+         "name" : "Smile Kids Academy School-Gulab Bal Secondary School",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJSd9GCVWxbTkRXW5kpabFqVY",
+         "reference" : "CmRRAAAAHs2q1IfyOkHLrpxYO071E11nz4jiSn-xvgGhs94MpxCzEWuWkkVmv0voaeM81jIo9sN9f2dx00JdPhxbosaQdFqYzeroSFfrLeV-vJbxTwmPNZw55Pg4iiwQxkxb5YC8EhBugwdxUVPdlMjQWZX9aeF6GhSSk8uOaqC_QQDcbfACMshrBILZAA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Chand Pole Bazar, Topkhane Ka Rasta, Jalupura, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9132767,
+               "lng" : 75.8083797
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9146256802915,
+                  "lng" : 75.80972868029151
+               },
+               "southwest" : {
+                  "lat" : 26.91192771970849,
+                  "lng" : 75.80703071970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "71c91802e4ecc58b323bbff4fcb57062f3c51f33",
+         "name" : "Saint Soldier Public School",
+         "place_id" : "ChIJsTBSk6m2bTkROb-znsUQJcI",
+         "rating" : 2.5,
+         "reference" : "CmRSAAAAAAh1MeSor6YccOsN5TlD9Zq8DorBVob_x5pbQ3UwJbcX8xqStbifL2N64QFC2e6ploNiYgEjwgLy3q632_stTzk75YHXjBTLnm_eXmOnho-ssC2YrKIltUvZ8Seny6gsEhDBslN9TAHzpklGdHInnojMGhScfkyG_GJReigKmqcdb-BeM0UUgA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "31, Bhagwan Das Road, C-Scheme, Bhagwan Das Road, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9261065,
+               "lng" : 75.8117063
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9274320302915,
+                  "lng" : 75.81304883029151
+               },
+               "southwest" : {
+                  "lat" : 26.9247340697085,
+                  "lng" : 75.8103508697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "b1e7bd7f13687603a819692233be9fdf1a45bd9c",
+         "name" : "SITM Play School Head office",
+         "place_id" : "ChIJqU3qHVSxbTkRIiqc_2Av648",
+         "reference" : "CmRSAAAALm_rFSeu1vQiG48_inMNqGMiVCqYFIdJcIYwGjV1pGePW66bUiRdVi8ynLc7AtIzsiGTF4s5uU9eVOg4IH0fcG0kcDD_DmpblaYwdVcJBipu9O8IdOBpzmCWNVa7F69QEhC05HL3ozGYx2JkQMKf3OfiGhQ5dOYJo-DfyvOSwLI_5N6LZ74yzQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Chandpol Bazar Road, Pink City, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9185434,
+               "lng" : 75.8268265
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9199356802915,
+                  "lng" : 75.82818903029151
+               },
+               "southwest" : {
+                  "lat" : 26.9172377197085,
+                  "lng" : 75.82549106970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "064786ec9f40a24006c0a456d51a15d965a2286a",
+         "name" : "Acharya Bhikshu Public School",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJz_hmUbS2bTkR7lXr34fjELk",
+         "reference" : "CmRSAAAAq2sraw4IUCsI-J8QPJnSstTHLphWgc4sJ_OmJxIgNLxIjhS_4zNDCph5f1nGjMHo0ETTlKVurMX31M-z1fkpqQGYkf4QLEWb0ofSSP2ljsPO69Psryoiet6cxjCqtD-cEhDpcbsIEO4IWSRg3ULHViTvGhQmNiLiP-ILihfL5VIdY1oqfxakjQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "MSB Ka Rasta, Johari Bazar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

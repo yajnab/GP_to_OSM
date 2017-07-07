@@ -1,0 +1,218 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9170204,
+               "lng" : 75.81696509999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9183693802915,
+                  "lng" : 75.81831408029149
+               },
+               "southwest" : {
+                  "lat" : 26.9156714197085,
+                  "lng" : 75.81561611970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "be1d6a8d8c96bf7b13a2a105a298791faf8f7325",
+         "name" : "Rajasthan University Of Health Sciences",
+         "place_id" : "ChIJKXwKvq22bTkRRsu5LbHnTlU",
+         "reference" : "CmRRAAAAgbDaehaTuLqmyA9HCCWmeZum7md7RjDPq0QW6jQvrOzigqJxfZBpr8pZDr6YUh0luPRIm_D3rBb1Z1AGU85RN4DGNbqnyBMOhVgd76BobYHlyaNAC7XB63FEdhuMKyeYEhBFGjOlWjLqt2FYm_OnHGs8GhQ_8jBl3Zv7Oett6PRIKW8AcRq29w",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "B-1 C Scheme Sawai, Ram Singh Road, Ram Singh Road, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9209152,
+               "lng" : 75.8178504
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9222641802915,
+                  "lng" : 75.81919938029149
+               },
+               "southwest" : {
+                  "lat" : 26.9195662197085,
+                  "lng" : 75.81650141970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "a46b6df59030eb30ee56703df9764f5e47e3f3f5",
+         "name" : "Rajasthan School of Arts",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112449809888061334158/photos\"\u003eNarender Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_xpV1tGD1kauIbds0lyA1-EJS2lGULgzOXX5XXqee3rkVud0TL7kmTWpQUxwum8l0dlX-VHochsuSe9eW9jNr68RYGVnJNyw6On_Fxhr_FC9jJh8WETTXmoXDCbw8QeaEhDYeYlAHJ8JroX8nH3zxTK0GhQz1HvFYxX7CGHrOf5Phn2FbKDB1Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJqcBvTa22bTkRccBDKSZwX78",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAAkSiH-Y8NLHdl2nKMwHfVI_WT-69m6eD5-AG5Sax--YfYF2Pz7xsXUT_XH596AecrkZpOSVEDAojNqhjpjaUYea3XObiXXvAXgA3LC5e3QHbNZXUT5wF-jtTRZcL-nLZfEhAJvmScHcPT8FTt9UydQxE6GhQlPwIUa6IislB8scPgr2FNSS0Y7g",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Kishanpole Bazar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9135089,
+               "lng" : 75.82749459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9148578802915,
+                  "lng" : 75.8288435802915
+               },
+               "southwest" : {
+                  "lat" : 26.91215991970849,
+                  "lng" : 75.82614561970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "3230ff298a5ba87f43aa125aac04523fb6c63f4e",
+         "name" : "Agarwal College",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112034066327395104246/photos\"\u003eManish\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWWF2C-By1SWp5nm68sp-7fSUsNCEfzhPh7kKd8SNCXKJoZ9KKvM5QzSCwSlr5i5YZ4sY_RdWXGJMRC_VpaBXDwSCyATZFw0bzsZsal564zRogwjmjleWZSRqpG1_7aCgEhCRFAtUvoAVI6iPz84JU-NJGhTbsU9wYDmE0ojST4O8sTapPCw2pA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJP8DvVLa2bTkRvULzBPXqG7k",
+         "rating" : 3.6,
+         "reference" : "CmRSAAAAcbLM1-_EQlQvW2GR3RvtmpQLDjFC4-eWOREgJZJWtAY56VPxV_E7VxGAL7bKBEW_79MMxZ07B7_4-7FIybLhmt0xJrI8eysMecrmw234Ta2xwYiSE7qmkj3ghmGkoXCMEhAV6L9v6D3HCrbAy3ut1ZEbGhQkGLcR0MoVBR0RgxKG3QyLw83uxA",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Fateh Tibba, Adarsh Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9177161,
+               "lng" : 75.81377909999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9185864802915,
+                  "lng" : 75.81515548029149
+               },
+               "southwest" : {
+                  "lat" : 26.9158885197085,
+                  "lng" : 75.81245751970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "7075af606f0cf53f183eac4b1e897b3b1f83b645",
+         "name" : "Nilesh Mack Editing Institute",
+         "place_id" : "ChIJAe8EYqy2bTkR5jrEeXdB0hY",
+         "reference" : "CmRRAAAADRYc8XufQ2UWc2VQMJvkklvQVXCW1_uKpeP0E2S0fnfPFR9NKcvcZgh40wzTO_icqmnpj1LJrbClKWFOVI8wlYB2XSdLiqi-3fejcB-Ui4WP2KQy_m2G9txaffJdu11tEhDsqqbykn_UY-uz7VbD8k6KGhQDe5aF_Lg6EMxJpZggvJ-CeRlJ7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "S-8, 3rd Floor, Mirza Ismail Road, Jayanti Market, New Colony, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9239589,
+               "lng" : 75.8200604
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9253117802915,
+                  "lng" : 75.8213894802915
+               },
+               "southwest" : {
+                  "lat" : 26.92261381970849,
+                  "lng" : 75.81869151970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f28c3880ad402238ecfd59a7bd23f6cdcd00d798",
+         "name" : "Sri Digambar Jain Acharya Sanskrit Mahavidyalay",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ220hC02xbTkRdRZwmxJqR1g",
+         "reference" : "CmRRAAAAw8eBnz4mgkuw_zbIAtj2eAd4EteM5jxWkWz1_gue1PF84Vi_rJEnNrgCEDTuDjL88ztjsxSluVdmX5RNEbN2I2s6AEfXnvlxEnMVii1JQiU3y7dYE4pVdgqwfCm1qBklEhDqi-cGx66lUozEfDJ-xJL2GhSpN3_SnZncg4BgvLPBLOwbyp6A7A",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "66, Maniharo Ka Rasta, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.921135,
+               "lng" : 75.80313699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9224839802915,
+                  "lng" : 75.8044859802915
+               },
+               "southwest" : {
+                  "lat" : 26.9197860197085,
+                  "lng" : 75.80178801970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "1a5d877d884bec0d2c8b0c69531c6b52eb176165",
+         "name" : "JNU Tirupati Study Centre",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJwYf6Ev-zbTkR0GqHegtLhNA",
+         "reference" : "CmRSAAAAJsaD7THmOnE4pNHzR5R93Yano6_aBkGCkGEYIy3OF4CqAW94zdulbIdyH-kKVpAxnuHD6A7yucOs9HVsfgcOcv4VnS1tSzybjYvCMvUGvmVYBEGWCtF1rYOreb263t31EhB1ocGCNdE19_KycOCBxMD_GhRzPMh36BNeSWLkfAguivCX8f8HyA",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "3rd Floor, Tirupati Tower, Sansarchand Road Opp Amber Tower, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9139597,
+               "lng" : 75.827793
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.9153005802915,
+                  "lng" : 75.82912408029149
+               },
+               "southwest" : {
+                  "lat" : 26.9126026197085,
+                  "lng" : 75.82642611970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "84bde91d0f1f9a244fb0f36a7571beee51512e89",
+         "name" : "Agarwal Education Campus and Administrative Office",
+         "place_id" : "ChIJE4_TULa2bTkRlMBT8Z28xHA",
+         "reference" : "CmRbAAAAGVThQ75JLas8JudRPos862buDqGzAqkTvl-A8kgXm2BsRkqPkKc9whL8OJ_xbGAc4oulqeCDl3itmfKl2Llztsw2ePUTMg6fLCSWcV9uIWW2fvqspQQA0DFOn5ZcbhF7EhAOtdh57WVRavT9t2Bm83C6GhSo4XcmLhYDygkppGGYIpxFk6V0og",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "premise", "point_of_interest", "establishment" ],
+         "vicinity" : "Central Jail"
+      }
+   ],
+   "status" : "OK"
+}
