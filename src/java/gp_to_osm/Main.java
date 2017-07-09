@@ -25,15 +25,15 @@ public class Main {
       try{
           
           String JSON_FILE="hospital.txt";
-          InputStream fis = new FileInputStream(JSON_FILE);
-		
+          InputStream fis = new FileInputStream(JSON_FILE);		
 	//create JsonReader object
-	JsonReader reader = Json.createReader(fis);        
-
-         JsonObject jobj = reader.readObject();
+	JsonReader reader = Json.createReader(fis);
+        JsonObject jobj = reader.readObject();
          //JsonObject jobjS = jobj.getJsonObject("results");
          JsonArray res = (JsonArray) jobj.get("results");
          
+        randn randnum = (new randn()); //Call randum number generating class      
+        
         try{
          for(int i=0; i< res.size();i++){
                  JsonObject geo = res.getJsonObject(i);
