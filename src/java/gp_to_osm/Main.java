@@ -6,11 +6,11 @@
 package gp_to_osm;
 
 import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.net.URL;
-import javax.json.Json;
-import javax.json.JsonObject;
-import javax.json.JsonReader;
+import java.util.Iterator;
+import javax.json.*;
 
 /**
  *
@@ -21,28 +21,33 @@ public class Main {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-      try {
+    public static void main(String[] args) throws FileNotFoundException {
+      
           
-          String JSON_FILE="employee.txt";
+          String JSON_FILE="hospital.txt";
           InputStream fis = new FileInputStream(JSON_FILE);
 		
 	//create JsonReader object
 	JsonReader reader = Json.createReader(fis);        
 
          JsonObject jobj = reader.readObject();
-         System.out.println("ID: " +
-            jobj.getInt("id"));
-         System.out.println("Elapsed " + jobj.getString
-                           ("name"));                            
-         System.out.println("Permanent: " +
-            jobj.getBoolean("permanent"));
-         JsonObject jobjS = jobj.getJsonObject("address");
-         System.out.println(jobjS.getString("street"));
-      } catch (Exception ex) {
-         System.out.println(ex);
-      }
+         //JsonObject jobjS = jobj.getJsonObject("results");
+         JsonArray res = (JsonArray) jobj.get("results");
+         
+        // try{
+         for(int i=0; i< res.size();i++){
+                 JsonObject geo = res.getJsonObject(i);
+                 JsonObject geoloc = geo.getJsonObject("geometry").getJsonObject("location");
+                 JsonNumber lat = geoloc.getJsonNumber("lat");
+                 JsonNumber lng = geoloc.getJsonNumber("lng");
+                 System.out.println("lat: " + lat +"\t lng : " + lng);
+             }
+         //}
+         //catch(Exception e){
+          //   System.err.println("Error here" + e);
+         //}
+      } 
    }
     
     
-}
+
