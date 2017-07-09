@@ -32,15 +32,14 @@ public class Main {
          //JsonObject jobjS = jobj.getJsonObject("results");
          JsonArray res = (JsonArray) jobj.get("results");
          
-        randn randnum = (new randn()); //Call randum number generating class      
-        
-        try{
+       try{
          for(int i=0; i< res.size();i++){
                  JsonObject geo = res.getJsonObject(i);
                  JsonObject geoloc = geo.getJsonObject("geometry").getJsonObject("location");
                  JsonNumber lat = geoloc.getJsonNumber("lat");
                  JsonNumber lng = geoloc.getJsonNumber("lng");
-                 System.out.println("lat: " + lat +"\t lng : " + lng);
+                 osmgen og = new osmgen();
+                 og.osmgenerator(lat, lng);
              }
          }
          catch(Exception e){
