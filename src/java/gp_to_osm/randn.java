@@ -8,11 +8,11 @@ package gp_to_osm;
  *
  * @author Yajnavalkya Bandyopadhyay
  */
-public class randn {
-    public long num(){
+public class randn {   
+    public long numbera(){
         long minimum = 1000000;
         long maximum = 9999999;
-        long num = minimum + (int)(Math.random() * maximum); 
-        return num;
+        long numbaa = minimum + (int)(Math.random() * maximum); 
+        return numbaa;
     }
 }
