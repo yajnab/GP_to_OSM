@@ -23,8 +23,10 @@ public class Main {
      */
     public static void main(String[] args){
       try{
-          
-          String JSON_FILE="hospital.txt";
+          String[] file = {"hospital", "restaurants", "museum", "bank", "atm", "movie", "mosque", 
+              "hindu_temple", "church", "school", "university", "store", "gym", "doctor"};
+          for(int it=0;it<file.length;it++){
+          String JSON_FILE=file[it]+".txt";
           InputStream fis = new FileInputStream(JSON_FILE);		
 	//create JsonReader object
 	JsonReader reader = Json.createReader(fis);
@@ -39,17 +41,18 @@ public class Main {
                  JsonNumber lat = geoloc.getJsonNumber("lat");
                  JsonNumber lng = geoloc.getJsonNumber("lng");
                  osmgen og = new osmgen();
-                 og.osmgenerator(lat, lng);
+                 og.osmgenerator(lat, lng, file[it]);
              }
          }
          catch(Exception e){
              System.err.println(e);
          }
-      }
+      }}
       catch(FileNotFoundException ex){
           System.err.println(ex);
       }
    }
+    
 }
     
     
