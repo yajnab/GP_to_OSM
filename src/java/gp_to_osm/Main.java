@@ -21,8 +21,8 @@ public class Main {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) throws FileNotFoundException {
-      
+    public static void main(String[] args){
+      try{
           
           String JSON_FILE="hospital.txt";
           InputStream fis = new FileInputStream(JSON_FILE);
@@ -34,7 +34,7 @@ public class Main {
          //JsonObject jobjS = jobj.getJsonObject("results");
          JsonArray res = (JsonArray) jobj.get("results");
          
-        // try{
+        try{
          for(int i=0; i< res.size();i++){
                  JsonObject geo = res.getJsonObject(i);
                  JsonObject geoloc = geo.getJsonObject("geometry").getJsonObject("location");
@@ -42,12 +42,16 @@ public class Main {
                  JsonNumber lng = geoloc.getJsonNumber("lng");
                  System.out.println("lat: " + lat +"\t lng : " + lng);
              }
-         //}
-         //catch(Exception e){
-          //   System.err.println("Error here" + e);
-         //}
-      } 
+         }
+         catch(Exception e){
+             System.err.println(e);
+         }
+      }
+      catch(FileNotFoundException ex){
+          System.err.println(ex);
+      }
    }
+}
     
     
 
