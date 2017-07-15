@@ -13,9 +13,9 @@ import java.io.*;
  * @author Yajnavalkya Bandyopadhyay
  */
 public class jsongen {
-    public static void main(String[] args) throws Exception {
+    public void download() throws Exception {
     
-        URL jeesan = new URL("https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=26.917917,75.816138&radius=1500&type=restaurant&key=AIzaSyBzuBcuQtBqxwNFG36lOAZeNnLiSx-M7do");
+        /*URL jeesan = new URL("https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=26.917917,75.816138&radius=1500&type=restaurant&key=AIzaSyBzuBcuQtBqxwNFG36lOAZeNnLiSx-M7do");
         BufferedReader in = new BufferedReader(new InputStreamReader(jeesan.openStream()));
 
         OutputStream os = new FileOutputStream("restaurant.txt");
@@ -25,6 +25,26 @@ public class jsongen {
         while ((inputLine = in.readLine()) != null)
             System.out.println(inputLine);
         in.close();
-    } 
+    }*/ 
+        OutputStream out = new FileOutputStream("test.txt");
+        URL url = new URL("https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=26.917917,75.816138&radius=1500&type=restaurant&key=AIzaSyBzuBcuQtBqxwNFG36lOAZeNnLiSx-M7do");
+        URLConnection conn = url.openConnection();
+        conn.connect();
+        InputStream is = conn.getInputStream();
 
+        copy(is, out);
+        is.close();
+        out.close();
+    }
+
+    private static void copy(InputStream from, OutputStream to) throws IOException {
+        byte[] buffer = new byte[4096];
+        while (true) {
+            int numBytes = from.read(buffer);
+            if (numBytes == -1) {
+                break;
+            }
+            to.write(buffer, 0, numBytes);
+        }
+    }
 }
