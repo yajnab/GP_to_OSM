@@ -19,14 +19,19 @@ public class Ltlggrid {
         double y1 = 75.8003, y2= 75.8254;
         double xs = (x2-x1)/4;
         double ys = (y2-y1)/4;
+        String grid[][] = new String[2][2];
         /*
         We Only need middle square of 9 grid
         */
         for(int i=1;i<3;i++){
             for(int j=1;j<3;j++){
+                String b = (x1+i*xs)+","+(y1+j*ys);
                 System.out.println((x1+i*xs)+","+(y1+j*ys));
+                grid[i-1][j-1]=b;
             }
         }
+        linkgen lg = new linkgen();
+        lg.ligen(grid);
     }
     
 }
