@@ -38,6 +38,7 @@ public class Main {
                 break;
             case 3:
                 ltd.d_gen();
+                break;
             default:
                 jg.download();
                 break;
