@@ -1,0 +1,404 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8616171,
+               "lng" : 75.8065915
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.86296608029151,
+                  "lng" : 75.80794048029151
+               },
+               "southwest" : {
+                  "lat" : 26.8602681197085,
+                  "lng" : 75.8052425197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "995793d21c1aacfffadebadc0619115c6c4ec594",
+         "name" : "Dr Vivek Jain",
+         "place_id" : "ChIJQQkSBti1bTkRl0LW9HPsRk4",
+         "reference" : "CmRRAAAAZgmGyKSL8k9krkOyb_0riJrWPdj--eyVSD683Y6qU64n2Jpp43_V39bfplfAnsWyAqPbHpifMhfaSXCU5kXIh-z-_84mECohl63xgpC76MvZ_Qrbku4eU4-gOp1DX5mBEhA3YF31D3uEhUDGO7OGEgpiGhTgehw9f83Bqo3W1Z5eEKL48PS3rA",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "SMS Hospital, Jawahar Lal Nehru Marg, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.859258,
+               "lng" : 75.808762
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8606069802915,
+                  "lng" : 75.81011098029151
+               },
+               "southwest" : {
+                  "lat" : 26.8579090197085,
+                  "lng" : 75.80741301970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a20940f99b241aafffbf19f3239635b2c36b0115",
+         "name" : "FACE KRAFT Dental Implant Clinic",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113891659972297146281/photos\"\u003eFACE KRAFT Dental Implant Clinic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6pG3SHkSFbGZ2SmMx_9hF4GAH23CK-F2oZWBaxdcBiBC7pwDTjlH3cTPb1VJOjm4n7U-7kqAaz6kG-n98Fd6f01cG9ldn22QqAjAMoXpYcK9JSniNj6McmxPbcc5OVbTEhAdLFUiC6JCyjfI-ae2_7pHGhQLHcuh9sD-oBYlV6Z80vE88MNXZA",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJWwXTS3a2bTkRchcrTaA1rl8",
+         "rating" : 5,
+         "reference" : "CmRRAAAAE2aD2VVqXCOgUSuppQQa5tfOxBvXdJvo-QHKCW8L2aa4IUsP1UN80UfY87AVkGlVu0tpw9Dt4he-rYY1noMbJn3spMvo1CvS8ElaYD8PBjf5zNeLCjRYz-u1tF51kerFEhBMOtbIwyVvTrjU6LXjnT7sGhTPOZWxgMWuKyTnSby1kB3ABVbs7Q",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "202,2nd Floor, SDC Vinay Building, Above Brown Sugar,Opp. Bharat Petrol Pumpnd, Main Calgari Road, Mauji Colony, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8616087,
+               "lng" : 75.8066321
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8629576802915,
+                  "lng" : 75.80798108029151
+               },
+               "southwest" : {
+                  "lat" : 26.8602597197085,
+                  "lng" : 75.80528311970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "206f2210eaa8dc8e31aa69178b7cd490c8ee0a00",
+         "name" : "Mehta S R",
+         "place_id" : "ChIJQQkSBti1bTkR7eP2j2Apg1c",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAmXZPUnYIfighqqHzcaz0C2ZePeR5iWexlsGyKv109jxHLKmTcMDAsgJk0a3XhRbMXcWhEy1Sf2ManqPGmJkL-EQePMTUTD8d8rFeLC6phcVFa0C0UW_sserXTQnJ7gpFEhDUB2F22pd7W7FJHCccwYbpGhRreKb8aYg09yWJKEM_iopZ51yMfA",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "16, Ganesh Colony, Jawahar Lal, Nehru Marg, Nehru Marg, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.86331899999999,
+               "lng" : 75.806485
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8646679802915,
+                  "lng" : 75.80783398029151
+               },
+               "southwest" : {
+                  "lat" : 26.86197001970849,
+                  "lng" : 75.8051360197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b1770cbc004af70d222121419b4e90d3f33257cd",
+         "name" : "Dr. Tej Prakash Soni - Oncologist",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103904885704447616221/photos\"\u003eDr. Tej Prakash Soni - Oncologist\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAelkAieYlw7f-2tVDjPykgVObKIL2-1DSrpAwdbWf67opWZ9h5ZPOuV7MXt8D5B5Ho_fstDJslehvGI6EDdJrIIaDGF9HaY7HMYekFAg5gEPIyNTLBGPoCV4o3yUyeV_gEhBZWcyIHcAnaec4ieQJOr4mGhQdSjPF5MVO5ZzPsfekNEMro6HCVw",
+               "width" : 250
+            }
+         ],
+         "place_id" : "ChIJPWgc5Ne1bTkRGvzEMyOJmEE",
+         "rating" : 5,
+         "reference" : "CmRRAAAAn_oRPs-jS5gtrmMbUC_I4zP7hjTVfjycNR42OmnGyJaxrWpPVFgLOvJ7lEfNsCJWnRn2uMiSsqulJwcanIug9LUYlfpRRWo4V2aXWp-LTP3wU2Wp_aZQMz2DPGsTeAf5EhBp-Pp6zGb3ZycfQPc95d5bGhSEAX6lAbdG6RWXS1dkrYW6LSacDA",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Bhagwan Mahaveer Cancer Hospital & Research Centre, Jawahar Lal Nehru Marg, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.859317,
+               "lng" : 75.808396
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8606659802915,
+                  "lng" : 75.8097449802915
+               },
+               "southwest" : {
+                  "lat" : 26.85796801970849,
+                  "lng" : 75.80704701970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e8f703345515850a7802beeac425d3cad5bb8ab8",
+         "name" : "P G STONE UROLOGY CLINIC& LITHOTRIPSY CENTRE",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1127,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103149958564683215212/photos\"\u003eP G STONE UROLOGY CLINIC&amp; LITHOTRIPSY CENTRE\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdLrSFtY9ExTUcyGuSy2BrnYwFSR6rfOD-m_rJRRZL8MeYYQrYvEHmT4HrTlTJU-E6i7Fb6lDmErPUJGMgTZ3qRmVSxGfdKreUCT8f2lnq5o9WVrqmPFSYLpXFWraVNrJEhDeorMm5B7dQakYsNAqnOQpGhR97ZVLJ8QsZ2HNDtOHhgU8Ya_mxA",
+               "width" : 2002
+            }
+         ],
+         "place_id" : "ChIJWTJySna2bTkRO8gH9RpQzT0",
+         "rating" : 5,
+         "reference" : "CmRRAAAAtu3itealQVPtYsp4Bn5NlcTeVay5oPIFhG3AmAK4ny790rgwBtTys6hC0n-cio4pI-NgHTpMux56fOctty0qQnHjRmD8dJhS9bUpewvaoDl8tPTiKibsFVS4afNKlkGXEhCp3DMlULECDWxM9TY1cxOfGhS7cTn15iO1WV8wFOdarfnL0axgYA",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Calgeri Marg, Mauji Colony,, Moji Nagar, Malviya Nagar,, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8581914,
+               "lng" : 75.8083137
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8595848802915,
+                  "lng" : 75.8096839302915
+               },
+               "southwest" : {
+                  "lat" : 26.8568869197085,
+                  "lng" : 75.80698596970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9c237b3096efab016631148db34bc3dbf84db620",
+         "name" : "Dr.SushilKalra's Clinic",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJI_PtP3a2bTkRIiB8A6Eg8nI",
+         "rating" : 5,
+         "reference" : "CmRRAAAAY6vbw89p4EUvQ_dxy8li3oO9Ll6daInIHGcBJjWlSb9QZIna9b0dzpbkvhP6bMoEdtQIxtFESleFdqG6fpx1BU0b6DOpo7toMey9OblWhWm0wcpKWhAvJpJHxPdxT_YbEhBCMEdNxmXhG0JMHXOJZVbkGhTT70w3PsX05A3uktJpyOHgUEtSdg",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "61, Lumbar Marg, E-Block, Moji Nagar, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8582778,
+               "lng" : 75.8090222
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8596293802915,
+                  "lng" : 75.81036258029151
+               },
+               "southwest" : {
+                  "lat" : 26.85693141970849,
+                  "lng" : 75.8076646197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "96293352f83338ac704a7cfef2d248fe1ab8065d",
+         "name" : "Dr. Rakesh Bhargava",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJBbC4Qna2bTkRW3mHJyCDEHo",
+         "reference" : "CmRRAAAAcAAFFMtcYsOR-if04WTFyB9awO486uZbSGkJnIbokysDIeNS-YapHV4OrlCJ_vkkMbrpIPCI8pwWRC247Jjn2UPw02adenFxOtazEI-cCFroX-EOuZnYq9d2KZVpQOYnEhBlKD_BZAliOlUhxkhble2eGhQgUUK7PcHVKITPiLlMpRp3C7_dBg",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "47, Pradhan Marg, Moji Nagar, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8577718,
+               "lng" : 75.80886
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8591107802915,
+                  "lng" : 75.8102424302915
+               },
+               "southwest" : {
+                  "lat" : 26.8564128197085,
+                  "lng" : 75.80754446970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "36f82d4b7192e50b11abd43d33e4e4e469d997aa",
+         "name" : "Dr. V D Sinha Clinic",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ0eLPbna2bTkRBGMumocd7q4",
+         "rating" : 4,
+         "reference" : "CmRSAAAAQRRtBCDenklodW7LpbUl1pNBoI6q050igv59fEwTsCvQ10QBeQi41GdGPH9D6EkJJXQXP3msI8-7W_QEkfvLEG1lyEOOT0nPxrZKEoGMa3v0Bo7FVbbs9_FMhe6N8yjEEhBsepeffxxyrO9xkXzTqQc4GhSBXXWRGXx5M-rJbZnFKNP52ltSRA",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "53, Pradhan Marg, Gem Enclave, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.857503,
+               "lng" : 75.808497
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8588519802915,
+                  "lng" : 75.80984598029151
+               },
+               "southwest" : {
+                  "lat" : 26.85615401970849,
+                  "lng" : 75.80714801970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b34add28c1b4e2f2770797a2458ccc220d63e6f8",
+         "name" : "Dr Manju Bansal",
+         "place_id" : "ChIJywXnUgu2bTkRFt8YyqhQbZc",
+         "reference" : "CmRSAAAAkqc4kFybLKZBXeOWX9FX1Dk7_SE-YqmhXd30EcOPy7Ti3Nk8VhTdMm8a6WVqh2kmfrOZbfdeLR1sH4p3ZIG479YQP8IccaSKl3hdfFBd5d6Lzb0bcng7KZzMqEBzn8OzEhBA-r-PXpiZqJmOU6W1SmzEGhTEWc8zQHZxgCmv6oe9IU0FhzkNJQ",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "E-2, Pradhan Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8648843,
+               "lng" : 75.8040022
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.86623328029151,
+                  "lng" : 75.80535118029151
+               },
+               "southwest" : {
+                  "lat" : 26.8635353197085,
+                  "lng" : 75.80265321970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "460a7a83926611c6f7d59638ee137f0ba7342a7d",
+         "name" : "Khandewal Renu",
+         "place_id" : "ChIJ_____9a1bTkRbmALDu15U9g",
+         "reference" : "CmRSAAAAzvfjuzMZTa1sEm-3WKwrX2AuML_T6c60xtZC9moxbJe6sd-LTi_OmD2u0GfATuHpmqc-Fv3on5MKIRKOFqXoEdHupJOM53dHHfpKdR0capjYbUkXPojlTMehPZFG1m6yEhAOPLS3rEVn0LyKwUWdlgumGhQtd1XjdIG1CyE1JL94CVCzF12DiA",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "B-92, Saraswati Marg, Bajaj Nagar, Bajaj Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8648843,
+               "lng" : 75.8040022
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.86623328029151,
+                  "lng" : 75.80535118029151
+               },
+               "southwest" : {
+                  "lat" : 26.8635353197085,
+                  "lng" : 75.80265321970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ece729220ef8bd505fc300f03569d145ad955d59",
+         "name" : "Bhardwaj Dhruv",
+         "place_id" : "ChIJ_____9a1bTkR0QfhMFLVGpE",
+         "reference" : "CmRSAAAAqIjflYF3fLTU3P-9ZdIpQt9UmJpuwfSbjlGss2m1mTKaYEAXEShMSwWSub6f4Uoa4AmMqRC2FjOC4RJAwr4mEmcHQgKizbWIBhahJ0nuSWzY-X_6wiIRBA-w4kAK5NUYEhAo0ux0ujoXNgpbd4Dmr9qQGhSHx-FZxzyABFrKPFUluztc1fctdA",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "B-106, Saraswati Marg, Bajaj Nagar, Bajaj Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8648843,
+               "lng" : 75.8040022
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.86623328029151,
+                  "lng" : 75.80535118029151
+               },
+               "southwest" : {
+                  "lat" : 26.8635353197085,
+                  "lng" : 75.80265321970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3d53fa839e9fa66559e49fa5de206342bafe89ec",
+         "name" : "Gupta Vishwas",
+         "place_id" : "ChIJ_____9a1bTkRitHsCyy5GJE",
+         "reference" : "CmRSAAAADkhNjsdy7WzDfk7dy6V3_0IseYQjYO0gm6rIwJNcPOL2sK8zcS2560XrH12gaOy1JzV3N3xN6jozxh79uJgTV28v-cgm4F16eEE9aLmnQdjjELfP6ie0a35_3Y_zOZgIEhAcyWfuON3Fr-SXJh51n5TEGhQJc3yFT8AT12Xk8B4fce3yMlMYsw",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "B-92, Saraswati Marg, Bajaj Nagar, Bajaj Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8648843,
+               "lng" : 75.8040022
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.86623328029151,
+                  "lng" : 75.80535118029151
+               },
+               "southwest" : {
+                  "lat" : 26.8635353197085,
+                  "lng" : 75.80265321970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "8e535c3af6049dc30d798039de476e10c1d900e1",
+         "name" : "Dr O P Gupta",
+         "place_id" : "ChIJ_____9a1bTkRgR6DJNezbn4",
+         "reference" : "CmRRAAAA73BGNbp9nNroPRCQCK9x5czB0HSNxL-Pye2fOA_VrQ2dVMlgBD6zKXcXnSX4bODUXHWOXGqYVAXgFO41NNkQ45vCivPxMlIu5t_rgRHZ81svp3tHk5XNX71axMpYXkHMEhA8B74ckV4Y8f3eFqEcApOuGhRELOAtmc_4IrQrjpBw_8uQOVIQLw",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "B 59, Pragati Path, Bajaj Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,737 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAgEAAHpRHGPKHylRgq3hl3ipP6jtSuHnmrCp6mtumtiyQqCY5Jn_tWgRCDnaqchl54lr4AY4HaykRCR7qw9j79Zpdw99xflkxcbOe4QjIwb7QwaTUuC1KmvIixACoKN631T_vHkUVHw8oTjkkX-1wZDD5SMTA6y0ASc3k4MM1xEG5w2oGbIIKx2tNnnxly5aRVG2s-1JVZLiaZ3rwvwj_S1drU8P3P0jqIrQFav12HvDl5frfm6mdNzZ_KtnF6xCXAVyORHJYoVYwOyVq7p8kkDAw7Z5JTxh5R5Jl1x6GfMjDADtrv_I-ayrrSujBYuZ8N3UDaaRbnzZi5-rfRXktTezFyOrZI__PsXRqcgZw4ElfQrQEhBTFMWMJ0rBR8FdCACg75NNGhRKAYBNKl-tI5G1B-02bYEApB1E_A",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.856033,
+               "lng" : 75.8070611
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.85738198029151,
+                  "lng" : 75.80841008029151
+               },
+               "southwest" : {
+                  "lat" : 26.8546840197085,
+                  "lng" : 75.80571211970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "cf195288eb21eccebe749fca4a66a897b326ce93",
+         "name" : "Paradise",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108953731263430887062/photos\"\u003eDilip Korwani\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPjSFTSJVy4JVL7DsSfhc5kCEE59OxMayjMVaieAJWZL8S7FPZTi8oKRk_CxwUhDEhhuKrNcMFKgWKDrhLjaq1YlSqoCNn_qC8JSZpu9wjHzs6qBLeSiHhT7zQXzs9ODrEhAYmSAq2D5CC-Y-IGh0nakGGhTfiwokosjT24J9X7WfM7jOljWopw",
+               "width" : 2368
+            }
+         ],
+         "place_id" : "ChIJWxyC5XW2bTkRE8xeeXKuyrc",
+         "reference" : "CmRSAAAAExgBeny0WVI-ORnB1-ur-mYTQmRPRDQG2qY3oe-mEjyFB1thS4Mwy8EYJFGFr8XfnmPJLvTG3-ykHfGzKuMYcRFcEXGhj95CEthfVUJH40jW7vrGrjOdgRVntR3H1o5TEhBByU8JuKSByq8OYV0WxirhGhSRi-9a_xlQhPM8XYLje5lXHVE9dg",
+         "scope" : "GOOGLE",
+         "types" : [ "bakery", "food", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "114, Crystal Court, 114, Crystal Court, Gaurav Tower, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.852412,
+               "lng" : 75.80494200000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8537609802915,
+                  "lng" : 75.80629098029151
+               },
+               "southwest" : {
+                  "lat" : 26.85106301970849,
+                  "lng" : 75.8035930197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "75839f61bdf2eb2a24ed8fa10c0c575b6782b3ef",
+         "name" : "Shoppers Stop",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114316916938236282494/photos\"\u003eShiv Raj Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXlZ7f56IEtC1OAVkB6oKWD_Fk4ufAbE-MG3IEjW3OtEyc09PbHIGWDTBoBkAg7C8UrhB6JRArW6hwxOEw9ApZ-AqdgQ0_vn6MhHwBNYbEfY6ggac5Gnmin1mxgcmXGVKEhAlV0uN3KEsBKNleR0jM-GZGhRC1RHTx8NBKoCkwPvQUywJcsxpLQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJg29A9nW2bTkRVtSH9OsMERs",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAmon-CH12-lVKw5MvapL8nxwXWw8_nBgdq5fvNIxahk6nobrkJxGgyJL8qBQmMroXdpmmxWhsviuaxly5746oDsCe3cgqVRz9UhoORsysK62gwsts43NWLF8AIURZtEOVEhCDtevfMEy5w-olJvmfcjPCGhQn3fFo33AhMx00I998d-MlbP6PHA",
+         "scope" : "GOOGLE",
+         "types" : [ "department_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "South Block, World Trade Park, JLN Marg Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8560136,
+               "lng" : 75.8071027
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8573625802915,
+                  "lng" : 75.80845168029151
+               },
+               "southwest" : {
+                  "lat" : 26.85466461970849,
+                  "lng" : 75.80575371970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "6628052ef2f72b52f9ebe919ee736a8e0562299b",
+         "name" : "Spykar Jeans",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115947789634284029098/photos\"\u003eSpykar Jeans\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5QbsX3yI_7VHq0jelZEOGmBQVpdkNuvIOfKt3nelrFqRxzbUEpdB0qXnXDe0ZQvsAfqsU-As_pTA5goK2Z0r6BAygOo9JWDQMaJQTx9OngbY9EK2zTpOJq4Ofcv4usNvEhD7rdmFFwMwaTSCjv8VjcBvGhQ_R4J0azTlS1Ezwk5zInNOxkgr0w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJEdfH7XW2bTkR_Wb7X8p0oIM",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAeDfjop3k2a_m1KbCYn13YRpAEzbtdiUJaOV_gll0mEAVFmLMh3UIHDnqLIW7UTOEVtYQjwuPZC_etjThepgroTtlL34F4KPkWLQeiNxMBcxir7J8gZVdnxCatu1nZnm5EhACWoqmFvSsdbbTBL6YUVI7GhT7Odr0waBY_GrhMzJcrwNuBvkq0A",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "G-11, Crystal Court, Gaurav Tower Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85725,
+               "lng" : 75.806264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8585989802915,
+                  "lng" : 75.80761298029151
+               },
+               "southwest" : {
+                  "lat" : 26.8559010197085,
+                  "lng" : 75.8049150197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f6b34b3172247e9fe98d7eb0df2adc7e0d49438b",
+         "name" : "iGoods",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 414,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112208037439897792503/photos\"\u003eiGoods\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMBF8Ay6QfMDwR2d-lz1cSguo5ey-HcgaiO_4Yp4uw63FBArdtDXK02rNfGlErnzIA_sZIccZODx62vF4WulGwcRqT70-0ARHOOkEihYuMnkf4k-5YgbI_7uYCUBdIam-EhD6fkPl_pAvkHaatccY3HOXGhSwRuwTaJeZzo34tojvvYZhXR4sCA",
+               "width" : 1535
+            }
+         ],
+         "place_id" : "ChIJnUhCpdi1bTkRKYkWWfzUjjc",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAA_boVKQ52mhSyR9LrWZmQd02zA6n64DfzTn5FkbwyvjugKZnWBfsd2KF-LhTjlrcKYRndg5Hci-xwWnA_WQHEZjCtuZqjwXaWQYHP8CbTx_RCUin3pfZ6L-4Izwg1S7emEhB7dkFDTKIPxFy184_v-bWJGhTKEKTBWMuF01O2gWIEdSyBSlqiGw",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "192, 1st Floor, Jaipur Stock Exchange Ltd Building, JLN Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85534239999999,
+               "lng" : 75.80692909999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8566913802915,
+                  "lng" : 75.8082780802915
+               },
+               "southwest" : {
+                  "lat" : 26.85399341970849,
+                  "lng" : 75.80558011970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "d3388b501202d0fd3db827dcdc4233fcdab9311d",
+         "name" : "Cafe Coffee Day",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106766740926888002803/photos\"\u003eAstha Billore\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgNToX6fPDrqYgZuMXB6BEb7ovETpH8rEhYsVJ9ElGMAdXRObbVIOB3A3OnSOzpmn4teet4_zIGokgavCqarD53lZVxCdTaRpOsojQyAoS60Ix-heSjw6HQ5zerAYKvnzEhDTOk-uxmr4W4Mb9iMLWvvqGhTjTq1enIXY2zP0Q6WzKTpwyZfOLQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ3zhPX9-1bTkRnDeSgJYCaiY",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAKFPJOgcJBOyWa3DYF7wjRhKb7EmMhZdlnXHvqU2yfgWfXnxRjm3vWq0Nz2rXZYURV_eaYoSVVXPiDksyAWgi-4y69ib7k-BG8sZymrVgzlM1XQXBNSFTCgDZc5Wiir6FEhD4dppGvIggF9vamiMKqhFpGhRcPH6nVFXz7FLr-4S8RtJgAbzidA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Inside Gaurav Towers, Jawaharlal Nehru Marg, Malviya Nagar, Beside Anand Fort Mall, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8556594,
+               "lng" : 75.8057955
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8570083802915,
+                  "lng" : 75.80714448029151
+               },
+               "southwest" : {
+                  "lat" : 26.8543104197085,
+                  "lng" : 75.80444651970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2df00538755b77ab669023a27de947952851f0bf",
+         "name" : "Porsche",
+         "place_id" : "ChIJ9eEFRt-1bTkRBU9c3X1o0ls",
+         "rating" : 3,
+         "reference" : "CmRRAAAAn3iaW4c9fyLK_P3ctRF6KLk9c_227QrQgOgrosX2uGwfCX-vhoAw-NhnXO-DSvEQMs-24lj-SBAbT61Zc21w0T7TW5O2NF4gDRKOyiTRcDp4UtwFP1FzRyN9347Ywz0XEhBetHnozjoKa2sNpA7giEzvGhRrrkCIJn0bLb2GRV3ahDqdbql_5A",
+         "scope" : "GOOGLE",
+         "types" : [ "car_dealer", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Siddharth Nagar, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8557139,
+               "lng" : 75.80604129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8570628802915,
+                  "lng" : 75.8073902802915
+               },
+               "southwest" : {
+                  "lat" : 26.85436491970849,
+                  "lng" : 75.80469231970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "27811469adedd8786105f6978d84ca78c6e48acb",
+         "name" : "Jaguar Amp Motors",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 430,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109539463460228151282/photos\"\u003eSunny Dhir\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjH050hRhRRW-fw9QV6H8EQVw2lmRaEvi6NOwY8PSwPQEJQNbwZ2nVBpTV1AORJ0s8HuXW-XRKddhgv1G1Y3Lgfs2Blbm0K8IC9N08abvmzg6IvF3xvSH2KxaIrRZITWbEhCaup4jUJav-n2NeKydoQvjGhRTkisqmPYgVdbEOsIlKmMGCbhfgQ",
+               "width" : 700
+            }
+         ],
+         "place_id" : "ChIJMWmiRd-1bTkRc_poj5i3qEw",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAPGOrLIzNwLLOXzhpAE57g7dnpOiv8q35gPRpvCa7BjiAjYlNo_HKHcslibHRLWQBm6CGZWutvIzfwTqX5qLokWsNA1dl6G6NNRF3N5rn-iwKWdJUFC-jWAEJmGyy_ohdEhACHt6ZmsXbI7rtmpgoJFhiGhRRUHBFV-jQbs_v0JaTRX4xJWFeNQ",
+         "scope" : "GOOGLE",
+         "types" : [ "car_dealer", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Fort Anandam, Jawaharial Nehru Marg, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8550581,
+               "lng" : 75.8081114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8564070802915,
+                  "lng" : 75.80946038029151
+               },
+               "southwest" : {
+                  "lat" : 26.8537091197085,
+                  "lng" : 75.80676241970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d0f953506de6d3d30c24fc8e91151ac72c17fb2e",
+         "name" : "The Raymond Shop",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102254695522818473489/photos\"\u003eVikas Thakur\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAV9hDz49ylGws6bfOdc3xmXGoSjc0BuvR3XOBm6YstxLNmkNQhuX0FMv7sVeDdIEc0MvQk5RP3S5_xVA-qlVNCyekcsc0CPuVNyEJGCazafgw43XRl6RTTaQTFy0s_KTPEhCCWV98v5SAT_yHbrvdpWJ7GhTFPTwcgGbEpUaU3sGPgbk8AwK9PQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJKf5VgBy0bTkR8t2cGho_c5I",
+         "rating" : 2.5,
+         "reference" : "CmRSAAAA9LlMvNxFEKl0Z8wcXOPqZo1mtjzSaSuR7WPiu0eJu7UCdswVmrAV6x6lCYOXPkqb6kwJ7aS7oSGwXaALP98yyBc9UfHFy8rwcVkQC73NKFwhS4352xtlDV8_jF2K3__REhDzhEjiTNZIA9fQKvJX2w9IGhSy89T1leG7lEvj2dUHLlVe96hLlQ",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Ground Floor, Gaurav Tower - 1, Plot No 1, Indira Place, Malviya Nagar,, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85523999999999,
+               "lng" : 75.80733699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8565889802915,
+                  "lng" : 75.8086859802915
+               },
+               "southwest" : {
+                  "lat" : 26.85389101970849,
+                  "lng" : 75.80598801970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "568a55fdce8ebe639911bd889d8be1f42183e665",
+         "name" : "Defuzed Technologies",
+         "place_id" : "ChIJaXpp83W2bTkR2R2nST-jH4Q",
+         "rating" : 4,
+         "reference" : "CmRSAAAAnsBPhW9x9SoIMDyDe0dTPRWTVWZq-j3rrSRk-CjehnzS_7-gPa6PM59LlioWNNmNZ2SG4uAq4uCx3BBamBJ-uxJEIBQn4HJM8Wz8IXeKBUGMT4mOAwlHDruEtTLDTueeEhBoIV746M6NALKPOqTMVYC8GhQOS3WbE0Cqf8-uMWujLbTEztCrcQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Gaurav Towers, Jawahar Lal Nehru Marg, D-Block, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8546125,
+               "lng" : 75.8076409
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8559614802915,
+                  "lng" : 75.80898988029149
+               },
+               "southwest" : {
+                  "lat" : 26.8532635197085,
+                  "lng" : 75.80629191970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "23ef6f819153973362a35fbbbfc103a899354a3b",
+         "name" : "Allen Cooper",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114388144115460258377/photos\"\u003eIshwar Das Baheti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAATRCbO76qHNXzIUAr4lrJHUuPtjvOF0L5gsGSzTvEcO8uzQaw78uAYGSMsDCpzwXaLxqQDIVgIcymtS5_zmG6QZDgko1Vqw-l4QCFl60W5Pj2g87au74Y514a5vmOSQ4UEhDZE6cKINbtuRcDE4rdJV9tGhTyvL0LPnbxAdp0FuXVtBaCr7ySmg",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJV0IqkHW2bTkRRtmbB6CgM0I",
+         "reference" : "CmRRAAAAP2fcn_TRzAfizpcufBvfUo0xxUCXmGICzSlu9c3dvBTDa8I3Nq9RtPQZsf6Kwdm3N9uIVZGna531t1oVW81Z3WJWXuPSuBuS__FCKjwLqJd81YPc1v75w_GPIyezgbB9EhB0VaLRopUkKmFIqGor8YoPGhTNhz8UDfvxdWJyktnTiOVMb1bINg",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "24, Opp. Gaurav Tower, D-Block, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8531271,
+               "lng" : 75.80495839999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8544760802915,
+                  "lng" : 75.8063073802915
+               },
+               "southwest" : {
+                  "lat" : 26.8517781197085,
+                  "lng" : 75.80360941970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "3fe847c85df7d21694b0a466f14c30868adcd518",
+         "name" : "Metro Shoe Limited",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJO71Kpd-1bTkRIvEQ8Okrq64",
+         "rating" : 5,
+         "reference" : "CmRSAAAAr1kN57j7vvmBORPH3xI9na05m9XAJHmCNEIpi6LpOKmbSx_Y2yIzXBPAvNZBj--aGmJPFSw6pkuSn9MRD8QchPk8fvldg5J7F6fBTZ3C1hCZEPhdmMnP4VTezG49XshVEhDJg-zPd4pk5gqK6Vicl7skGhSmeIi-4z0mpRNvNg6N7c8cq5vm6g",
+         "scope" : "GOOGLE",
+         "types" : [ "shoe_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "World Trade Park, J. L. N. Marg, D-Block, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85296,
+               "lng" : 75.8050162
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8543089802915,
+                  "lng" : 75.80636518029151
+               },
+               "southwest" : {
+                  "lat" : 26.8516110197085,
+                  "lng" : 75.8036672197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "23b70277e9b1311058756f975023831501309d04",
+         "name" : "Wrangler",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 359,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102238525585267392984/photos\"\u003eWrangler\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAG-XkoStzJRcJrLuh9AYpDxe-OAI15LlV2sZB4B7oOUzJgP64U1fgJbyNrHaGXMufXwX7HqIRKnD4jScfombflK5qom5T7RKNJyutxje2R4nCHQxjMxtUxYSWgHLHFQlQEhAsvh-4zkyD90ZjiJVe3UNTGhSpzifG8ebW8jJWdrWx0ZuLEqixVg",
+               "width" : 359
+            }
+         ],
+         "place_id" : "ChIJ0XdXVN-1bTkR5ihYRI9Elg8",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAAEJgUax1KDlKep2eeYCdD3M-osEFvWBd29aAVKnPPUK42IMJKrVnbomaJEAediB3ZgotQ9Yz5f-XppQWQL9lvB34H1lQwSKIg3_jFNjV3eOybxt1Mg5gD7pi4mnfyLLO6EhA-3ZkOBi1FAtWGOQXoBKcsGhSC2O9KNDZt7wWLSRqfnhViTAuFNw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Mahesh Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85556,
+               "lng" : 75.80783
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8569089802915,
+                  "lng" : 75.80917898029151
+               },
+               "southwest" : {
+                  "lat" : 26.8542110197085,
+                  "lng" : 75.8064810197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5a7799d01539ea9d5a8d83e69db13c7eb4e159b6",
+         "name" : "Cantabil",
+         "place_id" : "ChIJ2QWB7nW2bTkRHTIrYai4oh0",
+         "rating" : 4,
+         "reference" : "CmRRAAAAkdzxrZ6lrQ4faLuXboyM4mn7ThWY3gcVSWWlTh6y4T3tPb48qkkgc-8GfTFjK9fZaRB1OHB0qWyCmpjuFHzCdfC1vcBUkv7CouPocum6FSXbh94ihfy2dsy8j5z9k2MTEhAvFgR18Xgo88N36oIY1CTRGhQBAHs2LfAS011eS4Puf9ZYzGpKqg",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "G-26, Crystal Court, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8554106,
+               "lng" : 75.8069703
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8567595802915,
+                  "lng" : 75.80831928029151
+               },
+               "southwest" : {
+                  "lat" : 26.8540616197085,
+                  "lng" : 75.80562131970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7cdf3cc29e8ebd05f0c1432386c8bcdcbfd16ee5",
+         "name" : "Baggit",
+         "place_id" : "ChIJ7Wnv9XW2bTkRiC1DuHjJ61U",
+         "rating" : 4,
+         "reference" : "CmRRAAAAI42-Fuu5EawIIyFP3W1X5t4eXIaD1FFMdnphZz3r0U3Hn--wQUoSOgXI_iRTBW8calS1oxRxty4SdDJTKBGDRkOhUpjLAhfhSeylrEPKlIt7uqnDziQI1NwsxnkjGk7nEhB5y-SXmChXg5IcZahceUKKGhRJk-vEWh4q97E3pyE9CL6XroDtKg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Siddharth Nagar, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8562412,
+               "lng" : 75.80696090000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.85759018029151,
+                  "lng" : 75.8083098802915
+               },
+               "southwest" : {
+                  "lat" : 26.8548922197085,
+                  "lng" : 75.8056119197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f384cba20f15b7b196c06486742f55aa4b07ee63",
+         "name" : "Arihant Electronics",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ_XhC_nW2bTkRl28AK0e8i20",
+         "rating" : 2,
+         "reference" : "CmRRAAAAZi-ybEZF8KaiwiGDGIV6CH_KJDBWqYTcKkMZdAC2U80KcqhmUJtIeDhMQWNSbKB9x3u5xzZWm2n_efnluOTuAcEXIHOmB2ZB3qu9WJ7c4_kzHqyDApzlzSHAQXSsu3pdEhCH8yYAEZchWPOqDG9l4TtbGhRiJVlH4txt2c0gAxkXJW6BVOB06Q",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Shop No-239, 2nd Floor, Jawahar Lal Nehru Marg, Near Gaurav Tower, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8568681,
+               "lng" : 75.8062233
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8582170802915,
+                  "lng" : 75.80757228029151
+               },
+               "southwest" : {
+                  "lat" : 26.8555191197085,
+                  "lng" : 75.80487431970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2b61a0a8bbcf7bb4ce17e5ba037b573a15a95b1b",
+         "name" : "Shiv Shakthi Computers",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 389,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111606852740768006438/photos\"\u003eShiv Shakthi Computers\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkC0SYrZoV1De9EuvCXHD3098oINW1jZkKeWqJ4O5t5U8F8j1arlZgEbEjEkYH1ORwrYqFbHu6AxdD7Wv39uWD8aiRjWSOPDLyZcy-FJCVbMsJ-1HhX4IEgs7Z1tFt3pNEhA1XmKwrP_XK6Tw8vDlPxr_GhSkIA7JAk6LHLN5_VXitXGZmgoIUA",
+               "width" : 954
+            }
+         ],
+         "place_id" : "ChIJMdylr9i1bTkRFkJdeCD3r14",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAX79zAfThR4fbIUhbw4lqsW3MxiMCfDVWCsv0IPt81SZUOO9w-bM1LfHkaS-Cw7SGn8-M-N7eVWz-k_7-0C9jAS5jDmRda86H0NavkMOdPxO1XuW1KRkiXTzm-ycp1n8BEhDXok7ikAwGKYjYJ6Zw4E_qGhRuTouzxzHCoecb_sPIDL3KzRebog",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "192 jaipuir stock exchange jln marg, malviya nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8555122,
+               "lng" : 75.80660949999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8568611802915,
+                  "lng" : 75.8079584802915
+               },
+               "southwest" : {
+                  "lat" : 26.8541632197085,
+                  "lng" : 75.80526051970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "7729b460e01e9e7b08a890981b10807f75ee1e84",
+         "name" : "US Polo Assn/ Mufti Jeans",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102254695522818473489/photos\"\u003eVikas Thakur\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWYFvWBPbfbfBA0suUjQSvBo00FOmHhCBKZguwjkbQw4uFVtXsaqLn6LbDixeUPXyXDyqNi5eZTUcPGTbPzwJp8jlRVvmQVGX70KYQiZZhyJ2Kf3Xnco7fLJsJ9sjzJ7vEhBLKujV6GbM9dKAZIosI93IGhQmqegUh_H8nMtKdibiyuZrKMjr3g",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJAQlCWd-1bTkRM3TNw6JpXKk",
+         "rating" : 4,
+         "reference" : "CmRSAAAAwhmqsXsXxqgUKO9ayMweHD45XOJtcXgwARRwWzpnVHR8JUUV4pYexR5sXmE5ZX2FD7nJR3q6TCQR0Pc85tORaqFEX0d9YX4b7yccyF7yEaqJL2NLHJqqQtVPUejGfacUEhAqZTxkOqo8hP8FJ2oXV1yJGhRXpXRKmVdVDw8e1hfX5F2gTh0APQ",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Siddharth Nagar, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8555499,
+               "lng" : 75.80670739999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8568988802915,
+                  "lng" : 75.80805638029149
+               },
+               "southwest" : {
+                  "lat" : 26.8542009197085,
+                  "lng" : 75.80535841970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0956e84f3111da462a0e57144d4f3d396b699d0d",
+         "name" : "Vodafone Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106900392749414637338/photos\"\u003ePrasanna Ravishankar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAEq6E8TBdbomE7H8CdBiQS8wwahSAuWC9wWvtFytrXqTNnaww28Lg--v-H3XIvTPMHXYEMLnDL-2T6yHYg-BjqQKpYy_2d3rn480hwJzQIPqpKopQLFQeSck0cFtMY1SfEhARAiI52gAopSBKnLVmBNrbGhT5F5ju5wv_8aT_wpozD0N9CC6n8g",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJj_IQWd-1bTkRVz3JKaL6rE0",
+         "rating" : 2.3,
+         "reference" : "CmRRAAAAq8IKrdW3ds768dK4BPhQZ5vil3ZibURUeTw3z-2PI_LI8Wr-sreU8-czKt9sQ9P5uL3CqRzlWEKRfihepEsHUFvOmzbiu7Hk00OIshb8Cx5DJF5K5Bga7TFIMyFeFr9yEhDy9wN1mkyILd9aglgwzMybGhQVGxzWmkKaujjn_WW3VhOC0iHGrg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Vodafone Store Gaurav Tower, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8550499,
+               "lng" : 75.8080915
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8563988802915,
+                  "lng" : 75.80944048029151
+               },
+               "southwest" : {
+                  "lat" : 26.85370091970849,
+                  "lng" : 75.80674251970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "bede2c9474f600c9af8040c4f736ac1bbea44ad0",
+         "name" : "ECS Mall",
+         "place_id" : "ChIJd8j0lHW2bTkRy2WUtCq2BxU",
+         "reference" : "CmRRAAAA6mquTYb1MEr2zU7-xhBMqYsW520U9KF11eaDsJIo-z6aBkab-WSWeoPADjUEDDoM_0GCM8_yMdGM8qOoLglw-STaPbAelV4cQQ1IvkPyevKm0x_l4lSUFN5kQrY2XMkLEhDWhRmFxxmPn__G_WCfWqkEGhTuB9k-_wkm96eNgrKB5arWsumcHA",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Siddharth Nagar, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8527947,
+               "lng" : 75.8048651
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8541436802915,
+                  "lng" : 75.80621408029151
+               },
+               "southwest" : {
+                  "lat" : 26.8514457197085,
+                  "lng" : 75.8035161197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "3a77e9d42ebd5328990c29812b31763aa275a9e8",
+         "name" : "Planet Sports",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106900392749414637338/photos\"\u003ePrasanna Ravishankar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwGL53dj6uZql7uiHZy4K3GB7HZfbqpBy9PmB1MF0Ez6a3fAlc27NVJvCShcK3nJC4e_ZWWsBqtH2LHt-YJFfhKvTU-jp7-XpC0GfJ2S_ESR-5iaZ0VzEFpr9S_EZCXV8EhDYJhF6fegz2sNx8P-guuBkGhRmEBWNcdvQGZrncE9-WaQ3i0Y6Gg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJWxG2Xd-1bTkRqspz-3qkRSE",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAARvUIVao5uVPkVw7qMuNgkXcs5L71Zok4moFspMzdChKYQmiAswSSllcLg_bA5D5KWQ3TAWRfKrEQoPxHFBHlrnB0gtmMn4q_o4O0vRh3M5X_8axtd7K8jzZmSPVQFdBiEhA_fzjh6MPPvePZaKML16IEGhSHmlJ-78j2mTAJtNUf30Zg_LLeCw",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Ground Floor,Gaurav Tower, Malviya Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

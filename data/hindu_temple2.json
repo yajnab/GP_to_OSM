@@ -1,0 +1,131 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8587501,
+               "lng" : 75.81282089999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8600543302915,
+                  "lng" : 75.81423273029149
+               },
+               "southwest" : {
+                  "lat" : 26.85735636970849,
+                  "lng" : 75.81153476970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "b31af83550dd279db22929641c7d23a4b8268429",
+         "name" : "Shree Nakoda Parshavnath Mandir",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101693427329228070592/photos\"\u003eshalin jain\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8THE-Qg2DinoRtiNQsdrspKrUHrgD5GzCd8W9aRXQ16DefZ4zOEqkqQNY0Qf5wmq5nrhJOBtjQRvmc7Ld60nwTY0AqNuV9ODC9DE0EeyWjVQnQmKcqGeUvXcYhWuo3c7EhAb0M17B1C4Qtl7G6xepD0mGhRM5P4gsVE3oh3qGicfq2DHgvr8YA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJj8usTnG2bTkRMWLzoomi930",
+         "rating" : 5,
+         "reference" : "CmRRAAAAczzSqlLf9m3aCGIFXYvyxZPkzpS7772AtY2L_cnanJntYc7bU7pv7KhzL4cbAhXdoMzrzSktZzyVPAPLFEe01Vk4-NjvN-qq0RLXFNf3ZVbid6IgM57HteBQsx4ic96AEhCAy7Seo_09g3NBa8sJPjs7GhQDyLWGzBouPEQE8b_4T80zPx-iOw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Calgiri Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8574304,
+               "lng" : 75.8154698
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8586673802915,
+                  "lng" : 75.81678123029151
+               },
+               "southwest" : {
+                  "lat" : 26.8559694197085,
+                  "lng" : 75.81408326970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "5415d1a9649e738d05410fa437a3bcbb74bdef18",
+         "name" : "Shree Chamunda Mata Mandir - Shree Durga Mandir Vikas Samathi",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114388144115460258377/photos\"\u003eIshwar Das Baheti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0ChieYbQWArjttM7Z-XLuoHTjOBYFPgl9hJynU1Yoeqt2UzxIHrifgpmX9-k7NTxVh-hXm7H2js-P0Nvg4PMeCrXu3DNCYs7Qvg0PT9rkBtWxzyGiiO9ZbyUKSvWy568EhDO0pawUzNNhIzcjgfjGPCyGhTqRfQZ-HjGMeN8IUdEYg6cJWAolQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ-03Rf3G2bTkRYGjUCGYtxkU",
+         "reference" : "CmRRAAAA_f2RUytnFSRpf6BXXYsHmFAkVO1P8fb3BFWQ7V29ZjnTNQ_Y7VsQixAyGOa09-K-k1jRLStzwPD1rgnSCWqeRQml8aSDvr9BPkgFYy7JNdZJPpjR5MAmgK-LnUtvEhzLEhDaZfJZ7Nv-k2-7ok4n2otyGhSqDt_Il5lOMPEODiMArSWh7OylmQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Bhulana Gram, Rajput Colony, Calgiri Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8577939,
+               "lng" : 75.8172829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8591283802915,
+                  "lng" : 75.81871968029151
+               },
+               "southwest" : {
+                  "lat" : 26.8564304197085,
+                  "lng" : 75.81602171970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "025aedf2208ef29d91f49732246333e39b6a5188",
+         "name" : "Chamunda Mata Mandir",
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105746043213553290385/photos\"\u003eLaxmanksharma98293 Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQON2wQAgc507rDL1ND4Ic1iqGUh4PQW4fA3YuNp_UR99lWgptohCXonNsG-_lRa8Q5ECxrLwMsr1fiKi2C-7aWS63y1v1AzoN_IeGy2xbKYpXLaZv5c7VxH-DK0hsPKjEhDLJLsATsasC7GCiRX6OiEzGhS7QnlnaTw3BROU6tWtKXsIrCp_KQ",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJEcBT9HG2bTkRF4cNsGsbLRo",
+         "rating" : 5,
+         "reference" : "CmRRAAAAPc6f4t_xYBeypSUusHCnIOgqRytpV0T8G4hXxF6Y2XmiYyWhPn8Of2dTNp5KAR_t1EhpI4RdNuXBGkId2P3OJhEo1QZMiDz6RWwTD0LAzo-qHIdKQbg68VTOZqBEJ3dsEhDgfdTfqMgPAGpt0l5SwTRiGhQOUJiuX_3AxgQiCR0XqqrVhFW-yw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,308 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8520018,
+               "lng" : 75.8103816
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.85335078029151,
+                  "lng" : 75.8117305802915
+               },
+               "southwest" : {
+                  "lat" : 26.8506528197085,
+                  "lng" : 75.80903261970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "8a8527fac96f8bc4a33858f3c34981e87746497d",
+         "name" : "Advanced Neurology & Superspeciality Hospital",
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114316916938236282494/photos\"\u003eShiv Raj Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqaDva7UzO6zLlk0dzV2GzG3l0g4TPx-Xa0SHrI-l74e9LuwsE2IrtjUjO8dCEso4PN5qym1pEWqW0aGNt7PQ8eAebMxLisQOuMb1j_efteP0Sf9UCGFt-dFG8QY3NTPFEhBpJ6mwgnlJse2bCs5VGg5_GhT2XvBtFAIyZp_VigOp5_jqFyn-Jw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJrUGzxHS2bTkRsTfDenzKh8U",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAA6KxTxJbkEB2zx4kwdoiVQEM8G0h84FQgM6rbtrtX6WYB41vzEG9obpeBh79WOY_51HGE3syMIE9uVg39VxClIlGpIUs3p8aNq5R88HBuqBDwpRWzDLorIaDNW-Vx1O_uEhBqkUwD5vl8pZ-mjGHf46-RGhSZ48Z7Y6tjaNFovDLqXunPUiDH_g",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "D-358, Brain Tower, Near Gaurav Tower, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8526334,
+               "lng" : 75.81122740000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8539312802915,
+                  "lng" : 75.81249393029151
+               },
+               "southwest" : {
+                  "lat" : 26.8512333197085,
+                  "lng" : 75.8097959697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "1894f0ba0ffa2de1b72e2f577a1c0b92805af511",
+         "name" : "Dr. B. Lal Clinical Laboratory",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJh2oDwHS2bTkRXxrh1TZt5LA",
+         "reference" : "CmRSAAAA0b-rWeWrBXuSIQqq4aZsJYWEo-PCkKzrx7D3TRxhKTgiTS3lxo7WhdsZgqjsJ_DiDDODZ6VExp5rZJOzZYQf_u8LZcR9B3j-dOrPq9YNnRIgPHeQ7R5SdxM_kBw_wcROEhDFXUgauHgX9lamrN9IwXMSGhSAG9Qesb5u0tmOBccUimc1a_Vakg",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "B-424, Pradhan Marg, Block B, Vidyut Abhiyanta Colony, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.850904,
+               "lng" : 75.810463
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8522529802915,
+                  "lng" : 75.81181198029151
+               },
+               "southwest" : {
+                  "lat" : 26.84955501970849,
+                  "lng" : 75.8091140197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3b9df4496f90beb27ac7b5b348e4767335c54b61",
+         "name" : "Yourdentist",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 529,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107379914529790215489/photos\"\u003eYourdentist\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPW7S9dohRRSYRVH4tAP-h4QJOaCt-NzSIdRGyt72mjIh9YpWekjdmPWMUhy1EJEnlEQx9LHi0mO8GLQgiHikqzXkh8fjQl_kdkROn0QXwxUnRimr20Ima6W1OBoXQkHoEhDbSjlHM6I5z1P4F8H0OREIGhSO1aFIFfdur9tXMIxj8O4-_j2oLQ",
+               "width" : 530
+            }
+         ],
+         "place_id" : "ChIJG-hWxgu2bTkRwmY5QUYXHuc",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAACTRSUggEM-grNeBOBXEF3nCmRLx3b15FYQZ8eLdvTlJVTWhs1urdJkj45cvsXEdCqz9Pq2npUsViMb2pVGJGiwCpU1GospdvZwJbT91zre9qxx0lB-0uu6OFEYIMIyLZEhBrdWWtQwEF1mWudLUyf6fLGhRdDB8rYF8-NLAF8zCX4ZX6hFJ7Eg",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "hospital", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Your Dentist, D-670 D Block Malviyanagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8575755,
+               "lng" : 75.81134059999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8589244802915,
+                  "lng" : 75.8126895802915
+               },
+               "southwest" : {
+                  "lat" : 26.8562265197085,
+                  "lng" : 75.8099916197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ed7a8916a915b59448d0926214bb98c99c024155",
+         "name" : "Kanodia Hospital",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1040,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100589127674771337698/photos\"\u003eraman meena\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAq8qTe-wUTh0WVI95XoIfzO0rG6o_7yFQtz7N8R0VtjaZPXf8dC4gL8npt2lPdncYPJpqRijZzdzzsZgSgxDDiDe4UvkMQWOwkg8WMiLpkdQiyz0kq5ZkjfnPF1wKfN-lEhAJ6bzpQpqU9PPsHcPk-_F5GhR83PdP9L_0jGNk-Igx140aRxv3ig",
+               "width" : 780
+            }
+         ],
+         "place_id" : "ChIJAQAAAHS2bTkRmK_aZnsZt3E",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAAXaVFOApZ3Qyh_Ejlup-pBKSAc1wUdT4m1a1F0u5MUMoZftxpVj7hZceEsprtj8cVPN0EyuaWy_aaNn0k-GZuf3UYIBJRIq1dGZ3bU97L33B2VlG4SH9caOrliCuQVC_DEhBMrsWbrMFJQbFrQoa5IFT1GhT3xwSpuJh8R8l6DmmAtTsdZNfldw",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "C-256, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.854097,
+               "lng" : 75.806809
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8554459802915,
+                  "lng" : 75.80815798029151
+               },
+               "southwest" : {
+                  "lat" : 26.8527480197085,
+                  "lng" : 75.80546001970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "e201cea1809b94d3efaf0812ed3a552a8e09334e",
+         "name" : "Ashirwad Medi Pharma",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJe5e_fd-1bTkREPxmQuo_qbA",
+         "reference" : "CmRSAAAAcPImAdvsjIKKLR5JUVQiC-uydy6u6pzwQ1gRJ42MOQdvrTbtq30Xixtx60qOF5XmBtVoir3uMhP7FOEmBbt4IC1pHoMzOsEWYoEJe0LtZeElkUtAlfvNu7bPdQvFHE-rEhDIF7OnpZwg71-Igsa9mJnsGhQLx-AKrz0MBMJrYnp__Da3HWrulw",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "D 358 Advance Neurology & Super Speciality Hospital, Opp Gourav Tower Malviya Nagar Jaipur, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.852656,
+               "lng" : 75.8075211
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8541012802915,
+                  "lng" : 75.8088949302915
+               },
+               "southwest" : {
+                  "lat" : 26.8514033197085,
+                  "lng" : 75.80619696970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "308e80a9666bcc526791a86bbd91039a342b783a",
+         "name" : "Natural Health Care",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJz98LZnW2bTkRHkphDo2uGLE",
+         "reference" : "CmRSAAAAHBUpPszA7AQIdOwZDt4lf00v6Lb036NvxzB3WbrOc3e6yDv8rWDz2ZldNGQJ893PaEcZRQJQdqFOrgqg7h74d7cqHV1jYmcT3F1L5ROgml0DL4LU2jheEJSVUTjf0g-kEhCihIPUr-50evci0K8fUqFpGhSLFxr9RXARZC6EuZOo3Kt8S4UTVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "hospital", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Mahesh Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.851071,
+               "lng" : 75.80722639999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8524199802915,
+                  "lng" : 75.8085753802915
+               },
+               "southwest" : {
+                  "lat" : 26.84972201970849,
+                  "lng" : 75.80587741970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "104e2a987379d511f1a8d9622f70a314769c701e",
+         "name" : "Eye Surgery & Laser Centre",
+         "place_id" : "ChIJAQAAAHS2bTkRL5ywcjPb8do",
+         "reference" : "CmRSAAAAc7qEQnasS99jCE9XLnhI1pPUUzAmLgUCDt8YoI2Kd3gGYwtDiAz9cFydOYApwMMdM6Zi7SXvUXuUbH03b26g1eAmxMOaEgJL8CCdrcbUqZng3io1d54xsHT6mB5smCssEhBTI_-ODGT9S1OYgeex-TZIGhRtsCw9hb89caPrk2WUqJGBczIGsQ",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "C-401, Malviya Marg, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.852587,
+               "lng" : 75.8018757
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8539359802915,
+                  "lng" : 75.80322468029151
+               },
+               "southwest" : {
+                  "lat" : 26.8512380197085,
+                  "lng" : 75.8005267197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "76832ba92d0d7220af8d00294c2027276cadd63d",
+         "name" : "RGS Eyes Center And Retina Foundation",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3072,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100941616849673144156/photos\"\u003ekeshav kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0YApmN-e40_V-s8EXWlU1mIK9pUpBpVWsppjMqtTi895GoEGWuDtE4TwcXYyvlJmP70MH7AudYN2sIADW6cEZczSNDrGYeq2eqEAGZ_E7_83brsXG8PrcplrsTrGYWecEhDxYXuVmy7TOeFrigApxaUjGhRtKN56-1m0Ny8ae-4oXYvZq2RffQ",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJxUwmZd61bTkRGrohOeW7TfM",
+         "rating" : 5,
+         "reference" : "CmRSAAAAtFaZfjtXHANNnp7AxhSUjfCQT7os-DhI-Y7uXVBhuYm5jK8pccdGMhgXahax6Mt66La2j5ANSONUUTmYvkN_rEhVboSq_9WvRZPUVwiLwz8cmM-v18vh2qBzLJt_brtmEhB21O-7juXpW9S20GKBgS40GhQB1UYoirsq03jwhzxvzKYg36JVyQ",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "N86, Adinath Nagar, Milap Nagar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8524478,
+               "lng" : 75.8118707
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.85379678029151,
+                  "lng" : 75.81321968029151
+               },
+               "southwest" : {
+                  "lat" : 26.8510988197085,
+                  "lng" : 75.8105217197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "f991e116e6870ccb5a4eb923eab0dd0ebf82d390",
+         "name" : "Kothari Eye Hospital",
+         "place_id" : "ChIJedHsvHS2bTkReV5_dOgQTfY",
+         "reference" : "CmRSAAAAIL9vteJ8ZkS4plvD9V-ZKpPKlvXjsMcvufwAH9UJrGJ-ZMEAl6d9fOnLM6o1UCrD3-ADfg8vElsN5iSpLjk3XuTfwG6VBUxfWN1I_EAdSBRRngpo1BmHMGcJQYl4mFM3EhBE0wm51ho4jw9Vkc2f9sJyGhQhRCeumtH1QbLR8ro9QANZRoz4fg",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "B-392, Block B, Vidyut Abhiyanta Colony, Sector 4, Malviya Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

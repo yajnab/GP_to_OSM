@@ -1,0 +1,562 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAADm0h5PIfXB6GzaPUN-VmIFPdc0dMFuA8Zjsxv3avLmgIPiug-x6FBAClG54s_8znJrvT8GAWHLb8YsC5Jih8dw2zF3zF3BW9Ab_30EftzkY1dOGcMAZ4BQg5um3tWCuvoEgWx5kWWIUjQBSzqlVXx4QdcywY9b548UtMIzVR9b-fJj6pTs7aKvGT7HIPo3xYhCMCrr-oV9lbmHp25nFLof_3476ehzRmLtogs_Ae0z_opipepXe1gc4CV7wQg9ezN23LPnTc0Fw6qoY3mzMWDWdcueW5n9WduFKeGiD-TjhRwwgMAhUg7nTgDeM3HOyppJnAmbJJiWTcYidloJ2NwHNt8TfaCf-sjhSRG2ltnIvEhBqaK93t1fCJyO_LbBtxmh9GhS4_GI0K6bE69UOnnv-WLb_LpD4vQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8588982,
+               "lng" : 75.80373759999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8602471802915,
+                  "lng" : 75.8050865802915
+               },
+               "southwest" : {
+                  "lat" : 26.8575492197085,
+                  "lng" : 75.80238861970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f99a37e6667ec5ccb86b8dca2b25c84806a6d0e4",
+         "name" : "Jaipuria Vidyalaya",
+         "photos" : [
+            {
+               "height" : 1456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107981848452886901060/photos\"\u003esonu maheshwari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARZj_f1hwK7UmsFAOmYbllCWb-LLOaZupfUkarfzOxHrTUMFBuWdpFa4ZFIwG4n23BHBXF00Qu-sQ6X8NyNt8E3qKWrY6HHSX9MXjGonKkjYCXt13jRpkIYLq0R1_otb2EhAaSpen_kKPdP7KrHawGRfQGhReldgBkcqdEvOBNfyBGmdMOsM5YQ",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJW2FmqNm1bTkRSj5Kqk0O70Y",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAQH5sMseL3A_nKbWQQobEsmDtJEd_eXBEEV9noAwmvQyffdICpTtv5EpWFhOGZfVGPIgoIrzvhioZicbXEPzlCeZtKcbobEbkVBAANzOMpREGkxFMBvb2LcDDmwzgw5aoEhC6MXT94t8_G_WVb6mt-lFAGhT9c0lHtyw1qQ7PpAQFLFdniQZ-GQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Jawaharlal Nehru Marg, Opp Jaipur Stock Exchange, Basant Vihar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.861395,
+               "lng" : 75.80970599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8627067302915,
+                  "lng" : 75.81117853029151
+               },
+               "southwest" : {
+                  "lat" : 26.8600087697085,
+                  "lng" : 75.80848056970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "3c3d77dc41e757b0ce623bd54ce76be2730146ca",
+         "name" : "Mnit Chemistry Department",
+         "photos" : [
+            {
+               "height" : 810,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105082610616966505820/photos\"\u003eDeepak Yadav\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwDdL1KYyXvECKIuRzuVnBQe8JLRwVWNy9Zsbn4ca7-CeQ75Mxey3-qHMalA_FetDnu4saeGPEJ6lUH_E7VvnMdB8JvNhDzXeguRMwY0JJVvnqq8TBQjPuLs9Y7Y5kVNtEhBk50vNYL6i8RSJFPxEKB7fGhR-eE2hgJYuhb9nVScv1qnirOeCzQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJdxEtnHe2bTkRAn26DYw5898",
+         "reference" : "CmRSAAAALwm_sV91uhAp5-vl_8F8ys3OufFN1KtF9dvnxqK4y096J_RgFU5Jzkv9b9zpoKLM7D3N0BlUs6oDXzstIv5_8N_0oCvq-VhJHlFU7Ccn_T2T3m-7QyZr8CllQygpFF8xEhCZ-qQnKlU2hEn05uInw1CCGhTHRbJNQ1qOCeO9o786y6QPH8SXOA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "302017, Naya Bass, Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8592469,
+               "lng" : 75.8095683
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8605518302915,
+                  "lng" : 75.8108963802915
+               },
+               "southwest" : {
+                  "lat" : 26.8578538697085,
+                  "lng" : 75.80819841970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "5e1e029d9cd9a26c65f8f4438efc4bc48bde4bdc",
+         "name" : "Prakrut Bharti Academy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJS3GTVna2bTkRBlfU43rnNjQ",
+         "reference" : "CmRRAAAA4pfrKs4aS6lXrSeSqDbkjbCcOfi6__iu7YetJ3tX0y6ZEk9mdWXXSu4XWaVrQ-9GF4PCpBJjiX6q9EAjxeaibYnZGGxsHPqARAtaaTmYVJvzG3Eg1HeRunULudLBzsvmEhBTQ_sc9p9tXcCKoXzc-7BLGhReuqu0g8mF7zsFIiqs_mijzuWqDQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "13A, Main Malviya Nagar, Calgiri Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8596184,
+               "lng" : 75.8018227
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.86096738029151,
+                  "lng" : 75.80317168029151
+               },
+               "southwest" : {
+                  "lat" : 26.8582694197085,
+                  "lng" : 75.80047371970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "6766e496939a1414efd205c87a6d038ecf25078d",
+         "name" : "Village Of Visionary Public School,",
+         "place_id" : "ChIJ____j9m1bTkRI592BgYNQ6w",
+         "reference" : "CmRSAAAAk8bX9jDYC-McOmn17nJMn2SFtKKJ6EvhFz10Ljj4jK45sOcIW6PJWrpLIgW0WT6ikzJy1sIm2dGALob8QPdmdvh8js9mYkztWXrD1Ndz5LzGD6mg-h6sot2b9JUYap57EhCrcxDczp-CDZ9DVSClVs1yGhQLHGqRRsCCGMtkbLeLRcinyTehSw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "302004, Indra Nagar, Basant Vihar, Jhalana Doongri, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8564413,
+               "lng" : 75.8053087
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8577938302915,
+                  "lng" : 75.80664023029151
+               },
+               "southwest" : {
+                  "lat" : 26.8550958697085,
+                  "lng" : 75.8039422697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "e0a696f4780b948332352057802e8cd5a5ba09af",
+         "name" : "St. Augustha",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJI4bcyti1bTkRQZ7GKHy30rM",
+         "reference" : "CmRSAAAAf8MmYJ9LhT_kKvuuMeRL16OfbwWxNEABS8L75niTrg-Kyk1ItbtRovNos75qeC55c32z21NIM1qCbDyGAzNZxHMCFJu6RmlFxdu7tJ0yePCfgSCS124d1ap9TFEXOhWoEhBjw38tBJPSEdQco_NbWsMJGhQFareJM8SoJbfwNr94RLxX5cH_0g",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Jawahar Lal Nehru Marg, Indra Nagar, D-Block, Sector 4, Bajaj Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8616087,
+               "lng" : 75.8066321
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8629576802915,
+                  "lng" : 75.80798108029151
+               },
+               "southwest" : {
+                  "lat" : 26.8602597197085,
+                  "lng" : 75.80528311970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "62e5e486fd7bf0432a43bd42dd090b6222d7a60f",
+         "name" : "N M Public School",
+         "place_id" : "ChIJJet78qK2bTkR_mC51ZW7bfo",
+         "rating" : 3.1,
+         "reference" : "CmRSAAAA5Jb6_2IpkXuKnR94QrnYJsl0kfiePEfBpWvfSz-uaBdSSrhCMLf6wO1dKDBHC0blQe5wuqFkmoc7x4yQEjszZIWQ7VldabXRJSI_ZhpMDdl8sl2w8QF-MUl0sucoR4HZEhCnutynUUn0R2i3FjmEstzDGhQ56j8lmYISjgMP1N1tvuabjCk4IA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "236, Nehru Marg, Jaswanth Nagar, Khatipura, Khatipura, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8616087,
+               "lng" : 75.8066321
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8629576802915,
+                  "lng" : 75.80798108029151
+               },
+               "southwest" : {
+                  "lat" : 26.8602597197085,
+                  "lng" : 75.80528311970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "756180f9f8008d714cf606a24a1e2f16bc4427a3",
+         "name" : "Modern High School For Girls",
+         "place_id" : "ChIJQQkSBti1bTkR5tePs6-8Ftc",
+         "reference" : "CmRSAAAAnS3lx_yK_dD7Gy4t3JXOPTSvToxjwpcMvcu6GQoNYmjgvBYGVYBVYQ9mFQLByfEtS9-kGKbkpVkntMkxOxlZlZ2ZzpFGO1ypn_ItIakPP4ZMZE6KsaTWNqrIhVXCj2saEhCvFwyfB30-b9eTk-ovxpsCGhTPFmd0rwII0Qcq_NvrphxJpSdY_w",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Jawahar Lal Nehru Marg, Birla Temple, Hindustan Charity Trust, Opposite J D A, Jawahar Lal Nehru Marg, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8613782,
+               "lng" : 75.8089741
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8628372802915,
+                  "lng" : 75.8102408802915
+               },
+               "southwest" : {
+                  "lat" : 26.86013931970849,
+                  "lng" : 75.8075429197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "9400ed648be6e5e2cbcb827dc5e4806bbe32b0e0",
+         "name" : "Civil Engineering Department",
+         "place_id" : "ChIJ8XHGm3e2bTkROy7VeBLcrnQ",
+         "reference" : "CmRRAAAAVswBtkD64o-W1wa8jsFezB5YZ6yNMr7SfQLR_ZnMLTqThJesa137vI33_Is44hPjbUgd_0JNF2J4nc8dD6rhoJDX_azimOo2y_RV3Y19AU1TOyzd2OR6MpbayA_GjDBLEhC-VhXl66TmSqo_n9rwZtWDGhS9vcqsoqmwLujeUnhDsJmp8xJbCw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "302017, Naya Bass, Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8594512,
+               "lng" : 75.8082175
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8608001802915,
+                  "lng" : 75.80956648029151
+               },
+               "southwest" : {
+                  "lat" : 26.8581022197085,
+                  "lng" : 75.8068685197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "ce49611ceb0fbd37eb76235fa866e079cef6d05c",
+         "name" : "TimesPro SAP Learning Centre",
+         "place_id" : "ChIJq7fPNXa2bTkRFVWxrJ8HLSc",
+         "reference" : "CmRRAAAAnCEmjMOyDEVAtrRzT5DHOKt0_SZSUbtadphjtFriJ8VqU8mcPLYNS0jUd6znlSzmihp8dl_39p1RVR0zfPsu4MVMZ51-Am-qg8BdGzg062ZVXmnAbl9DubiRxl3TKkJgEhBpA3S7XSPRo2PPpV2_tciiGhTJBXMXO6oOATnOWreKlBkv6S5J5w",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Plot No 36-37, 4th Floor, SDC Vinay, Malviya Nagar, 302 017, Mauji Colony, Moji Nagar, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.861108,
+               "lng" : 75.8093011
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8624569802915,
+                  "lng" : 75.81065008029151
+               },
+               "southwest" : {
+                  "lat" : 26.85975901970849,
+                  "lng" : 75.80795211970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "cab2b8193081a0006225ca33b78e0ea4270af750",
+         "name" : "Government School",
+         "place_id" : "ChIJ9VyCmHe2bTkRoZQqzD5THjw",
+         "reference" : "CmRRAAAA5uPhsLvmTBKBRbx5VLGiuwuG82r0yymtESwGEQbvl11QnL6Q_qwECgIKCGhT1j34EXrn6n1RJmLAiPJQIyMz_zBYpg6YYDHGQfUzO9shRz9NJnn7b1lroHL0n9U1Vl63EhCzWwaiLyzLlwPaETgDPnZyGhQzZtTsYpZdgGY7dm7aFVZHjN8yRw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8587489,
+               "lng" : 75.8037641
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8600978802915,
+                  "lng" : 75.80511308029151
+               },
+               "southwest" : {
+                  "lat" : 26.8573999197085,
+                  "lng" : 75.8024151197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "35f3b973eedccf5c78b8d7c1ef7d21641ba54cdd",
+         "name" : "Jaipuriya Vidhyalaya",
+         "place_id" : "ChIJKXwKvq22bTkR5_APb3nR8rQ",
+         "rating" : 3,
+         "reference" : "CmRSAAAAZ2IUCAdaC8xnzLeO3_RU6P-i4XYveCJW9LLmK2s4iG-thnY8pYu-mMhfUuP1H1uOMhDlbAgmS0HQJANvU42cNgS7tKUrDedd2sByQjrn_otBtG1nk-L2AhKrn70zGbhjEhDDjdGBuH2gl6nyV8vbtj80GhQMTV9-Cgq67T_0xaOpMBn5qdE07g",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Opposite Jaipur Stock Exchange, Jln Marg, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8601717,
+               "lng" : 75.8105633
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8615206802915,
+                  "lng" : 75.81191228029151
+               },
+               "southwest" : {
+                  "lat" : 26.85882271970849,
+                  "lng" : 75.80921431970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "36fc64a89697f7289381a1bbcae539ab92701a30",
+         "name" : "Government Primary School",
+         "place_id" : "ChIJ-4ldAXe2bTkRt-wBZxqxblg",
+         "reference" : "CmRRAAAAPTApzY4AacdCoChi_sGi9aEG4pnqxE66-rsxi2kfke2gefCAP23rC2CXnULdZ1ctGkf5H5jvu95fuCv-PrJpQL1WkqenJTz2YJTlNKHg2jrSkY_r_4r9lFAM4qdLB0uGEhDbLIORpAqAilBSwiYwSQcaGhRiokchUzON6EkYbnJeW5P62qVbkA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "MNIT, Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8601347,
+               "lng" : 75.81068010000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8614836802915,
+                  "lng" : 75.81202908029151
+               },
+               "southwest" : {
+                  "lat" : 26.8587857197085,
+                  "lng" : 75.8093311197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "0df93e19ce30ef7c44c26144808cef38b8029750",
+         "name" : "Govt Primary School, MNIT Jaipur",
+         "place_id" : "ChIJR7qEHHe2bTkRACIr9tXLYZI",
+         "reference" : "CmRSAAAATIOHOXAbzfMCsIXJ7ZsMM0OUAzQQFyRMYh3mKZZtwHELBY408sl_gcRcrL0QnlA6CVuiPJxNQjRBz3NdHdEAtxPOhvr-Q-ekW-Mg0nR4rUczAmXE0ZdvyQkwTn2Zbb4HEhDdZKAICPXHWV5-SASYUCKqGhQHV44zzFBvrcscHB1D3lWzTrC7rQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "302017, Naya Bass, Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8619377,
+               "lng" : 75.81126449999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8632866802915,
+                  "lng" : 75.8126134802915
+               },
+               "southwest" : {
+                  "lat" : 26.8605887197085,
+                  "lng" : 75.80991551970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "d6b5b334d3c1cd35036984f3c51d70a2d4e82be0",
+         "name" : "LT-25 & LT-26",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJXd0faHe2bTkRXXtpCV2Efzs",
+         "reference" : "CmRRAAAAr5Hi4-pGpMr1Vlb8hVvb8ilB4lCFE4i-lBROUD62xBb626iVkkRU_JGuxBWWM75Q1069o035NdXG_zEP1kRk7-E-ECXe5ts5XRYkgiDC4otPR3coN6Nh8rxvj7r-ZqUzEhAaN-n2KmI2h-s40UJP7O2mGhQnaDrIBn0NWNypZcU_5fiXzMaf9A",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "H-17, Naya Bass, Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8648843,
+               "lng" : 75.8040022
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.86623328029151,
+                  "lng" : 75.80535118029151
+               },
+               "southwest" : {
+                  "lat" : 26.8635353197085,
+                  "lng" : 75.80265321970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "732b528a1dfe585fe60414fa5d923c410314e997",
+         "name" : "Vinay Bharathi Bal Mandir",
+         "place_id" : "ChIJ_____9a1bTkRgKhMYDfj1-k",
+         "reference" : "CmRSAAAA48gx3sPgTN1xWGDjutm7oiomZL46e13Ilk7_bKyEe0I8DkeZIqcU5KJpqfPGYv-UpynbmafLEGBCA2jvSuKsmtJXHwuLlwqwn592vnoDKkwnTof4DUklD_EMbgJLtdtOEhCcYhzV1y1_l4vlU0EM5fBuGhTuajCBuCbXuUVjb95p-taOFD6ZcQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Opposite Kv1, Bajaj Nagar, Tonk Phatak, Bajaj Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8648843,
+               "lng" : 75.8040022
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.86623328029151,
+                  "lng" : 75.80535118029151
+               },
+               "southwest" : {
+                  "lat" : 26.8635353197085,
+                  "lng" : 75.80265321970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "16fb3992cb924f75e4f3706b5fc4bc7a0a6d595d",
+         "name" : "Spl Duty Raj State Open School",
+         "place_id" : "ChIJ_____9a1bTkRAOS3atGFy7c",
+         "reference" : "CmRSAAAAnnM4PBUjbWxhk3i3mX_B2Ef9KUvb_aeeva0ewv-kubHtc3xOVECLnuYftguCv8zbd2jMpu4_Czk_48WMQ4mSfhPUUvqNppHh0gAmUYd1Fe1X1WOD0ku-0gUqBI0lq-Z3EhAAtVYyQ_68a3iCJU1RMOgoGhSDJ7BKnaWpNIMBvLCNtC6Q4k04Kw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "G-80, Bajaj Nagar, Govt Quarters, Main Road, Bajaj Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8648843,
+               "lng" : 75.8040022
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.86623328029151,
+                  "lng" : 75.80535118029151
+               },
+               "southwest" : {
+                  "lat" : 26.8635353197085,
+                  "lng" : 75.80265321970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "dfe746346cbd58eaee60c5ffa6c9ca7e31a28766",
+         "name" : "Central School Sansthan",
+         "place_id" : "ChIJ_____9a1bTkRAmrh85VVPVo",
+         "reference" : "CmRRAAAAbpaXljUh8Hp6xHbg_yrDlmPsXQw4OHclQoiCCgMKCH2zJSxcYBWy5TMlwZ8laCIQ1s8wpAPIRBIU_YmnDKEddsuLNIPSC0OmZyQOowOMldOPqI-dr8y8Ea7gKm3dWuAGEhBtw1xS6x4-eUzk7EJ4O6f8GhTN0_4q8qk0iCO_Q_g56GQdjKKQKw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Plot No-92, Bajaj Nagar, Shoopping Centre, Bajaj Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.865391,
+               "lng" : 75.8082843
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8666915302915,
+                  "lng" : 75.8097661802915
+               },
+               "southwest" : {
+                  "lat" : 26.86399356970849,
+                  "lng" : 75.8070682197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "25005e530e9083a2ff130aa15336bd1a4242eb47",
+         "name" : "ABHIRAJ'S B-1",
+         "place_id" : "ChIJtZq-ini2bTkRjQVqz98qHDo",
+         "reference" : "CmRRAAAAyqLIL1EKUJPKILq_BdtRB0v9XPVMyQgXwORNLJR4D2qQB0MSSIWQz3KbipXEtS7tikTYaippdztk31Oyht-26FHVpBvAejlT2hXvuE_qSqmg6pLxOf6ECib-vZuHPdo-EhDUmg2C5OEYcDnUhs12D94HGhQ_mlxKV9jDFyfwIvBnP0ycI2-6qw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Kesari Bhawan, Jawahar Lal Nehru Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8596184,
+               "lng" : 75.8018227
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.86096738029151,
+                  "lng" : 75.80317168029151
+               },
+               "southwest" : {
+                  "lat" : 26.8582694197085,
+                  "lng" : 75.80047371970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "164f24d0176e853f0a24ff8a18fbe4797092291d",
+         "name" : "JAIPUR, INDIA",
+         "place_id" : "ChIJ____j9m1bTkR5gQU2bXX170",
+         "reference" : "CmRSAAAAuFsLdBg201g1lrp3LGqmdLuzT4OMInzE63epMxgnKsHEl4IlS-hHWrSlaaT97PmC0UpjYw6cyV7uLxivHoLi5n_t8SvVI4fdJGaNWr7YT-cITeOD5zOpUQCm0DBMGWyhEhCVedyENwAxFrss_qsb7bJkGhTBMVXyOHRvSEt5SiCBY6YjpSu0iA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "B-132/29, OPP. K V NO. 3,, Indra Nagar, Basant Vihar, Jhalana Doongri, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8641573,
+               "lng" : 75.8107411
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8655062802915,
+                  "lng" : 75.81209008029151
+               },
+               "southwest" : {
+                  "lat" : 26.8628083197085,
+                  "lng" : 75.80939211970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "0ce64e87a968d2f17c2b1b88fbfc4cb104f87217",
+         "name" : "Mini Auditorium",
+         "place_id" : "ChIJabyGuHm2bTkRHV_6iBCs8dE",
+         "reference" : "CmRSAAAA1o7txG3WDPgQYqrgTVgXskgEjjKrF5i6ugzGBqaCZeZwVz-n3j7If5ZNSKSp9RAH-KJgz9kRfg3L6l34G1f6NQraHB-wN8AvynhBfhPvWPO3JAeZ_pxuiCwFJRLOc-cGEhB6_nvQDvLswodPMdOFjg1zGhTjdUZ3ITqDuNChQr6zcSpzlU5UiA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "302017, Naya Bass, Jhalana Gram, Malviya Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

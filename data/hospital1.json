@@ -1,0 +1,68 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8593286,
+               "lng" : 75.8088092
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8606775802915,
+                  "lng" : 75.81015818029151
+               },
+               "southwest" : {
+                  "lat" : 26.85797961970849,
+                  "lng" : 75.80746021970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7631d21f0bf2388e018bdd34f920965004a8cae5",
+         "name" : "Diet Mantra",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJC6AVTHa2bTkRT1GTzW4iPaA",
+         "rating" : 3,
+         "reference" : "CmRSAAAAyi7EQW7PbzG5XNQwEAZ3dUdvQpn0rcPZVCSiybbd_SXr85UUdf3olVtVGop1wXot4-9IMm_Kr4PF6zPruFntyBv6ep7S0hLrocC8CrUZUnqtRGFg_DE8HUUdKOajI0yyEhA7tpb1AvqSYfPyDAKChFniGhTkE1FGawb3zQRvLQeDZMP6Hfd_kw",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "hospital", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "3rd Floor, SDC Building, Calgeri Hospital Road , Infront of Petrol Pump, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8621895,
+               "lng" : 75.8121872
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8634446802915,
+                  "lng" : 75.81351808029152
+               },
+               "southwest" : {
+                  "lat" : 26.86074671970849,
+                  "lng" : 75.8108201197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "349f1008f440a6a5cea39cb5e66699d454f26d1e",
+         "name" : "MNIT Dispensary",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJy6HLUXe2bTkRZoXi08jC4yc",
+         "rating" : 3.7,
+         "reference" : "CmRRAAAA7kh-_kEZjsGHNxAo2HyLYqBNuMYpFfDsHrzwErgMynm1Brv4dGsYh4nhvh1FWMF20EcNTc9iHl82sxz7I4KtflWS-hyMyLWDw-kKaJJzqMbmOgDwPB14zWtRNT8YwX-QEhAuIrXh-00KukB0924W7XjMGhRRkA8OQuAwivzBFrCJwQA1NIJsuA",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

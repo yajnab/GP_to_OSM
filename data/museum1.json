@@ -1,0 +1,43 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8618938,
+               "lng" : 75.8170786
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8632427802915,
+                  "lng" : 75.81842758029151
+               },
+               "southwest" : {
+                  "lat" : 26.8605448197085,
+                  "lng" : 75.81572961970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "637a933a016fc29b52d6183f8033e143b7c2a613",
+         "name" : "sanu music flute",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115368014740985958887/photos\"\u003eRAVI DUDHWA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAcUqdfYWC95xTuqa5SnkjpZjFF7yCczeBNg2mRtDlZDBwqxTaJPDCXU1gdgW_w1TuA3E6-mwQbZe-3bi9TSUiTOHQtvHediPSuW2KPfbehQBtwSZDStiI2LL1ZcpIT5OEhCWJFDX1VBrLduPh_hhtyWJGhTuHuVAyRXJgcr2JP1CLEVINuw1DA",
+               "width" : 1944
+            }
+         ],
+         "place_id" : "ChIJ____P3C2bTkRdBDAuqnCxr0",
+         "rating" : 5,
+         "reference" : "CmRSAAAAMWhd_W_NH4uFTe-oR-s48r4dhY9AejVIFsQM2bE1EV2bTkT-Yocsm2bbt1nvKHVIIzQr7lqFhO7dO-i2aUIyv1Jf8d0_Uqbc3gxdJPyOt3TnUWGGuEsVIpc9uogg8RSoEhDtJNRcembLpIyDPrufDCsKGhSG3VJXSf70NKN70edo2acvMVlXsg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "village, Jhalana Gram, Malviya Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

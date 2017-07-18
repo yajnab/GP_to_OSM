@@ -1,0 +1,263 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.86126,
+               "lng" : 75.81398919999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8626089802915,
+                  "lng" : 75.8153381802915
+               },
+               "southwest" : {
+                  "lat" : 26.85991101970849,
+                  "lng" : 75.8126402197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f934e627649c5cde3772646d53ff0512e5f93d64",
+         "name" : "Malaviya National Institute of Technology Jaipur",
+         "photos" : [
+            {
+               "height" : 1366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114537714102739353334/photos\"\u003eMalaviya National Institute of Technology Jaipur\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1ehDVwnROErIMh3vtGMJ2caOjr0vMmd5KKd2Fq_3v3I8tWyt381Hb7lDeZa2ZLCPe8FdYbnbJt9B416JW0SvC3FMQxV2KLXUuJBLvO93tMfwLB7ZQTVf4AIgjwgg88o9EhC0MHW5m0XrsIUY_hAr30yvGhR6nC2CXoGAa3daSiwQPl6lciLyLQ",
+               "width" : 1362
+            }
+         ],
+         "place_id" : "ChIJf5yH4m-2bTkRmoZvm79DyN8",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAAcx8FoVXjRvRMXArhbNEkZltHGboLZcYOUfKgAidK2Q8rcMDVoUbd2zZjaWr5pmb_0QdX_VQpDeepkWDOUZa52l4oGhNxsrpCoB0uGdKqObS-wFi0pkGnXusimBGdwxrDEhDdr_Zz0pTgvhjA0g5CRhByGhQFr52ou4v8WWeLMS_YC5zL0W7f2g",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jawahar Lal Nehru Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8641223,
+               "lng" : 75.81239099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8654712802915,
+                  "lng" : 75.8137399802915
+               },
+               "southwest" : {
+                  "lat" : 26.8627733197085,
+                  "lng" : 75.81104201970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "e61e22a762d3bb916a62f8f02fb536c7cd7f48bf",
+         "name" : "PMC",
+         "place_id" : "ChIJ752H9Hm2bTkRQGgiY5CbyYM",
+         "reference" : "CmRSAAAAl2f5ARfnSD94ZBAcbK6cxCzEfok6_9rCIAt4mkYubyR3O3x3I0PqsELa--e_ZpcfL3sJEpN3wU8g3TGx3wHaQuVZEuICcLrJzftphqqfnGY-PcA9XnaVMVs1Q64OxbKIEhCfF_aulKoYNjKX1uWqUhbyGhSmzhf7TX2H_GvIspcx7hLDpzXZow",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "302017, Naya Bass, Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8641145,
+               "lng" : 75.8107643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8654634802915,
+                  "lng" : 75.81211328029151
+               },
+               "southwest" : {
+                  "lat" : 26.8627655197085,
+                  "lng" : 75.80941531970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "1592573fd3af94bdb9a79ad0243fc6cb358c2983",
+         "name" : "Placement and Training Cell",
+         "place_id" : "ChIJkbl8x3m2bTkRqCiYDJDR3oU",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAA9iYHkRgYpMvV5jyAus6BrHVQhj8O7erHBG7yBBHGK46w498I8FH5LgTCKpHSEuPcLR_Qfg1NRpZiCxplADi1Ji04BWKRf_kzDUtXVg94IQnZFyhKtZQP0RoeQZ1HpudqEhBGTQuOjbYY-3gg8gaLCuZMGhQxRHAMwA5ewSmdq1VXkKH0-nUq-A",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8608057,
+               "lng" : 75.8108477
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8620252302915,
+                  "lng" : 75.8122481802915
+               },
+               "southwest" : {
+                  "lat" : 26.8593272697085,
+                  "lng" : 75.80955021970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f9163e59446ecaef64adc4706f652ca97e011ca0",
+         "name" : "Mechanical Workshop",
+         "place_id" : "ChIJs391EXe2bTkR9Qi3vZ-G36c",
+         "rating" : 5,
+         "reference" : "CmRSAAAAyd5tf-ww3k3ZaRkZFVFMzsWW5YwA8cSRDEukD3A9ZSVM3U2YtX2m2HuXUn9V9JjDCtmur_swrDjpk2CDvBG0CVJE_ibh7N68gBx1apsfbm0zHynvC9BPZ-WKx2njpSoCEhAKKHatBi3L8mvwHXd2xOJSGhT72u7yM2zKA2fC3r1TQqhM6hP7uA",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8616082,
+               "lng" : 75.8107704
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8629651802915,
+                  "lng" : 75.8120201802915
+               },
+               "southwest" : {
+                  "lat" : 26.8602672197085,
+                  "lng" : 75.80932221970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "72c77454ab0e77e706514eccdb25683c47f44920",
+         "name" : "Foundry Laboratory",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJdVKcbne2bTkRC30bhMJBZKc",
+         "reference" : "CmRSAAAA2t97M9xhPn8P6YEd3EBYtG1t7NUrv8kWOWR8Bd53UDwDARlzKEGhuLy5dtRRvG410FFXUfUP_GzBhsx_y3V-jgl7hhsOehVqrZdsR3dpLVCJdnOU0bcIeDGlC32zFR3hEhBsp9SaciuOPECvz6EXgq9mGhTx_2jbuFj8NlwOj_yMt29vSEowOw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "MALAVIYA NATIONAL INSTITUTE OF TECHNOLOGY (MNIT), Naya Bass, Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8637137,
+               "lng" : 75.81052149999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8650626802915,
+                  "lng" : 75.8118704802915
+               },
+               "southwest" : {
+                  "lat" : 26.8623647197085,
+                  "lng" : 75.80917251970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "1ba980e8cbe97804a129609e32e067ce959fdd0c",
+         "name" : "LT-12, LT-13",
+         "place_id" : "ChIJeydXz3m2bTkR7RjBF5PRBak",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAASY7_VuZOHvqj771VJOFzX4qnUomARrIpbxhlHel0qmLWs-fWVcUzEwXBw0-EFHp4OA36QSzddSwSrao64sHOTN3DtQXS-qTAG53t3KjJ_bWW9i-LfXNc39iupkHWWRIwEhCPXUkJRpsyuMZ8ZPH9cbpsGhSOLYZX0Wm1GVU3Vj9ZIspNCskdgw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8637353,
+               "lng" : 75.8102614
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8650842802915,
+                  "lng" : 75.8116103802915
+               },
+               "southwest" : {
+                  "lat" : 26.8623863197085,
+                  "lng" : 75.80891241970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bf2d35e6cd25af083a7013bd2c9f6867d89e37f7",
+         "name" : "Dean Academic Office",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJN0NKyXm2bTkRUcDqWT1SsEU",
+         "rating" : 4,
+         "reference" : "CmRRAAAAcYQXiArpGq1CRLP1aAqcQFVBZ084Jhs2YySWCLm4T06GwHT_-h1axOnWe8r_N813mKnN91WHiSw6dQmdjcqlV_JbVAJ9mjQn0U2HHqq0xeVar2EQNipHBTWgeKtX5AToEhBobXonsiD17yIuk1KuLl9SGhTW84_9KXP5Gn6nSSNp56ck_JG9rw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8625939,
+               "lng" : 75.80898999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8640538802915,
+                  "lng" : 75.81035908029151
+               },
+               "southwest" : {
+                  "lat" : 26.86135591970849,
+                  "lng" : 75.80766111970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "c5f10c49fe901ba7c2113c6baa3be549f8d288e6",
+         "name" : "Director's Office",
+         "place_id" : "ChIJMx-Hi3e2bTkRjqUhKD9nQbE",
+         "reference" : "CmRSAAAAoEv-ofNEEALSqqdWDE5HLh5vmY029b0FAtJSa9uLUybPnN37TaOTDbigNqR_JyGT-HKuNt9jKMyd3oDZmEtUll4ffS4Hhg-yMHeQ74gdaABrCSzyWn4snOX1Rp5JspiyEhBMsBDi7zjXv9gGl-8R1hMaGhRD0Jn2Drvtrv8dC9v4ZwioW8fqWw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8622441,
+               "lng" : 75.81066000000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8635930802915,
+                  "lng" : 75.81200898029151
+               },
+               "southwest" : {
+                  "lat" : 26.8608951197085,
+                  "lng" : 75.8093110197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3ad30a54f4fdbf155d882981b17a4008d5d3041f",
+         "name" : "Department of Chemical Engineering",
+         "place_id" : "ChIJw0FYZHe2bTkRFuhj04SQie8",
+         "reference" : "CmRbAAAAY4DYS9YBhD2tzcf9M1lblADZ8_K9cZflvbJSZfSCenVar9JoCC5TTcgW0HoL1J_XYsOr3sOscnAYp7n5Ra-XKml3c2bv15wMgU_YT4SAI0GjB7o7kA3xiIbEXj_vVIqxEhDtYgYzqk3x9zKOEJlgIw4lGhRHsXwTx-Zrtx-aVazyh4v-jvGg_w",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "premise", "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,43 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8586577,
+               "lng" : 75.81459049999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8600066802915,
+                  "lng" : 75.8159394802915
+               },
+               "southwest" : {
+                  "lat" : 26.8573087197085,
+                  "lng" : 75.8132415197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "18331ee24e0d2d7d5c9d460f1cc7bb22f8ba6466",
+         "name" : "Cathedral of Our Lady of Annunciaton",
+         "photos" : [
+            {
+               "height" : 800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104762315413339655734/photos\"\u003eCyprian Rodrigues\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAC_DHGXv0gZsgZHhf5edecAz8w3d-ijIv5jCoB4XAfj31iecjBbQqT58MYPcnmwS2W-UzWSSHKCxUAQ6SgJ10h_Cqm_oCE9_IyLfoPzZHFLsMlg5oD8rXwEgeUoRC2eocEhDRVL-mFF6xOyl5nEpIWSlWGhTMA-GrYSxq2G0BVHARgQ1Hpin7jg",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJZ6ulbHG2bTkRGdjiUEd0LzA",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAApgLUbwd3jfxYy9yRgOVxEfy0AF54U9tkp5HpDSWBWOHgp18RyrHWR8Hmlc6ntirLtek6PU_oqV4gCaBfufcVNLm7Y35YgQijSGsniT8azW1XX_Db6rUnWF0yklAwhN-gEhCDvIp0Jt5GJt5OWCffoAqwGhQbGPK7qdaI24MFgCmrGuFpGDBY1A",
+         "scope" : "GOOGLE",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "St. Anselm's Pink City School,, Malviya Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

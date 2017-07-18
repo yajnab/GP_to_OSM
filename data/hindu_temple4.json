@@ -1,0 +1,621 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85374269999999,
+               "lng" : 75.81249699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8550916802915,
+                  "lng" : 75.8138459802915
+               },
+               "southwest" : {
+                  "lat" : 26.85239371970849,
+                  "lng" : 75.81114801970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "4fa59cb6836429a21e05786621dc7e20844514b8",
+         "name" : "Shree Siddheshwar Mahadev Mandir",
+         "place_id" : "ChIJD5awg3S2bTkRy1JzzgdmWRE",
+         "reference" : "CmRRAAAAiPpuwNrPhxEXoftAYJI5vqRjSjBO8V0vjA7gBJNkQjZ4ZjUkm_-hAZ_6C5ZHKFe9cuFyrA2I03Rh8s1nuVgvntW7Kdr-g05Jge8fh6a5QsCwbe0OWA4rKMOuuhiQxFLrEhBcvX_tmdb5UgdMLJ6vouIXGhRRMG-r25uEyQNlIQLuOPgzFj4U3g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85493659999999,
+               "lng" : 75.81107369999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8562855802915,
+                  "lng" : 75.8124226802915
+               },
+               "southwest" : {
+                  "lat" : 26.85358761970849,
+                  "lng" : 75.80972471970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "7e49220eb1d75bd7b30dbdca49713890a7ec7147",
+         "name" : "Shiva Mandir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJwSADQ3S2bTkRsQ3fYg07Qe0",
+         "reference" : "CmRSAAAA-y3jvj7IVJoqxMwE5haVK2KWsgSOxeM4J-HU_xHvFXEWBKzMJSKFU_lLp2iA86YsuiuGJNK2NbNFlCI-WYg6jo526tv_jeAbp2ARmoRA-nXJZaWv7LB3xuyGiB3Jn2T4EhADZ8EdZZ0k6arTxSS98XlBGhRxPiMX5CauNTo-WXHVn9kAbamiSQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "C-Block, Block C, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8557231,
+               "lng" : 75.81028649999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8570390302915,
+                  "lng" : 75.81166578029149
+               },
+               "southwest" : {
+                  "lat" : 26.8543410697085,
+                  "lng" : 75.80896781970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "2ee85bdc56475f629b4870885047a671382a437f",
+         "name" : "Sai Mandir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJYeXDNnS2bTkRG1MGeiJ_pcs",
+         "rating" : 4,
+         "reference" : "CmRSAAAAKZSjaxMRVg9T1pFj1zQeIVtKJu-P7pHHT2ou0_oNm1vSP-G3caoCRXkDOsCQidngG-QwM2CiXEgK0eml6sLMFF6mpYvBnFwWZhGWoVUcoSO2AGUrEBE5tc5CdllhYo4rEhBoODPoEfFg3G67DCljmEaRGhTBmiwcv6GTWXdD6P0A8X-N2DYjzw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "C-Block, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8519868,
+               "lng" : 75.8151379
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8533357802915,
+                  "lng" : 75.81648688029149
+               },
+               "southwest" : {
+                  "lat" : 26.8506378197085,
+                  "lng" : 75.81378891970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "fc7ebdc929e00696864d28326df52da63d5fdcbf",
+         "name" : "Shree Sirdi Sai Baba",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJHWKcLnO2bTkRMI5BGN6SuSA",
+         "reference" : "CmRRAAAAAtCR5Q2yx5hRj-efFErdiviD88KBA5NMf-sxq-GMxnJfkCMkbK16qUFgHA48CoDVws50SCixIAgIj7VE6ilXjQlJoNCHdZNwENUSxQ-5-Y7Gq6EAr2aAuqh0dtAGhenzEhBFjAb92UoVSMgJFu-Jt205GhQUCk1oVRmgoS5xCObCpynzifcn3w",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "B-Block, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8524205,
+               "lng" : 75.8157435
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8537694802915,
+                  "lng" : 75.81709248029149
+               },
+               "southwest" : {
+                  "lat" : 26.85107151970849,
+                  "lng" : 75.81439451970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "d6d6938c2b93d9147924a32ab113e8b57246b7c4",
+         "name" : "Shree Ram Mandir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106662026862737660976/photos\"\u003eraj sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqYRkXzyAXiy_6YmnFNua52plTqzTgzzfxEhe7TV-zU5RvdSz8buAtgs-ZjQ0mED-TS0u43AokkVPi-kP0lmZh5oaQ1_1if6RB99RHRqF698eNAUbaZFXzO7WJlazccZiEhBJ5nGIGFHOZfoW9sz_R0OWGhQ1oh1WvsxFZOnxYtp8ombBv13WTQ",
+               "width" : 448
+            }
+         ],
+         "place_id" : "ChIJX_6H13K2bTkRhuMzpGVDMTQ",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAYGZ4gOJ7m1TGwhm1QumPgpy-BtT1NtAM9aREFI_zimGgS3mwzy-l1vu-iFMYMBdlmT3d5XQZf1xudvfIJytGvLyq986AzYKHQ0OW4fjhGaeYAv18bf-A7gNbofY1lMZnEhC2hRsYu1bLlmm8CpcRR4tmGhREJ1v5HO1MxT7ZaK-hoEU7_tEbfQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "B-Block, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8560118,
+               "lng" : 75.8093293
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8573607802915,
+                  "lng" : 75.81067828029151
+               },
+               "southwest" : {
+                  "lat" : 26.85466281970849,
+                  "lng" : 75.80798031970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "ded73b8793e5e146a47c5cf76376a1fde308f5bc",
+         "name" : "Sarvjanath Shiv Ram Mandir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJBTfh0XW2bTkRH04Phflf_Zs",
+         "reference" : "CmRSAAAAIegeWAQClg6ALbaIeqAaXcbzr1fXsmdtQITdY4x-745gUrwbNLtT2mU59jlITFsex8lwlTYfJaQoyWWntkTn2ZBMhiR6DrOsn8X4hXL3OL3EvZvG1Klin_Dfoo_p0qK0EhCbLzW4XyKZ9ImjTzfVedRjGhTmBTedyBRvK9mBoy4ccBIVmOI4Tg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8505971,
+               "lng" : 75.8134465
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8519460802915,
+                  "lng" : 75.81479548029149
+               },
+               "southwest" : {
+                  "lat" : 26.84924811970849,
+                  "lng" : 75.81209751970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "c7d4420cfe8d04a00b104eb6741b1e15de16c97a",
+         "name" : "मनःकामेश्वर महादेव मंदिर",
+         "place_id" : "ChIJqcrMugy2bTkRGk4hviOA7bQ",
+         "reference" : "CmRSAAAA2M1f9JMuIbJSrQxqAPGJtGTRdOLRc7Squz6gsKgzZN3cml1svuN-6CR9-nGvYQzkrQbayrdNOV_MT8I1xWjjW_748ea1tpjb4bZynqgHrbKlN89fBgiily_5yi0JPIxAEhCCFhKpnb1vT3x_Pia6CufAGhSZlX8I6uFnTdwBjVM515lFwMGfTA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "4/394, Vidyut Abhiyanta Colony, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.853876,
+               "lng" : 75.80855409999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8552249802915,
+                  "lng" : 75.80990308029151
+               },
+               "southwest" : {
+                  "lat" : 26.8525270197085,
+                  "lng" : 75.80720511970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "d1726cf70a2a244da3947cd527ed58c0e3d2ee11",
+         "name" : "Shiv Temple",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcaaJoHW2bTkRWblzhKDAeIA",
+         "reference" : "CmRSAAAA5q0oj89H_Neu6p4XRk-1zt-rdRdI4teb7HsVVVJ0zpdWi49BmItTIk4xXsEttwIMOLfGMM-GjrxWA2nr8wcTh2LUt7dTl5uxWiIx7wGxXcMc1jdO81pqKNwpGXJ9clDsEhDPpwk_6oBCcnbjKvpk0IY8GhSIrnE6HMZ6iaAaxZucDvC9jveSrQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "D-49, Sector 9 Road, D-Block, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8539317,
+               "lng" : 75.80849649999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8552806802915,
+                  "lng" : 75.8098454802915
+               },
+               "southwest" : {
+                  "lat" : 26.85258271970849,
+                  "lng" : 75.80714751970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "9ec5015375a6f2818e2828520cd168c33c1c1f98",
+         "name" : "Krishna Temple",
+         "place_id" : "ChIJmbVEoHW2bTkRowMqzLtKCbM",
+         "rating" : 5,
+         "reference" : "CmRSAAAAnWYGoqru5TvWxc8UdGXposQY1LzEfhEx_OFgPyb_V0IE3wm9U2sxfK-1W78a2ZVl1XGLxMTn6WYpBa_rARTpczMio-zL6CJAGNaUz37tekRj2_uU-LxI3_FFTwg45YxqEhC4ki3AIjnn1GiVMjJXsigIGhR21OPus_sZU2nenQFSk4pBLWUdAA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "D-Block, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8574304,
+               "lng" : 75.8154698
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8586673802915,
+                  "lng" : 75.81678123029151
+               },
+               "southwest" : {
+                  "lat" : 26.8559694197085,
+                  "lng" : 75.81408326970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "5415d1a9649e738d05410fa437a3bcbb74bdef18",
+         "name" : "Shree Chamunda Mata Mandir - Shree Durga Mandir Vikas Samathi",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114388144115460258377/photos\"\u003eIshwar Das Baheti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxXQuA_NSWJLRJGeB2GL1CQDZxTpGdsIVakY9hhOKLQlSULhNa9LankBsEND-aB0AAUSq3_zC0O_x9oRTm_l4uSUnTTzpHegb_Eag4OYmQBaPJdQjvViyuEbFu09-nlcuEhDVUE_meoNLncO_YyjHxtnMGhTmZDT4Q6zV2gCZV4WiHR88SzaE0g",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ-03Rf3G2bTkRYGjUCGYtxkU",
+         "reference" : "CmRRAAAAynEiuE7ByQxzYUb6sP-jYHlR9ytTdYJvoRB1tiJYB63VTMBVkSrM-UXMZJdt9Mvf-Slr87WHztHPy_VvqnNhM3ua5kkwAZAjCSVsWyrIHds8vo4eoYSZa-8zfbSxfnCVEhAPXwUT5iooD6ZIMUyzXPuoGhSDjYjMUyy-WzI5pUyEIB3Ql6pmpw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Bhulana Gram, Rajput Colony, Calgiri Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8515263,
+               "lng" : 75.80930479999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8528752802915,
+                  "lng" : 75.8106537802915
+               },
+               "southwest" : {
+                  "lat" : 26.8501773197085,
+                  "lng" : 75.8079558197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "e27655eb80d85da995dfe34d10f0e6f403003a1b",
+         "name" : "Hanuman Mandir",
+         "place_id" : "ChIJWwWqL3W2bTkRtwwt0cv4FYE",
+         "rating" : 5,
+         "reference" : "CmRSAAAATY4TPGtipMaEjYT-CbpZECB8bEyF3iyQnbzjsQBbCPN5UaT-BesUR11Mk6C7O8ekqOuyKDJUsLcTcHcDNYKRcON4vN38XkQFBkvoHghiU0jqtKz3b_CybtjrTRRlnrsnEhDjdqYG9IQkczBdGGmop3JYGhT4GHSaOi1fhpo3KtfmBiGrAOtgSw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8587501,
+               "lng" : 75.81282089999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8600543302915,
+                  "lng" : 75.81423273029149
+               },
+               "southwest" : {
+                  "lat" : 26.85735636970849,
+                  "lng" : 75.81153476970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "b31af83550dd279db22929641c7d23a4b8268429",
+         "name" : "Shree Nakoda Parshavnath Mandir",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101693427329228070592/photos\"\u003eshalin jain\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKCcBR1udStCsdkm1NSMa09SodPEZOCK9kcdsBT-e3cfV4rrf2zJblj5Hm_lbXZFaF_q_k3PFh9M_GB9bSdZ6ToYhh9NYMnPuA6BNBlNbWZu9BH3ljVZ8Nc2rBHySpOfYEhAFXzEDxVg4Dk9Tl1MooYvaGhRx4gN3gLKhV5mokYcTUv_bZvLytA",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJj8usTnG2bTkRMWLzoomi930",
+         "rating" : 5,
+         "reference" : "CmRRAAAAXTrngYwG1ibFImAWhLuH59hnJE3ArJTYDMaPa1WehHYVbwPtmQtFeAuP-xxcuGAcySgapS4od9x1ZsYakyTV9IHz6_9ff4gPMeX5SHYs_Oax5MJH0l-WaDFPixvET9fQEhDahC8DbVdt9_CgXoqQhI4oGhRInfyptSFWt_Z2EHtjXOfjA2trRA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Calgiri Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8564999,
+               "lng" : 75.8083264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.85784888029151,
+                  "lng" : 75.80967538029151
+               },
+               "southwest" : {
+                  "lat" : 26.8551509197085,
+                  "lng" : 75.8069774197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "8e16e55ff3277c0fde2af2beb8e232b754241f2f",
+         "name" : "Shree Bhairnu Ji Maharaj",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJK3994HW2bTkRLk8oVgl-4kw",
+         "rating" : 5,
+         "reference" : "CmRRAAAAvqFQnwApfLfjTse3CybtGNWhOZLDnWqSr8Rt-wKZZ-1sd4597F0mJraW5ox_rAYIYqIBGP2t9S1vGUoKdPMB238qXChaa2rHhSxT9yJyBjyF0abNyFI2mG0I_arQHai-EhC-NnAHVhTAUacSDbyPHYsNGhTdnJqUcxCx4I_hhgL8wEbBk8nqOA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8495731,
+               "lng" : 75.8116845
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8509220802915,
+                  "lng" : 75.81303348029151
+               },
+               "southwest" : {
+                  "lat" : 26.8482241197085,
+                  "lng" : 75.81033551970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "4ae30814b70c37f1d9065ef66770a3111bfeb02e",
+         "name" : "Mata Ka Mandir",
+         "place_id" : "ChIJJ7RvaQu2bTkR0DU9mIB5F7E",
+         "rating" : 5,
+         "reference" : "CmRSAAAAGrlUWLr3IHz2qyIb30L3PhprVvpzpPrvOKAVfmbInuo0cA7NX2eQHTOywIz6QcHyXKEQ8WmVKO8a7VKFQCmM1mn5mNZ_Z6PvRofN2le8I2kQSwP87mC40ToZUSsjKUubEhA1mVVBOlTSmpvJFmuYUu0pGhQX5e77sK1lKqHIoy596RTMsoSj8A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Sector 10, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8546915,
+               "lng" : 75.81840459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8560404802915,
+                  "lng" : 75.81975358029149
+               },
+               "southwest" : {
+                  "lat" : 26.85334251970849,
+                  "lng" : 75.81705561970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "d14e921426986501cbde2f580079fc773debdbdd",
+         "name" : "Shri Mansapurna Mahadev Mandir",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101572310655581072080/photos\"\u003egovind gautam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALoZQmJHigMSwQta_wvhexYZwTBFM5ZG_vOkM7aPgxu8-XRyZi9v4Rhf_RV700Zv-qxgQODs8wxiM-pApWkm_i81tQ8lU5Oxg-e1kJ64tvBHrHAn9OcrpUGN64XBNl5ONEhBsfnC3xcVkzC3YECXXp9PwGhSUn9yxmqNQK15jCaADnaFOBVjckg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJ-3BFgHK2bTkRTEwWiPP0VlE",
+         "rating" : 4,
+         "reference" : "CmRRAAAAIU5rYDxsFE_0dKfI2aeJ_pof2n-5AVgb0acwiq6KzbSi7IYySw2pswyRKUSt8zdo6B1ydJhX6TNSIFHjJxTDCBzYY0hGLmwb1w2_NQJ5gcZrMgjykLtwRXch0oHM2mpZEhCaX3NOwQKQsArcEYAaGRQ6GhT-i_3Cz-rTpQgZ0cUt7AltUhUFmQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "A-540, Block-A, Block-B, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8577939,
+               "lng" : 75.8172829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8591283802915,
+                  "lng" : 75.81871968029151
+               },
+               "southwest" : {
+                  "lat" : 26.8564304197085,
+                  "lng" : 75.81602171970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "025aedf2208ef29d91f49732246333e39b6a5188",
+         "name" : "Chamunda Mata Mandir",
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105746043213553290385/photos\"\u003eLaxmanksharma98293 Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwtfAzY1PhIDPg1FQT5EeprMqyDLxdtwMK3j8xU19lNN_6p19r9BHZyOYnmwL9F8R9rC0Y7DQsTyp1m4v_CJsLB_G2YJM4qgh0STlylLRUhs7QCB1U12qaITeXV7fx5j8EhCBZbKMgTFJE2ljseROXuahGhSQ-tWYI4xkgp0UfhlUYZosH0gBvw",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJEcBT9HG2bTkRF4cNsGsbLRo",
+         "rating" : 5,
+         "reference" : "CmRRAAAAIC7dIMMvaU4ld_BEXw4D9pQOaeT0uEABXDmT-MOkHNnN7EgOs5ddlpzRSq8TQFqH_EuUJpuVwL1z-UsfOYSq3S64YxMVu1RBg5Brzwf-L-cnBsNV5oe0mO953-epwaU-EhDDXkgk-Yo2TlCUdWLuoEqvGhT6uGmxkVpUG_g4xEqszTVDGhkemg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85362,
+               "lng" : 75.812561
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8549845302915,
+                  "lng" : 75.8139217302915
+               },
+               "southwest" : {
+                  "lat" : 26.8522865697085,
+                  "lng" : 75.81122376970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "bc656f614e8851c0ebd6b36e1b9b86a37ce0102f",
+         "name" : "Mata Ka Mandir",
+         "place_id" : "ChIJRZf_gnS2bTkRM0tp-RsPxgU",
+         "reference" : "CmRbAAAAE7PY3nf-t6KS7KLiy3sW9Yk39-kSiYLT5R42zam0c0ZEFmxY0onsfgbXuQLiXhHn9D5SNtmwUEI6VjnflbR3uLcmPjzullpno7H7D9iei_GvH37MAR69gEL_sHG9FhCoEhCPgqkC4V3hkYuQuogkzVpfGhRUomHH0ZrtBBrjU-YORBMF01D1jw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "premise",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Sector 4"
+      }
+   ],
+   "status" : "OK"
+}

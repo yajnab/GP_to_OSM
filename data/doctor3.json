@@ -1,0 +1,623 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85642559999999,
+               "lng" : 75.8107437
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8577745802915,
+                  "lng" : 75.81209268029151
+               },
+               "southwest" : {
+                  "lat" : 26.85507661970849,
+                  "lng" : 75.80939471970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "543e1b99b0e0c3b21a3fb0f30d991ec0aa3a7dc9",
+         "name" : "Dr Rajan Garg",
+         "place_id" : "ChIJGxxSJHS2bTkRRl9aHXs2n98",
+         "reference" : "CmRSAAAAcS6ThVMufoHQXmAo2fCmBsx6kX9VSQGzsVbzRnWMQGlekyjNeAUjmEoPtJBW-pBP3klhJ-xFy3yyPS_QZnbmFvdUkrUFKGHBwRg_CMxJUm97EabHhvSl3BibM7pxmMpDEhAM-_5LL36mJ12zRZ2XqSVGGhRlOkCLC88uRf6n8wUnRaEAGPYwog",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "9, Vidhyut Abhiyanta Colony, Block C, Hans Marg, Malviya Nagar, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8506,
+               "lng" : 75.808296
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8519489802915,
+                  "lng" : 75.80964498029151
+               },
+               "southwest" : {
+                  "lat" : 26.8492510197085,
+                  "lng" : 75.80694701970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "52409ea8e3272f874609dd5301fe66624063edb5",
+         "name" : "Dr Neetu Ramrakhiani's Neurology Clinic",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113349445580455290759/photos\"\u003esyed abdul aziz chishty\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAtNaNUWmUhalJBFlUczvloMilkJ83e4KrWoTM--9infY5pJ43iu1JV5t0u0PvxZsbGJFsKQSAI3hSUqhl2_akBtHRanGZ82wm01yduL1K9zzUFXsUujO-23AqXYjmawPWEhDOLVER43WPBjxKwxGJekP6GhR3P5bHQHFgmzhjj9YRP5lkjC95sg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_UXvtQq2bTkRhtjW10hYmNU",
+         "rating" : 3.3,
+         "reference" : "CmRSAAAA4EWFlW_f_o_aUEUK1QSKhPDj4zG1D-m4rzwELyQNpRFrvJF_7e8EZD9MBTYw_AqgdDWeHZRFZgEWCRtvTtGDzs1AWld4o6fdDqHbXlnzFV9uoS0AYeP5YLKEFn0-V65VEhCBOCFX-8930BXmhxMwniqsGhTyLqIRrlxDZAojLZkZIEIqQUJy-Q",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "D-694, Malviya Nagar, Jaipur-302017, Jaipur, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.859258,
+               "lng" : 75.808762
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8606069802915,
+                  "lng" : 75.81011098029151
+               },
+               "southwest" : {
+                  "lat" : 26.8579090197085,
+                  "lng" : 75.80741301970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a20940f99b241aafffbf19f3239635b2c36b0115",
+         "name" : "FACE KRAFT Dental Implant Clinic",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113891659972297146281/photos\"\u003eFACE KRAFT Dental Implant Clinic\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhBCJZLI4YUKDUU5dcsXpVADDE9_CZAPogwVoIyKAdVzs5sSuMijzxMC5pqAyJpgsV3Y_BNEe3yPrzrLyrSmIsO2MH68K9qHDb_e6RQ0qLl5zWbAzvenAiyE4sNWmP66BEhDi-GVGuSXgy8kxOOEJvoXTGhQYljwE7vL6kyhfTyoU-rjRnV8yug",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJWwXTS3a2bTkRchcrTaA1rl8",
+         "rating" : 5,
+         "reference" : "CmRRAAAAeOj3r5iqbzScAJ3x7-fG9cNiHBNGDbfK38TIT6w8SILM7owZMSbUMs1Ah1fkwl3dAfWI1jxWsRwLQdptdQb19erwitSe6e_L1Pt-Eh_-gavRWz9yEu5Kg6OwkmdZUTBjEhDZpPFZ5_Ym24UgyVNQn13QGhQenY0qFFD08OzlSDD5e_yKqGm7Qw",
+         "scope" : "GOOGLE",
+         "types" : [ "dentist", "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "202,2nd Floor, SDC Vinay Building, Above Brown Sugar,Opp. Bharat Petrol Pumpnd, Main Calgari Road, Mauji Colony, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8543918,
+               "lng" : 75.8060285
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8557407802915,
+                  "lng" : 75.80737748029151
+               },
+               "southwest" : {
+                  "lat" : 26.8530428197085,
+                  "lng" : 75.8046795197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "08b6bebc087ea15e5dee77324b213b2c15343372",
+         "name" : "Acharya Tulsi Diagnostic Centre",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100090046382764582555/photos\"\u003eSubodh Pugalia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA32XgXRxiBNoY3RP6DYvWdK52H3cThA-fnahQFmqARWXcIEngs_tv57AXgGG7823zVt3j7Y3qVEN-jyyRUFi9zasn__a_-pL1iOcQs0clxK4erMhmmiH_9vnXJYAlDw6iEhCB4Cc1xgpkWd1bAsHxXMTnGhTv9oMg8DN-S1XryPYeifJ9x_yjPQ",
+               "width" : 1052
+            }
+         ],
+         "place_id" : "ChIJfce2b9-1bTkR_HO56aNEQUs",
+         "rating" : 5,
+         "reference" : "CmRRAAAAb58Kx2MdUkLGIxvVzdk0jNXe5OdJyOVyaL0ixWwMHGxxvbxkwcIAcS9MPxbuKvmN9L8fOpoNQfNYKFEwfM1gcZzNuKD5b7E7ZmH0y0SUxhEbK8S5Qzd1RJERcF-aWp5BEhAmq92BnvTk2jnWnz0iBqo0GhQXVvolFHWiyOa6n8GWCGsiEA-fag",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "8, D-Block, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8544247,
+               "lng" : 75.80356519999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8557736802915,
+                  "lng" : 75.8049141802915
+               },
+               "southwest" : {
+                  "lat" : 26.8530757197085,
+                  "lng" : 75.8022162197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b9af8d408be963e6b44f8442417b9e44cd0e8c03",
+         "name" : "KIDSCURE Dr Rajiv Jain Child Spl Pediatrician",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117359324406744116933/photos\"\u003eRajiv Jain\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA61KHCTax76OGThP71WlXN_Y8KSjy0TjYcoKTLxl4iZAyBxmHf26UB9gv6aRwX9AgXbSY1nqVfTJw3jJxovx1zhtq2gjogQQQ5QvDEo9gsTBSEF-W6l_HVlhrJ0g5Ew-SEhD4yI5kWSxdcWgymfMA-_d8GhQX6aX8dSpRzjnXUNuNVc_E96uoRA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ4aGj5t61bTkR413yY9FS7Eo",
+         "reference" : "CmRRAAAAMrdVuw--iJTVv7UmPBnRGXtOEgujmMkGvKqgImnF1wzqQni6_US8syiNcRhWzP3-zjSspDNDOiKZv5OMLSyqm9bIehzQ91Lx4BDhPDIKWDS_ujD7G3kzQBhc8vwjqcC_EhBM6qXyDGT8buuHEMZctE8hGhS9fF0zV4Ehm7ASUvyLilq2YImT1w",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "3rd opp world trade park 302018, J.L.N Marg, Jai Jawan Colony, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8534412,
+               "lng" : 75.81036329999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8547901802915,
+                  "lng" : 75.8117122802915
+               },
+               "southwest" : {
+                  "lat" : 26.8520922197085,
+                  "lng" : 75.8090143197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e341fe46f18a62d76a186f7d317d16833e75bb6f",
+         "name" : "Dr Suresh Kumar Gupta",
+         "place_id" : "ChIJAQAAAHS2bTkReiO2jGiOOBA",
+         "rating" : 3.6,
+         "reference" : "CmRRAAAAchAp8gGRxw81z4vZEuSTtrFGVVSgZ_Sqog2p0nnRPtrK8RD_E2qSmztG3eCdLmBGPwHJboF6pvmHHr7ugRHucaUWeqDGx_W5dRmRTQkt1ML_TptqFVFMdry2s_cIM6QmEhDaW7Qrwvk58VSH7Xuh7kYiGhQMFUXaOgld1_LNUX4rb5MJa0iE7g",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "House Number 51, C Block, Vidyut Avyanta Colony, Pradhan Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.857503,
+               "lng" : 75.808497
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8588519802915,
+                  "lng" : 75.80984598029151
+               },
+               "southwest" : {
+                  "lat" : 26.85615401970849,
+                  "lng" : 75.80714801970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b34add28c1b4e2f2770797a2458ccc220d63e6f8",
+         "name" : "Dr Manju Bansal",
+         "place_id" : "ChIJywXnUgu2bTkRFt8YyqhQbZc",
+         "reference" : "CmRSAAAAKKeeJlGQOUraTF2EOBoTnYgyWcjPxgohdLO4DAzfjE4aCDf-H0Rx97th2voIjNQiKiCjga7BdxeGMzx8qohsnJvQ3e93ZORG8lV3TtaElqCyy2yeFYabxsaZJjuNETO-EhDUOdVgdLc1j_4U3FsqdX7UGhROPTO1hVtqS525IIaDynlJaSr2Cw",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "E-2, Pradhan Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8524887,
+               "lng" : 75.8101594
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8538376802915,
+                  "lng" : 75.8115083802915
+               },
+               "southwest" : {
+                  "lat" : 26.8511397197085,
+                  "lng" : 75.80881041970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d070323486013245e3c420b633a7b932a118dd32",
+         "name" : "Doctor AB Mathur",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJM8MI3nS2bTkRXuyKN4efkn4",
+         "reference" : "CmRRAAAAsL4x7VDCK4VCApL-huAu7rMZseXitUjswUS1aEdDrAG3AoIiPvn3MVjlX1fNARgQ4rbSDDaNMojLEyYN5lKb38UfiQJgxKgWlODsyWF_moqPN-E_U6JWEQq0cmOCFXlBEhAOY-FK9_ixF8VaHqO14nF0GhQtT18tGie2d012T6xJKiUsBjKgnQ",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "D-Block, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8536371,
+               "lng" : 75.8106858
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8549643802915,
+                  "lng" : 75.8120514802915
+               },
+               "southwest" : {
+                  "lat" : 26.8522664197085,
+                  "lng" : 75.80935351970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "585b0bfdff0197e4c0decc05eb068d4a2b4d3cd5",
+         "name" : "Dr Vinay Tomar",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105709757214117869300/photos\"\u003ebal krishan ladiwal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA89eAbGpHKmAuv4INIvJIQFqw41biP01F7NFCL0w8R0LS2OpLeXVUlG9tYhXX5okedXfG2k_PuynuqmHm5TchSNi0enWLrPi1JRp9hHXlLawAqIEin00wAgDcd6jHo2TVEhB3CU_ZbV0XrrGM4YYJQpIXGhQ5CJHFbVL0hW7ao3UnDWZ50Clgkw",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJWUjmh3O2bTkRy6lLjYS_E7Y",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAARXKGsOOuq7VaK9MbLx1zeIKhqqsWMy1vLYJV7P4i7H_a5hnEkd_iacbil2fWPe_8EzpOBFrHAUn_BA2Gii6hPeVd5QlGJ8tNRPM0g37Xn-IcxJ3nluaFio35oUZe_RqeEhCPKQmqUEbQhpMhFHr7kaqKGhRJ9HH_HqOBVv9n5fLsCNzwhqxY_A",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "B-314, Hari Marg, Block-B, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8577718,
+               "lng" : 75.80886
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8591107802915,
+                  "lng" : 75.8102424302915
+               },
+               "southwest" : {
+                  "lat" : 26.8564128197085,
+                  "lng" : 75.80754446970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "36f82d4b7192e50b11abd43d33e4e4e469d997aa",
+         "name" : "Dr. V D Sinha Clinic",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ0eLPbna2bTkRBGMumocd7q4",
+         "rating" : 4,
+         "reference" : "CmRSAAAAe3J5X0D_ygqgqCgtKQ7HTVmuMOkhw4WdlBSGKRNVOlM54oPE4NuwTytvHbapS6J7ouGDyjnzfwK_m2FtTl9DQ7i8Ub_i_hCGb7f4YnQb3TZuDtgrFWODA4MytoUe1QaqEhAtmguMnoX22fQ_rwiM6GZEGhS4geolnYngeiXIZ_2XqPu_s87Xbw",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "53, Pradhan Marg, Gem Enclave, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8581914,
+               "lng" : 75.8083137
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8595848802915,
+                  "lng" : 75.8096839302915
+               },
+               "southwest" : {
+                  "lat" : 26.8568869197085,
+                  "lng" : 75.80698596970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9c237b3096efab016631148db34bc3dbf84db620",
+         "name" : "Dr.SushilKalra's Clinic",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJI_PtP3a2bTkRIiB8A6Eg8nI",
+         "rating" : 5,
+         "reference" : "CmRRAAAAvRsf_Y4EINUJKdqwpNSJp_VFECyMg8NPdtGlgoxg7tOVnK2iyNVVtJVZV5fEA1IHEaQSQ3Llo60nCUGSEvdXRy_rF7E9aICncTtj2m3h6kyvu6OBWAXUzdG2e6AVYPx6EhBcxPPpQveZif4-Ufy9yp5UGhTTtFAB2Q0QBVLjCj3KqQrvImXNTg",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "61, Lumbar Marg, E-Block, Moji Nagar, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8516029,
+               "lng" : 75.8103941
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8529518802915,
+                  "lng" : 75.81174308029151
+               },
+               "southwest" : {
+                  "lat" : 26.8502539197085,
+                  "lng" : 75.80904511970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "725fadfcaed4b1f9745b8a0de9881688a46746bd",
+         "name" : "Dr. Pawan Agarwal's Cancer Clinic",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJbYuk0XS2bTkRAS95IZ2toAQ",
+         "rating" : 5,
+         "reference" : "CmRRAAAAB19Y6QeIonYUAq2Kj4LBdgIoIztdVUTKfYbX0R9JgU6d_302LgZR-0jaiLl83R0eKGtMOFDA7m623YlCt7yj6Az3OTiv_hA_O15ET5p7FGzEHTgNPhuTBXtIFaRaLfttEhDnR0WK5c199TbOMEs72N2pGhTX6rB9N6MBCl07FJtJUmGxNgzumQ",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "D-362, D-Block, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8582778,
+               "lng" : 75.8090222
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8596293802915,
+                  "lng" : 75.81036258029151
+               },
+               "southwest" : {
+                  "lat" : 26.85693141970849,
+                  "lng" : 75.8076646197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "96293352f83338ac704a7cfef2d248fe1ab8065d",
+         "name" : "Dr. Rakesh Bhargava",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJBbC4Qna2bTkRW3mHJyCDEHo",
+         "reference" : "CmRRAAAA1mU-OLcc1AQiD4byZEgBlAZd7_OXEg_h8UzPHIyKr9KLQjr5uIS3-ikEXH0mSoRxfAcCa-zhahy-ta15gnPwkWXnRBaX0RKqkW1471ouQuQBX0zSOeRVJXygEqV1xnwKEhDi4xwJN0vlPnWR3lz-zQifGhQJaTHd3rrBbUGSsKuPEY7f1HVhVw",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "47, Pradhan Marg, Moji Nagar, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8522034,
+               "lng" : 75.8114339
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8535282802915,
+                  "lng" : 75.81274268029151
+               },
+               "southwest" : {
+                  "lat" : 26.8508303197085,
+                  "lng" : 75.8100447197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a078d81161c7c7cf50014d5a2aabc2ea09a4c80e",
+         "name" : "EKDANTAM DENTAL CLINIC (MALVIYA NAGAR BRANCH)",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ123huHS2bTkRDnF3AfX_EMM",
+         "reference" : "CmRSAAAABgMiQoVvhWeiKJ34fLIpsiM0dRR9PvXcDgWHW-ru25BeCXZwb3sCi0bgzKVRmOnwvFG7gD58LeTln2Wh-60vGhqRDTiUlxUs6AYQ_e3EYp48CDHAVQZGlYU1TeYjBLE4EhC2SCi8U7Nxtj_UQ3rBHmqKGhQ3QxkOHRGZTVzvPyxzgANtHurrlg",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "B-427, Pradhan Marg, Block B, Vidyut Abhiyanta Colony, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8550597,
+               "lng" : 75.80117969999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8564086802915,
+                  "lng" : 75.8025286802915
+               },
+               "southwest" : {
+                  "lat" : 26.85371071970849,
+                  "lng" : 75.7998307197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0d313d59e814ad98c1d3e90c87ae72d5a92521e4",
+         "name" : "Dr. Vinay Soni",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJx6afp961bTkRDR04AEKeQ8I",
+         "rating" : 5,
+         "reference" : "CmRSAAAABh47p-G9xpof7sieUk8WJPZwhdvEBHxSDOIx_4fJJKjvEq3yF_ExOX7GK42n7SW114MoZZiZ6dhQYe5ap53sTceaIy7_-vwII4h3WhWg_UK7dAFJeHBb9KWGgGbfUnR3EhAa347EB6Dub7zwQZe0eQ8iGhR8XnCTj7x3x5nYA20Tnsx82nBG1w",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Jai Jawan-3, Jai Jawan Colony, Milap Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8493934,
+               "lng" : 75.8070377
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.85074238029151,
+                  "lng" : 75.80838668029149
+               },
+               "southwest" : {
+                  "lat" : 26.8480444197085,
+                  "lng" : 75.80568871970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "442a6381d1f6166f8a1984da1e2a8c64c5c2796e",
+         "name" : "Dr Raj Kalla (Orthopaedic Surgeon, THR, TKR,WHO Fellow)",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJues6oAq2bTkRvjCgTM2iOjA",
+         "rating" : 5,
+         "reference" : "CmRRAAAARCIPeO5_OzS8eZKwbiJyYBy2V4pjASpEo-bzfNKesflIG5hXpPHfeW58SXuAUwg_ExhX84JbaMX0RSTFiv3oY4WR5VO7S2Z-KXxHfybWP5PgGbLDX4JnX1ORqHeoJKbSEhDsvRKabv7XHTwWVtriRQYHGhTW7a28yeD7oASXQyTZ7H3CFXb7mQ",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "9/969, Malviya Nagar, Sector 3, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.859317,
+               "lng" : 75.808396
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8606659802915,
+                  "lng" : 75.8097449802915
+               },
+               "southwest" : {
+                  "lat" : 26.85796801970849,
+                  "lng" : 75.80704701970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e8f703345515850a7802beeac425d3cad5bb8ab8",
+         "name" : "P G STONE UROLOGY CLINIC& LITHOTRIPSY CENTRE",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1127,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103149958564683215212/photos\"\u003eP G STONE UROLOGY CLINIC&amp; LITHOTRIPSY CENTRE\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzqB-ZbqkLLye1m-Gh9vOpNpeGISM8VdPjc4fpXCg7XHkIN_X4g-TUicWN6b76Pylst7AK9bGSXjaYtxt_1PEZujGJEF2dpOdR0NyBUeJ0tq-vFj9qZaBjxMzZu_o6oWmEhD33ACZKwHCQX5gby_P4LzYGhRKZYuJBSTYilDHTt5t_Xn7UnZAcg",
+               "width" : 2002
+            }
+         ],
+         "place_id" : "ChIJWTJySna2bTkRO8gH9RpQzT0",
+         "rating" : 5,
+         "reference" : "CmRRAAAAT6MQM7iwzIq_f9Tn4Ip96j3bqhoz4GfcC3SanD8qJ26Y1leYZqCRURqV8PEmlWWTEgMcrUxgIOQGcUZNpxm6fpf0W41PWE09Po6eZ843UP8Kr2JCIvwqhkn5N5DEd8UHEhCot5t6vIxM6aoj1sf_9ggxGhR_Ge-j_UU-Xh_nK5dA1tuFKXfwaQ",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Calgeri Marg, Mauji Colony,, Moji Nagar, Malviya Nagar,, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.857464,
+               "lng" : 75.8114021
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8588129802915,
+                  "lng" : 75.81275108029151
+               },
+               "southwest" : {
+                  "lat" : 26.8561150197085,
+                  "lng" : 75.8100531197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a2f8b6d864f70c40fbdaeb216716a64a100bb92f",
+         "name" : "Dr Shyam Sunder Kanodia",
+         "place_id" : "ChIJGxxSJHS2bTkREziH_Ned_uE",
+         "reference" : "CmRSAAAAEJtxB6QF2HhM1P6BMXsisq4UYEf7k0DWcJjtEj2Q811hjy0_VfK72PgbSqN9oUaA6rizPzwvRlAMl8ryOEzIRr7tf-dyJb1dcsv8OoS7s_aUQ2mA5P-j5xjzN65Q9hWkEhBC95_Hel2GoUtu0bC8vZ5HGhR0bxoeGwcz_ZEXJccW6yFAdrbI2A",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "C 256, Hans Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.84969,
+               "lng" : 75.80963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8510389802915,
+                  "lng" : 75.81097898029151
+               },
+               "southwest" : {
+                  "lat" : 26.8483410197085,
+                  "lng" : 75.8082810197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5c125f7e2e452f03260e342f21795d6724f0a177",
+         "name" : "Vijay Clinic",
+         "place_id" : "ChIJwTc13gq2bTkR7QZpbYozvGM",
+         "reference" : "CmRRAAAAclI6Fo1Jx-3qO9RKIf3sq2ZiB70199P68be3VOqilUVQv91M_wYsi0mpZD_PLsyOCaaFvlI4dGuZsQCTdy9nLQRZn0ukKCKdn7JJUvSl6Nd9VDoNCB3z4hxaw7WMEs7MEhA-dYgx9RE_zfiNI6Zf16WQGhS_AOEKjvJLYCqlDfW_2-GdcjDAaA",
+         "scope" : "GOOGLE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Shop No 17, Near Jagatpura Road, Malviya Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

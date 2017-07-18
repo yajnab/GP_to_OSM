@@ -1,0 +1,42 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8564999,
+               "lng" : 75.8083264
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.85784888029151,
+                  "lng" : 75.80967538029151
+               },
+               "southwest" : {
+                  "lat" : 26.8551509197085,
+                  "lng" : 75.8069774197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "8e16e55ff3277c0fde2af2beb8e232b754241f2f",
+         "name" : "Shree Bhairnu Ji Maharaj",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJK3994HW2bTkRLk8oVgl-4kw",
+         "rating" : 5,
+         "reference" : "CmRRAAAA_m-0fau6mrmKlHvf67rt1Z4X4WjHQabuoGLCPjLYZhr-e27GaRdrqsa34mfMtu9TQdiDslZQ54XIZhpKUfJ31x2Y9-O2na3ziLSTopT2gVUTntVg43gwhomqhhH_qu2BEhC6e1SqmmIlzhHrL9k7uGUxGhROMYXeXga35jmTpQH9k6n2TWl4xQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Malviya Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

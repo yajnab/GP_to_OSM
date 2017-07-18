@@ -1,0 +1,504 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8550696,
+               "lng" : 75.8131219
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8564435302915,
+                  "lng" : 75.81445048029151
+               },
+               "southwest" : {
+                  "lat" : 26.8537455697085,
+                  "lng" : 75.81175251970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "741266fbded61f4f41433d18438563a1521d3b0b",
+         "name" : "HDFC Bank ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJDTlPj3O2bTkR5w6EZ3KRAuM",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAARHS-tbalbsdFNDOLnSmUuuFuyDnxBvOQyY74x8Nq3hgy7ajMaY-TDEhWeDqkxHLp-pyVCfuqsnkhKsgx7ZYISMSmiYRKZZKPTWAwqgdFDcmTi1lFDh-89-Ydockw2XsBEhCvsXWacVL3PlueofF9s2xHGhSGSQ9ZLbitpPP3Nu3X2oqrS1rHOw",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "6/04, Hari Marg, Block-B, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8555077,
+               "lng" : 75.8134293
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.85685668029151,
+                  "lng" : 75.81477828029151
+               },
+               "southwest" : {
+                  "lat" : 26.8541587197085,
+                  "lng" : 75.81208031970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "4d8db7f01ca7a4f69c25a0848607ad34a00e7ce4",
+         "name" : "Bank of Baroda ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 905,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110015364854590474522/photos\"\u003eIndRaj Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAf8g3hCzOOsWw-SFcXhjSMRk2Ea40ez70dA8iT5YEqqjJQyeWAR8TVioJPdhCfrZLM1oFh08mmQByhqb8khe4g2dXMI4VfJQ368w265Wg1ON5ATYrL2neQVANIvXVlc4iEhBIV5rhpjKy3U-vaxWNSOuFGhTLnigCB1ADhxuzyqQvV4Deysk-Rg",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJgeeLjXO2bTkR1iMl2XDSBa0",
+         "rating" : 2.6,
+         "reference" : "CmRSAAAAIYvXyEgRct3PVrzGJe0WJxNZ-JCBLPnseEeGR7wRVatpdLAlU0NLaGsWT9fDSEwS1fkimmKAySCFcSvxsIuXhg5feBYbiBOovJndQwx1Lz1dLFqjdKOyx0BccaEkYi8MEhBcAmYEb-I-bjNAIb4htPLcGhS9mX6uBIdA9Z1s4jZY4v-uUFh9hw",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8548497,
+               "lng" : 75.81277089999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8561986802915,
+                  "lng" : 75.8141198802915
+               },
+               "southwest" : {
+                  "lat" : 26.8535007197085,
+                  "lng" : 75.81142191970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "2f0d6fc9d15fbed29ed120d08af8a2f9aa1941ce",
+         "name" : "State Bank ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJe8eRh3O2bTkRH8hmVhpiVto",
+         "reference" : "CmRSAAAAVsxcdSWeIXQGtEW2JF0DbYosFF-nivQRciOWsNLeq1ZtxFsUdpb0eHc2MWtjQO6Z80fzKUKM8MdjszSzpBHruKzQLFvRVp6r3NrSEue3EwMpIyyQCitEq_hSI_R4KkQmEhDnF28kE8_zbpzEut00IWZmGhQhIqpzpGlK9RdzMGnkV7p7kLbDFA",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Kardhani Shopping Centre, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8522895,
+               "lng" : 75.81152399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8536384802915,
+                  "lng" : 75.81287298029149
+               },
+               "southwest" : {
+                  "lat" : 26.8509405197085,
+                  "lng" : 75.81017501970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "015eedbe3bbfd0c8dc14e7ae08b109c4a9ecbbf9",
+         "name" : "State Bank ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107072232436065659785/photos\"\u003esunil agarwal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAocOnEQN6zOYca28lSSSIC-LjnWISGoFgq4eYYJWsGCiqF1Sg4WkuEC2MlGBLrXmZNuYIEEvUqtvBkcc4piK-pcAg_tFr9OQ2UkdhBYH7iTSfNJaTwLJ4jPrlHQjwGWrLEhDpUFhQBAJBgM7q37JcXTqnGhQK_y7AQNCvb4vyNzDG65A_QKcjGw",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ3eU2uXS2bTkREqS6egBZxZA",
+         "rating" : 3.5,
+         "reference" : "CmRSAAAA6HWX2GXPYdxM9C8Fd-eWFOOS1C1CoiHdMrDf3REkESMnlXRzyBxjPG1zrqiva_H_30vfWUINhjOUZIIQd755mxgTTXa3w2Z8BocqjEfNR3e0LsI9Mo1tERoWdGf60J8PEhDbb_CoUpzdTB4_G8hkB449GhQ5-RhieGJ4EuSKn1_NXJwvUS8hEA",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8538318,
+               "lng" : 75.80915229999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8552159302915,
+                  "lng" : 75.81056133029151
+               },
+               "southwest" : {
+                  "lat" : 26.8525179697085,
+                  "lng" : 75.8078633697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "5bb6c307a5db841c534a78a2128b9b9f6c09a5f9",
+         "name" : "State Bank ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJUR7yB3W2bTkRXHNOCKS5Nbs",
+         "rating" : 5,
+         "reference" : "CmRSAAAAXjPqDLEfxm7c9aTRx8UInOB4B_DntkjYOu3Cm5kSIrEHdO46TN1prhSSAT54fdFHc7F3usZQHj1etHTeHP-45kt4s5HTPgMLUiipFXEUjzRuCGqTkrF5LO86nzh_c73yEhC884IPEMk0Nmu3ioX1qGcrGhQI7k4tXfka7EyJruz_aKWCrfu84w",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Gaurav Tower Marg, Kalyan Colony, D-Block, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8576652,
+               "lng" : 75.8148973
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8588626802915,
+                  "lng" : 75.81619968029152
+               },
+               "southwest" : {
+                  "lat" : 26.8561647197085,
+                  "lng" : 75.8135017197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "28c5cba2dc723a400cf8c41c3914aebaedb90c34",
+         "name" : "Dena Bank ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109451015490540739916/photos\"\u003eManish Godara\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAl46hl0qnsyc8tf8Zzyp2Z73u0AziAveKMUzIxyt_WND_rP7U3YAn6vmx67Plx5e0omLFfiRYF6a6MoKGDXlAzgnuQRYMKAo0oXzgOq4lg-b0bUTljyeCw4zoKrQepfYzEhAqbsmvI1jClOdat_HhzBnUGhRkm7xd7T29RORa-8eY-lU-J6h0UA",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJi4FLY3G2bTkRwsIGroBLT5Q",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAA1dgfTT3RL11nCXupb_U3yEo9NE0zFzo1gjKwc0-DSegiIYw9P4ctA50b2naiHT7ozz5tkYXA9pn2PqIQ6Sr-v-TBDyzt-wPVsAeWbmsUqHWeY6Yf-F4aYGgK1T19kN46EhCgrJWjr3VutlPsdNcR4kQGGhTRuUe0GY-jI_x6xLz4mN-gXEbCKw",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Calgiri Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85802,
+               "lng" : 75.81327
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.85936898029151,
+                  "lng" : 75.81461898029151
+               },
+               "southwest" : {
+                  "lat" : 26.8566710197085,
+                  "lng" : 75.81192101970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "8db61c5d77cd06cd6ef1e7b93a6f68785c466558",
+         "name" : "ICICI BANK ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115151784338263788819/photos\"\u003eICICI BANK ATM\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8605CLOKIfNoAGyYp6DsNLHrWLc9GYCah-dmCmvAaouMu-fyWOS-s4nkYwm05fWptIRBWQwJlC35nhS34kyT4h8Poc7GrRpKM5c98pGxh7TQ_z5XbPsrDqyAPAXyVS_ZEhBVDCAAeEHqjRIF95lVPBD3GhSpd6WAJADP9FLH1d2a6hC4ixWzqA",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJj0GzT3G2bTkRJsaJmM_DHPY",
+         "rating" : 5,
+         "reference" : "CmRSAAAAm7acZQ8_Eta8zHU4-s9dwL0CJyc1sALZlVgEzDxvTe-58ORHDA9JW-a6c5eO6MorgXrO8rPEZ0EzM7b6oNg-Yac--jbrer0Oo-FCB71kWc6t3tDyOvWfCpLb6pwh5gntEhBpbFQmnviXTu2AaplYzJC0GhSEeo8TRTg22TLE_mmib6lCj0NISg",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Shop no . F- 19, Near Apex Circle, Jagatpura Road Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.854857,
+               "lng" : 75.808493
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.85620598029151,
+                  "lng" : 75.80984198029151
+               },
+               "southwest" : {
+                  "lat" : 26.8535080197085,
+                  "lng" : 75.80714401970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "d6188af8a664addc343e9609850844129c28f406",
+         "name" : "Axis Bank ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJM5FZk3W2bTkRcplH5v8FUvA",
+         "rating" : 3.7,
+         "reference" : "CmRSAAAA3ZMxFB3KJGwYGjLqxeVdLqh9gHZKSJyeFxM_z-xAu4eF4Ah6EAar4Ddo5V9y5QlvDVD5Iw4vYzhVZA4QyTLxXcDoyjvpx59-u6Xr3xpAp2U3Qe-IHMgzmGdchHWbTmSbEhC2j25B4a-Fsz6fNwFF_EWzGhQP_kMIXW8n8Cnu60lJIFZ5dXyZwQ",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "A16 INDRA PLACE MALVIYA NAGAR JAIPUR RAJASTHAN, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8585,
+               "lng" : 75.81266699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8598489802915,
+                  "lng" : 75.8140159802915
+               },
+               "southwest" : {
+                  "lat" : 26.8571510197085,
+                  "lng" : 75.81131801970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "23eeef32e5c7c42befe6b17007a193b1a3db3c85",
+         "name" : "ICICI BANK ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108063691102180998330/photos\"\u003eICICI BANK ATM\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsbYPqviU7Y35ODdxVMzyIz8_ll586CbiyExB-K9abhu0YBkDCbdWXcBbXoiwJ9BH2VrHF_alhNhBop2-k7jZOg_TAdv815O1FSLiXGD_S-HFkDhBWRHpl5tWIVSzmhOdEhDeZGHxnqi52aKQWGQaVWGQGhSfTMD94UYiubo_oORQ9jThwlrDAQ",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJu9wCT3G2bTkRBhXn7ndO5qA",
+         "rating" : 5,
+         "reference" : "CmRSAAAAG3Wwqn-N_m9Q7HKh3h5XBtwu6T46LST5-tPcic5FZzLDj-MaR1PGq-OSaQnPkesZ8RWQ_G7ibrY0iA6C7hpSsB2LNsiCohv6BtaWBENA9jYMfzp9A9JDdA3fN3_dH8n0EhDpjodGEXFrL3-nlBgXJNMpGhRWhUJNnMWyQMGxf3FTDIK0UV7RLQ",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Prakart Bharti, Guru Nanak Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8550002,
+               "lng" : 75.8081572
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8563491802915,
+                  "lng" : 75.80950618029151
+               },
+               "southwest" : {
+                  "lat" : 26.8536512197085,
+                  "lng" : 75.8068082197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "1b49c6c93dd7de372c3de87d81606b67aa194824",
+         "name" : "Maharashtra Bank ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1588,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114388144115460258377/photos\"\u003eIshwar Das Baheti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXsiuJ83AbOiehmgCBH2z-tTR6V2jNSoGJgGbM0cXQ1yYhX0gyo78PgzxkjeEZDXKTsnhaIvDnum9DZ9M5Ppx-mCm4v7_Jre-RrpEilynpvhp5EXDOtgklmFpSbjBkOiWEhBQWOFVyFZJ0yGA7ErocjVPGhT06spxvGIwE5hX2pl1A4P2k25xfQ",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJtx9SlHW2bTkRnF2bImnTVKE",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAA5ghNmT-awtxkKKEOg7J3xQB8MmSxvLuFyw9Ug2I9BUhgg_NPg5VFbWhWFBTorZsaSlBpw_gWIRzqHJrlfOEPRjN2UHaHKQOszchmiWWFXOwCiREvFfb5qppk_0ZDKsP2EhDvlncyf1syJht7JyESot_6GhTHLZGEY_CLBFW_9RA5IkVplaYFtg",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Near Gaurav Tower, Opposite Kanha, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8554286,
+               "lng" : 75.8079226
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8567775802915,
+                  "lng" : 75.80927158029149
+               },
+               "southwest" : {
+                  "lat" : 26.8540796197085,
+                  "lng" : 75.80657361970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "34c63323adc4d1bc80b79202d2980c0827816223",
+         "name" : "Yes Bank ATM",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109099178679669364940/photos\"\u003eNeerajb bf\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_Wf3P_CSr8F5Z9FVicmDERRjIJI7KE9e4Zb8UEt0lcdYeMIrY-DeYF3kbPT8zrD1DaQpR9P4EplF4DInETJHtpkvNzVZMF0s8TJOVDxRAjuXntitlasGFRAa451_ZqhHEhBwd_736FhAjZvfkHSB7lMZGhSAJUIC2_7sFaL3ulGHHTVneWostA",
+               "width" : 1952
+            }
+         ],
+         "place_id" : "ChIJnaSN7HW2bTkRWfexPYjJeCU",
+         "rating" : 2.8,
+         "reference" : "CmRRAAAAWGM_0CMOWGkwIAPR8u3kJDYvKxSP8nswOIF-5dx5kSEuvV_ee5s71ULTowzSXVhTamh-plT2QXWxg9KNltksQeKbSlKAZD3a51kULHy_gZlsdoYISHEzuCHU5F0kTnbDEhCpZgRIrBe6WqTXsvKja2x4GhQ-ClPAdBeSZgIpOjKu3YndoW6B9g",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "G2, Ground Floor, Green House, Plot O -15, Ashok Marg, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.855021,
+               "lng" : 75.813478
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8563699802915,
+                  "lng" : 75.81482698029151
+               },
+               "southwest" : {
+                  "lat" : 26.85367201970849,
+                  "lng" : 75.81212901970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "a4b43c7fc0d42159966c335d2b15f99302f606e1",
+         "name" : "HDFC Bank ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJcy6pmnO2bTkRqBRAvOwxBBY",
+         "reference" : "CmRRAAAAKUI289FPV2lxj-2Y6OVwa9zQyKGEcU09cK_hkMuhzOejG6lWMT9eNpVsXt9Qt_bQunrKtfvbI1fUYFG2EKl7CK4Cdnq4upkgrVDk1fzwDBsff-xZvZNFRBdIBiy6mFRHEhApUMJ6gMaB7QiD8R-yV0HjGhR_uj3FeWhQqxuCQcGw21Uz3FYczQ",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "B 2, Local Shopp Centre 1, Kardhani Mkt, Hari Marg, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8552511,
+               "lng" : 75.8078618
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8566127302915,
+                  "lng" : 75.80914428029151
+               },
+               "southwest" : {
+                  "lat" : 26.8539147697085,
+                  "lng" : 75.8064463197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "5bf31be8b4be1dfc2270f4c0680793bf6f22136c",
+         "name" : "Kotak Mahindra Bank - ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJN8vE7HW2bTkRFW-viXDAUdY",
+         "rating" : 5,
+         "reference" : "CmRSAAAAl6q2sPBEZA-oBnXr9oQmRnp5HpD_SkI7BvfYjzPpKJPwxAaE6hGyPeILJ4JwplUvq5WRBLZJgvjAoirUd2nLHhVarjuL80fFShV2vS2LEj4rbzmO2WKLSM90yWMJB5lyEhCaEPdFfoMIpHAsSlPRzPpWGhR4LntNtolskwrVS0dQitJdfV4O4w",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "PL-37, Sector 9 Road, Kalyan Colony, D-Block, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8561116,
+               "lng" : 75.8071807
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8574605802915,
+                  "lng" : 75.80852968029151
+               },
+               "southwest" : {
+                  "lat" : 26.8547626197085,
+                  "lng" : 75.80583171970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "3f490d20abed9d38f73150b8b9917a044c3df083",
+         "name" : "State Bank of India",
+         "place_id" : "ChIJAQBA-XW2bTkRNBFHRMap3a8",
+         "rating" : 3.5,
+         "reference" : "CmRSAAAAWC7UZbdODAjRMBfuGA7AVCZKdsrWUtIRYoDOyxD4_oT3ITE6_4JLIwaYxXotZcvyK9rUod3CfqtvKKpHIGre8HVGeM6kkkAShP2vwfGbteif96tRcCWdOYZaJkfsbF4rEhBESyaSCbhcBsZyEu4mFJmUGhTSNbYJKNxvq2Ch4oHwsgPb5hVi3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "D-Block, Malviya Nagar, Siddharth Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

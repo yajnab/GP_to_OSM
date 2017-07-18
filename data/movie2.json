@@ -1,0 +1,691 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAgEAAH7FO-pfijO5Q5tZKfSBMFdRVWRarH-R0fSs_OhDpyR9GtAJ5OnYRMdCkqu37TwDmX5FibhZzD7395PRQ6PVJXCjxnHd8CQ3SCoOqCa4Ag2K_K0UueyAHd869ARIfEPcINfbWqTXzqufWzezcASaBeLh87jVt_gC3h7bQOF_PI_usjjCEYCH-VjWVBBoXHXckcUwVtPvcX7EdHpjc2Gf6HHe5fBPTqBzWLW2p56xW3hAG5plujX-Sgt3MKubz4YqUtzIO5NRBMnryXREiM_ST71Fp6XwIvP83zKAiRntbqm4JKKLyTt72T52lMoH222sf6xIxngfUehfXDShkIAR5t6CsP5cgaTyekQKD6sN0dv0EhBFNAebkli7SqC_OUJ8J92NGhTMeMwJBAfyz77rZvLVx_oFmt7heQ",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9124336,
+               "lng" : 75.7872709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0206722,
+                  "lng" : 75.94119069999999
+               },
+               "southwest" : {
+                  "lat" : 26.7497493,
+                  "lng" : 75.63992500000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "a041fe2980bee4df40bc0780f4c939e7190527c6",
+         "name" : "Jaipur",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105926115069818021702/photos\"\u003eZia- ul-haq\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1Im_5KNuT8hQYTe8RbjfVG2iytfMeeNxmP9aBF48svd936uGYZ8IQ4ezKfHgMaO6wJLGleIovCxI4mELlDTpHxi888EdpoAVVeQuiqa8FE5Ak88Uc-hPYuEam_csayccEhDyGWCq3m2sXXK13wqWrsduGhSgugG_zjnmxPuz-dUliyNPnCJqmA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJgeJXTN9KbDkRCS7yDDrG4Qw",
+         "reference" : "CmRbAAAAgPZrLX3pJxxhFOc9wEvFunhzDi9bsvA4nTxNc2Vi4jMw2ey-nFA6_E1N3lMxi0c3aEJc0A-ELaQ6nfB45CrGK06ey7mjccQ5y3v0PJZs5hhlAddEfgvN7UqRmaHxKTErEhByOpmh-tJLIOb-nIOHmXCnGhQWUZCWrDU1NmkQtaQ3nijfM4oHZA",
+         "scope" : "GOOGLE",
+         "types" : [ "locality", "political" ],
+         "vicinity" : "Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8571917,
+               "lng" : 75.8126972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8585406802915,
+                  "lng" : 75.81404618029151
+               },
+               "southwest" : {
+                  "lat" : 26.8558427197085,
+                  "lng" : 75.81134821970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b822562fe8a55c89db29907de630cc4f0edb799b",
+         "name" : "Western Enterprises Global",
+         "place_id" : "ChIJAQAAAHS2bTkRieLFGBOmmGg",
+         "reference" : "CmRRAAAAmu-s6-8FlFwpse9ykIT02ctD2RtEE56qKqVIHTXif6dn6ZSX9YilAWv6W76N9p09-6NJ3hBngLGuYB6aZ2PfTcNoXVohgxXWTipOK6X4JyTppfRiHs727ODXmHetARUCEhBu2uRGesLSngwqx9P7VC0OGhREG-1vby9Tr6LeqOXMsnjitg_T3w",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "684, Sectore 02, Malviya Nagar, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8571917,
+               "lng" : 75.8126972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8585406802915,
+                  "lng" : 75.81404618029151
+               },
+               "southwest" : {
+                  "lat" : 26.8558427197085,
+                  "lng" : 75.81134821970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d08eecb6ac56142641569ecb2e03f3131e7feac6",
+         "name" : "Weekender",
+         "place_id" : "ChIJAQAAAHS2bTkRYz5OwKMJ1Zo",
+         "reference" : "CmRSAAAAj260FZ03mCwD9TaJ1t85WPIoqCCav0iJVp0SmUjrHYXxxziKFggW9ILewKKfq2lJv2wGD4o-LDHgD7-zbWlgueCVoOqdhyDuNpMcg3k2NzXIqEDpX0i15xZpJMUrESj-EhATPi12BoYfO81626-6O5QzGhQ21Ropg6xumnOVJosPrFtQYa-zKg",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "B 2/A Gaurav Tower, Malviya Nagar, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8574129,
+               "lng" : 75.8157204
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8587618802915,
+                  "lng" : 75.81706938029151
+               },
+               "southwest" : {
+                  "lat" : 26.8560639197085,
+                  "lng" : 75.81437141970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d932f18ff881fc4d780811b4d0d6f25c798ff514",
+         "name" : "Amit Company",
+         "place_id" : "ChIJuUWfKnK2bTkRJ7mjnkZoBJQ",
+         "reference" : "CmRSAAAAmmv0YI3sP5d9GoiEFKS-iY7nsoD2VGJM93VGco11Imy2upKETycZ-EuNB6IFtzmZyt9dlabGIR9bYIPv7RPzqwsw09qJZZYiQkYSHMl6WZI37x6hYcK_wtIOy_cGan8aEhDUQRxGbJudzq-57LN2y_9TGhS_C86kAD1tAMUB4yyCKtj5MYH8Tw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "9/276, Malviya Nagar, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.859577,
+               "lng" : 75.809292
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8609259802915,
+                  "lng" : 75.81064098029151
+               },
+               "southwest" : {
+                  "lat" : 26.8582280197085,
+                  "lng" : 75.8079430197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a93d5df66ab1e8ed6d8994ebb45973d60950025e",
+         "name" : "Flowers 'n' Bouquet Florist in Jaipur",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 5344,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107384287713909213957/photos\"\u003eFlowers &#39;n&#39; Bouquet Florist in Jaipur\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAjQ7tc9ZrakAYgh8Gwl8a5C-3G2XZbMwOYkXdM53fltj0eqHNAuhrapZgOrqwVKGQ-Q7ih2dnjsbTBODZ6IXJ6eQKT6mzkQQkSNxlPsRmOVYf5lVjgGqKT45cncUhIT_AEhDlKRwGpzn7ySps8yqic_1LGhT9Uo0jI3mRVNsM9uw4fWd-fViT6A",
+               "width" : 4008
+            }
+         ],
+         "place_id" : "ChIJJ7g4Una2bTkReyqv6AeRXMw",
+         "rating" : 4.8,
+         "reference" : "CmRSAAAAH1JNuh79aJ1XY-yWGpOANEobt5qJ8LiPxzMd4NHXqUeqfDsCqIHqLr9uYmBMFLJbJhz3eWfKC1vX90B-3oX276SHTRpl17qRpZycHdJKEtMU82QQ8UovyPldZOLkZTZNEhCKON25hlciWFrvOe5OoGCDGhQtHFMfcHq_RhcG2qLF9wEz_O4GIQ",
+         "scope" : "GOOGLE",
+         "types" : [ "florist", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "No.5, Arihant Plaza, Calgiri Road, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8571917,
+               "lng" : 75.8126972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8585406802915,
+                  "lng" : 75.81404618029151
+               },
+               "southwest" : {
+                  "lat" : 26.8558427197085,
+                  "lng" : 75.81134821970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "57d8fa4e563adbe302b9e0f6f5008f0e469af870",
+         "name" : "Indian Potash Limited",
+         "place_id" : "ChIJAQAAAHS2bTkR4G7nbEPgY5Q",
+         "rating" : 4.7,
+         "reference" : "CmRSAAAA47E7yPK6QYmcwnURtHwBA07-WenC9ko455VtuP3_-wJxKduqk7n7H1Wij_lmuIIE9_LulPiZNQNc1nGbEuFWLPmC7_4DLeJH922qTo5XptZ7mx9YWL3Pp1uP_Tx2XcJNEhBqBQrZuKdggi33uR1ofh5nGhSMuD6Hb2DhvMjhqeORzMj05LB69A",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "410, Gaurav Tower, Malviya Nagar, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8571917,
+               "lng" : 75.8126972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8585406802915,
+                  "lng" : 75.81404618029151
+               },
+               "southwest" : {
+                  "lat" : 26.8558427197085,
+                  "lng" : 75.81134821970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "83417aec022d29ff9d019f47e040ea23ef933eee",
+         "name" : "Apollo Clinic",
+         "place_id" : "ChIJAQAAAHS2bTkRWi9hASRtqgE",
+         "rating" : 5,
+         "reference" : "CmRRAAAAtAE68c-rjpeIdQXmytYC0Dh466zs9qlCX3PcrJWs-YTSuWzuNq1PNQBZMs5-tTWVDFldNGClwv06A0pM2dy3QDjUSs__pGkfdvbwSh_e2s5D8Kotu_tQQ9CusmL0iSgLEhCmi0jkXmmxuCdeA7kUhEw8GhQdfE6FibXQBoW4x4RKdjREJPrdrw",
+         "scope" : "GOOGLE",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "vicinity" : "S T1, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8571917,
+               "lng" : 75.8126972
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8585406802915,
+                  "lng" : 75.81404618029151
+               },
+               "southwest" : {
+                  "lat" : 26.8558427197085,
+                  "lng" : 75.81134821970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1834dd09d9632662f0580e17bea7b33b7f0fac81",
+         "name" : "The Sphere Map",
+         "place_id" : "ChIJAQAAAHS2bTkR6P2-p4AXZ2M",
+         "rating" : 5,
+         "reference" : "CmRRAAAAkZuoK-8yuuJN6QOLGAPC1LB8V9TFV1JzrThlFari-EJIDhBSGW6PHClpWjN4k0_g-AfmHZrT5d3ihTUHQZxHUC_N0md5fzLsUyrFyWpAXcxEJG8jB2IvQlM08G7kG2nrEhBhA3rRyvEgqeYB8CPxDz9aGhT7BICal6zFbjPTYqVr22kvqmU9CQ",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "18-B Ashok Colony, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8591089,
+               "lng" : 75.8091026
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8604578802915,
+                  "lng" : 75.81045158029151
+               },
+               "southwest" : {
+                  "lat" : 26.8577599197085,
+                  "lng" : 75.80775361970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "5e913957167fe89b59bc093e8b3e64f3ddf72668",
+         "name" : "Federal Bank",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJy_3JUXa2bTkR08csFscLdvQ",
+         "rating" : 5,
+         "reference" : "CmRSAAAAyOZccxD0G8dtTcL2eNvKR6l6jyNr1yZeAJSIGv-YUSe3Boy_j5B5Wd9V2InVB_PyUQ1W5iP-BZ425TH5Hz31mphJdo9UrgG85k8XSyAC4ukex74m36TqpRba_iEg5nUyEhAja3sTrzvlFzC_ZJQT4AVtGhT1fBkW8DeeAOeJkDoAV23lRukldA",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "40-41, Moji Colony, Calgary Road,, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8576096,
+               "lng" : 75.8152281
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8589585802915,
+                  "lng" : 75.81657708029151
+               },
+               "southwest" : {
+                  "lat" : 26.8562606197085,
+                  "lng" : 75.81387911970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "18697b3381683b8b21139cea0e2957802c6736e8",
+         "name" : "Rungta Hospital",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3088,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115231031643491062745/photos\"\u003eKeshav Agarwal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVyaGc73Jbvp6M1ycmPb0H5cqLHvUkh9G3E7_2cgprGRLvbYy0rua1-J_dhiEGOI6eVq_BFCMkENSQGrq7qQiYb0WvazKjuRgr0i-vtrJHcVOOCtdzGqrzKKIJvo_qtybEhBzqFf91-TpO6UeahPN0CuqGhSReApWv-62LG6Q1Avps_Xh5w5JAg",
+               "width" : 3759
+            }
+         ],
+         "place_id" : "ChIJAQAAAHS2bTkRkt01FODjins",
+         "rating" : 3.3,
+         "reference" : "CmRRAAAAs4e9l8mVWmeEat2oJoH1Sr7tJFruT0KZJ7z3eYHrIORop3anrXvsD2Pc8JTm3VMoqiKJN_HLaE-XEeVj5LsLbA6UJ5gPQvgL6i5MeY9clUPl4GC4w9Zf5OMC3OXPwlncEhDNNloaaPJmPCLLJmpIbonWGhS70RC1N-xQ34yECKieSnRI82a0Pg",
+         "scope" : "GOOGLE",
+         "types" : [ "hospital", "point_of_interest", "establishment" ],
+         "vicinity" : "Kalgiri Marg, Malviya Nagar, Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8594455,
+               "lng" : 75.80935239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.86079448029151,
+                  "lng" : 75.81070138029149
+               },
+               "southwest" : {
+                  "lat" : 26.8580965197085,
+                  "lng" : 75.80800341970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ad99b13927d4c9addc02b1112617e4c0f4c822fe",
+         "name" : "Bharti Airtel",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 751,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100439574940321030196/photos\"\u003eMahendra Vishnoi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvspu2KIWK_AIQcNXkmn5tDTt0-y78nPZ7H0wsNYxRSIffXp2VIoHSJC-AhXyNrDvZRhRVLtO5GIz92bC7zJcqkgffwXBEpUG-G2QKPx12wsWF0uPtrgdz1je_dlI8YSrEhBD2GaS59f6-8nW2aYU6VU6GhTawQr4FBOMMGCJGBUYsobyZc_lnw",
+               "width" : 987
+            }
+         ],
+         "place_id" : "ChIJXcKiU3a2bTkRHhocxaFeCMU",
+         "rating" : 3.6,
+         "reference" : "CmRSAAAAe_xqUIyG84stRnDj1ZKL0vmoNjveNiZm2XQbqHGLxdGEIjMv0E8s1xDvrMFPZ0Wil9hwTAKFEz2JRPUTnB3Q7UZQEa85NNaLyhZ8Y-ODS0_F4nN2PvygCMrPAsNayEtTEhD2lJ8feqEd6EVuXRpySe_gGhTnfx8qPUjkrIC0qxgt7O8FxPB1pg",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "301, 3rd Floor, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8584638,
+               "lng" : 75.8126688
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8595867302915,
+                  "lng" : 75.81391188029151
+               },
+               "southwest" : {
+                  "lat" : 26.85688876970849,
+                  "lng" : 75.81121391970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/library-71.png",
+         "id" : "b732855724f95315787120f9b660088afabf92ba",
+         "name" : "Prakrit Bharati Academy",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109513512538359488658/photos\"\u003elokesh meena\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkN5faihQ6jTmjqMDmHs804i25xDud59HopU-CbsYb4kw2Od-f9yXKctEjSQNWxThw-pIoiIoQ3UNAtuVWIsSTrbiNQKJwlKRE3krd_ePPMf5dYUBKWjQIcKzG0_wbC9rEhAGzGTXqbrf0IQbbBiJvqtPGhRfhNASaFjMpB3_G4JWo5tIxhxw6w",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJDZ9htHa2bTkR4ylcp9UDvyQ",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAEgXmrhM_7uePWIOiSYuDFPFQtcQtj0e_XYkEEl6R08WMy_IZVe56IC3IKkapedA4Wcdnd-gStIEj6S4lZJquAKKVZFrLD8BSkiPhwkDpzREKDVMrEMWwpZ5uyoMruekqEhBEiGeXPdyeo7CgDNUWPSbAGhSZUYHfuJobbLNAQTso3DOqYosy6w",
+         "scope" : "GOOGLE",
+         "types" : [ "library", "point_of_interest", "establishment" ],
+         "vicinity" : "13A,, Calgiri Marg, Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.859505,
+               "lng" : 75.8092417
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8608539802915,
+                  "lng" : 75.81059068029151
+               },
+               "southwest" : {
+                  "lat" : 26.8581560197085,
+                  "lng" : 75.80789271970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "17e68f04124504a839319dc922b4ba2b21e784b2",
+         "name" : "Religare",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJfZf7Una2bTkRb0Uq9TJVwEA",
+         "reference" : "CmRRAAAAQm-x2bXHHeYa8WQFimVHHnOd27dSp7eet6g8Mr5LqdKfTUTLiCy-4hWV4lkG2_cuzzkOah52L9DJbUI0RzKeUN7hFGAs4SzL4_RuBePZmYm2-wek2fi4mERhBqlSR3KXEhBbr8UTzH6jWhlk-8swPlPtGhThNWYv6J-zxaZJQLHk0Atn5l9_Mw",
+         "scope" : "GOOGLE",
+         "types" : [ "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8621321,
+               "lng" : 75.81356049999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8632816802915,
+                  "lng" : 75.8148800302915
+               },
+               "southwest" : {
+                  "lat" : 26.8605837197085,
+                  "lng" : 75.81218206970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "55be91916c8f94a2b018a620e9fe088e52ae9339",
+         "name" : "MNIT Badminton Court",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ13_uunC2bTkRCvq1t2nV73w",
+         "rating" : 3.3,
+         "reference" : "CmRRAAAAy0a25iJayms1OwULex5P5Kp4L6ansjK2SHL470KzTq0ERcuQvvOBAu91xI1mu1ZX59XM6pUseDGuQv72ubSPZJDVFB6vQJ6YDucO4wWxkb2kQL6QUx773s-WXJOBBolHEhDiZr9SM9SXS-c2yvcKpqCEGhTpPhlGIl-A6vikl0Z2aNsXg3a76Q",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8592907,
+               "lng" : 75.8087793
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8606396802915,
+                  "lng" : 75.81012828029151
+               },
+               "southwest" : {
+                  "lat" : 26.8579417197085,
+                  "lng" : 75.8074303197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "69247378a89bf19b314166b05c670d9b9b1da482",
+         "name" : "Brown Sugar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 542,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110015364854590474522/photos\"\u003eIndRaj Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcpi5LvrYXuu2lOJmgOqgM6nqhAhG3wgXs5wb7z8Bjvg10aQlR_Ib41ueYO2kb6aAGDRKrnme5-ojFe0Fxb07az0gmwKB3B0peOlpljZJJUraZhrKvbKFdcfkFn085KUsEhCmVUp_GYgkIac2VJyQcf5YGhSSnrcqgjkbNz2RmJqtDki3VFlxrw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJExj7S3a2bTkRjFUK24Cwn7o",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAArF4X7dvxDksF5EgLibHRAC227W06cSsap0AZUbmJXEQHTLOGXxLLdwEJKccI7t8hobufw2-eGBFtlvrkyaAK13JA9EF5D1Aw0sslLnQo-Ks2rMzeeQuS2aML2v_LQrHZEhASgPnbbiZNme2HmyiLpMBFGhSm3AnDiEqNWtRKv4M7bM-IB_OZaA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bakery",
+            "cafe",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "G-1, Svc Vinay Building, Opp. Bharat Petroleum, Calgeri Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8585,
+               "lng" : 75.81266699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8598489802915,
+                  "lng" : 75.8140159802915
+               },
+               "southwest" : {
+                  "lat" : 26.8571510197085,
+                  "lng" : 75.81131801970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "23eeef32e5c7c42befe6b17007a193b1a3db3c85",
+         "name" : "ICICI BANK ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108063691102180998330/photos\"\u003eICICI BANK ATM\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmXvBb1TFk51y78m-tweHViFSkmQymgbdOF1I1hbkSMEy_ipFfq8RaYokOgVdeQM6blgD2PmIkQTpMmrgBI06YFRfZ0NyZZ-ci02LzM7y5lpanJtYjAVQ-9J4A2YOGmkyEhDUzx9KJcqSzLq4C62IfIpsGhSKuONhKPpTL0NnHlhicXWdb_i0gg",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJu9wCT3G2bTkRBhXn7ndO5qA",
+         "rating" : 5,
+         "reference" : "CmRSAAAA3qxDMndQAqKt4F9QlwQVWWOigyZJuidhusSifiZhzxq03nhna23apO2otWrTOAzcZzgR5NawcuyrUv5s8ayWlaUwHIc4_HQhrU5MP7nRNe3PFJ1hr4-Ifz1Vt2GTdX8pEhCQNJc5Wn7JqNFnUU-pLJ_HGhSJSEA8e0Z-Z-1Yin9Awbnf5VCiMw",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Prakart Bharti, Guru Nanak Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8590902,
+               "lng" : 75.80914989999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8604855302915,
+                  "lng" : 75.8105224302915
+               },
+               "southwest" : {
+                  "lat" : 26.8577875697085,
+                  "lng" : 75.80782446970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/atm-71.png",
+         "id" : "6950ea8401c770f19d0b228be7df079cc9fc0a22",
+         "name" : "Federal Bank ATM",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116444085846912049119/photos\"\u003eHemant Singh Yadav\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZWVDm2xgs5Ry9R-W7yipqcpDVYawmnDZszJktYcSfrpODt4_LeCCeZQfKIrvNSrGgSflRxZ4hjLRnU1qbwqMFwKHFgRkeR62uBdCznBwyL9quDA0ufaftmmPr2G1JwwJEhDfRBgsf8mSvjvAyvXpvMuiGhT3pK_bmJgAiOVYMn60gsG6v_Kh7g",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJNcS4UXa2bTkRuPOICCHMjCM",
+         "reference" : "CmRRAAAAWaWmQKEblC_n2eIqqZrJsBC0KtA0sf_ILn0wTs1OmW0WPH50hs6G2b3yy5Y46URtsxj46abKRkLlOR8o9pyxtMu1G1lH5sM8VWGa7e7yfu2A-teQOXAzWBcHq4dY_dpoEhAugaUaNDpnEvGQHJuUGytkGhSXuqO1vatjC4qE0SowXiNsh5TqUw",
+         "scope" : "GOOGLE",
+         "types" : [ "atm", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Calgiri Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8617301,
+               "lng" : 75.8146977
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8628560302915,
+                  "lng" : 75.8159893302915
+               },
+               "southwest" : {
+                  "lat" : 26.86015806970849,
+                  "lng" : 75.81329136970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6f0e826e15cca1ff5b9a8e61adc222a87b4eb896",
+         "name" : "MNIT Basketball Court",
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111993140487082957139/photos\"\u003eabdullah qureshi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0vvKlpZmLrrg1dOiml-TDFtiWVxpeKQYfbeKzfb26SqGkxiueTxwzSf3Eyam_NhpVk95db3q1MO4iLKTcH5_M8INCdPsh8_nRekBcGfNH30gxSFC7jExrgVIooXF3zsdEhATglhrE0-kri2TLZ0qfq8bGhSY644UCF6JrSTR8It8KuVilGv1Hg",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ13_uunC2bTkRCZnQ6K8jGB8",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAsDiYZMrmzKK8riNqhO7D8gZCxeE5UYEYoFpMkOC_SBxYXMfmnu2TX1wMTqUW2L8Alk4FQGGC1yelFYxc98UQoO7iNZSRyAQrNkcJLXlshfUfi6wNuVsGMTW7HORcm5NHEhC02NXUZxJ067RYUw_e5cPKGhRhz9h3XW7ipPqpAgpaLwUfY3Lzdw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85931,
+               "lng" : 75.8087673
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8606676302915,
+                  "lng" : 75.81012043029151
+               },
+               "southwest" : {
+                  "lat" : 26.8579696697085,
+                  "lng" : 75.80742246970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "7912ade028e4cca20939e659fe643a28f856e23d",
+         "name" : "Indian Oil Corporation Limited",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJvxoOTHa2bTkRZJ2Fq_nY9ZY",
+         "rating" : 1,
+         "reference" : "CmRSAAAA4g34iqE-RMnyYZq-pcsNv05mko2G4_UVQSydTkAs9TDiDmMGQPSsS4W2yIW2SroEpgdJp2ei5RWSdZN5vPtbsWpLf1uJuRvXg3pL6H9oz6_k4VsBYj9MreLg1vbUufZPEhDJ_uhMOtTrilz6RSFytUDLGhRmPKHrSheyaEgueFllm2Z0lWmTkA",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Calgiri Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8561013,
+               "lng" : 75.8120852
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8581429,
+                  "lng" : 75.814379
+               },
+               "southwest" : {
+                  "lat" : 26.8530511,
+                  "lng" : 75.8080681
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "f64256d7b245b839efc71054a637c024d877dfc9",
+         "name" : "Block C",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114388144115460258377/photos\"\u003eIshwar Das Baheti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlW3AHcdN_RrgU7G08-nlMP6MSc_fyOkxQ0f8b32O_jr-v3BvfZjGjg9nXEfqbNqrZ3BYMb956FALIMSvyDcaOjSPcixb36rikw2Sc-k6s1QFSb3H8oYA4GYBnFv0SXJ6EhD8N0aDGI8e3fJxp20v4ZiLGhTWcoZPPcsrJodjVgHCiX_xCX_Faw",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ5fDlP3S2bTkRuI3YJndmV74",
+         "reference" : "CmRbAAAArWxM_wCv0O9CyEMuh6Wd3hfPaLEYSoXVzxvU821ZSgOLoQ1WOJjAoZTnNtbGhRuIFNE7hoHyAtU1oTuGbrM6rmDDiQ2HTqMpIMW8Zzx_Fb4-PGZJj2d6B9igVQQXGIQjEhCgN5Ndr94_jF4GNlPobXroGhSwMoqoY4p_112-8ovpBvr_8ZTGMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "sublocality_level_3", "sublocality", "political" ],
+         "vicinity" : "Block C"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,438 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8551832,
+               "lng" : 75.81012729999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8565321802915,
+                  "lng" : 75.8114762802915
+               },
+               "southwest" : {
+                  "lat" : 26.8538342197085,
+                  "lng" : 75.80877831970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "04f9cd59a53c82814809da4bf9ff20602ef6b86b",
+         "name" : "Monsters Gym",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJRenGwnO2bTkR0wFH84vw2Aw",
+         "rating" : 4.2,
+         "reference" : "CmRRAAAA1F_HSHgh4zs-qpSmGPNLCfJUUZH2rPlEQoz-4P2JPvUMGIQc71GzBj7som0oapVdJO_ghFfpQEjbaCkRku5SiCDNXd7CWn-bjA5jZI6rgUQ8a2wNdfVTd-2R94y8SwkqEhAlgesHKgufyWBapmRnC65PGhQyB53eTsblWmCbbOMbEraBvDfuMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "C-341A, Malviya Nagar, Sector 4,, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8538812,
+               "lng" : 75.8149646
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8552587302915,
+                  "lng" : 75.81634588029149
+               },
+               "southwest" : {
+                  "lat" : 26.8525607697085,
+                  "lng" : 75.81364791970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "103d6dd2abc5bb9b27b0870240cdd252cea18100",
+         "name" : "Star The Dance Academy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 449,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102624141812982414271/photos\"\u003eRAGHAV JUYAL\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdJblSVBq8Pc4iK7TBshWBUBmlpYqZjM6qTyLZ733lTGwejityTy8rqOrcWbz1dghm3hX7EPmd3eeHBEyG4Ad3qtuzzs6CQ7TsnIDODPdDVwzmcpmrU2j75Vm_W8IH4QVEhAZUACMBdeb3WKls_Fh0QylGhTw5w2qJeTKmJ0OnEkBKlvgYbSF8w",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJXzaCBXO2bTkROkaCrX0hrPM",
+         "rating" : 4.9,
+         "reference" : "CmRSAAAAAv9x5M8UvrHi2qPAQlzSx6Ss4BNs9k9MZTnrTFhp2foKDwXGSAdbcUciHdKRd0iDe4SQzngavPnzqAMHAHCCLJ7ujX0_d9zfFClDLXTJ5wEsPrxiNf6tdAkf9qBCvV6ZEhCEukaqAFrhB-z5Z8NIWa2nGhSifW5qaY1KQpm1cvM3HdM7hqif5A",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Plot No 28 B Near Kardhani Shooping Centre, Hari Marg, Block B, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.853726,
+               "lng" : 75.81047
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8550749802915,
+                  "lng" : 75.81181898029149
+               },
+               "southwest" : {
+                  "lat" : 26.8523770197085,
+                  "lng" : 75.80912101970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "0c7ffe6bd9a3ef5d870f4bc01be51e94b1d468fb",
+         "name" : "Lion's Den Best Gym Malviya Nagar Jaipur",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111645301158880124540/photos\"\u003echandan kapoor\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAj_mUmLH9hENWolEim8Xvkgl85UapMQNu6NiaF0W-laC0y8AAYa7hITRUNMv8KMcK70Lr26A4OCnJMdWg_k_paNYeLCnQHoHoTSc9DpIkkwWFSM6it4fgBr3A6LfJkU4uEhBlC01RRh-pwg9FGFIEi77SGhTzERL_CueOGtamtnbRZSQp05RVlA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJv-Xr-XS2bTkRWBowa2hP3eo",
+         "rating" : 4.9,
+         "reference" : "CmRSAAAAP8jcm0NcvKmsM0MURHw6F7OmOHnRbW2OycwaOnqOQZIv5bERWAtIuagzyggnMIIZUlHs_zLzBUIVcS94TMhPg3L7ILQI4IiasfxN8_alTLvj9tSii67dpY4c5lbMCqkBEhDH9MDnug5S2IHndgAqDYCMGhQiFq-eHsgASKS8zi5ijm1Vi90mmQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "C-286, Pradhan Marg Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8573299,
+               "lng" : 75.8142079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8587236302915,
+                  "lng" : 75.81557213029151
+               },
+               "southwest" : {
+                  "lat" : 26.8560256697085,
+                  "lng" : 75.81287416970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4b8563a20ded3a8eafcd8ceca48672e335153346",
+         "name" : "Unique Gym & Spa",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJIXsaYHG2bTkRUy0lTQRPjHI",
+         "rating" : 4,
+         "reference" : "CmRRAAAA--TJH3KWdMZj6Nunn3kmoVFQsRvGyruu_rCKjHJbtsLaFcgChEnB1y-DIxCfU7MTml83YJ2Uz3bVGuNHiYEolyw6GiDelzEvqmi1DaGEs_0f1BnUlWvYIwYA_a3s_HPkEhDFJO6TQi7oFzXngfWt53SQGhQNCPX9TPdIVb78PLVwEAnTgphjgw",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "spa", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Calgiri Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.855354,
+               "lng" : 75.8073187
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8567029802915,
+                  "lng" : 75.80866768029151
+               },
+               "southwest" : {
+                  "lat" : 26.8540050197085,
+                  "lng" : 75.80596971970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "729efb35ae4e5c9bd7186de9f1173c5ac81e4f7d",
+         "name" : "Gold's Gym",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2896,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103634299028985985412/photos\"\u003evishnu gurjar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-cJUavJNwBnaVEyCsPJubFzW6FFeD3IUcHFHACo30SQNtWKcnj5j-Uppb4z1JVFwaDq0CV8St80BRNISFkGg3MwVsHh8Z5gPG9qmdFQlR-RRA6s1nePBiJvP-GbAhB4-EhA0yMS4cO_il1KMgfwkeTWSGhTaFFeB9zTo57Ms8vk7Zc8JSSxeXQ",
+               "width" : 2896
+            }
+         ],
+         "place_id" : "ChIJgyGw9XW2bTkRgmUcNacMKu0",
+         "rating" : 3.9,
+         "reference" : "CmRSAAAAjRW0WzR6fhSqH9vs7JN-5YcohMdBojju27w68YGlCuPmaDs5AYh9WO_qN0RqND0oNSWgkpD7ekpu8_gwjZQNVXWRMdkY-Q-E5vVjb8nSrECG4AZzpCDXZlkHTKNBGSQpEhDqJS6w2XEpwifoqn_DjPfmGhQtK2rpcaTQuyByIZcmOHGqgGfTHA",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "3rd Floor, Gaurav Towers, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.849924,
+               "lng" : 75.81042090000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8512729802915,
+                  "lng" : 75.81176988029151
+               },
+               "southwest" : {
+                  "lat" : 26.84857501970849,
+                  "lng" : 75.8090719197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0db7129e4dbe7d2d67ec94523d730b992de560a0",
+         "name" : "Colosseum Gym",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJPR8RIwu2bTkRDcKQDY-Vo5E",
+         "rating" : 3.8,
+         "reference" : "CmRSAAAA_W2BncW88___T2bVAepPhO2S1Q_W440dP1haXOsC0XQjkWG-jrUpv7zjEgJt5y08aNwJurimUMx97H98J-mOUWcgZ4loIGp85FvBVKBk5QN6TJcwPgjURz93B3MJmU-jEhBFcHsImBzlre3-seomZS9qGhQs6jjQ9B5HXXwjbt1oMLwFnv37Mg",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "10/806/A, Virast Apartment, Near Gaurav Tower, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85370919999999,
+               "lng" : 75.8105564
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8550581802915,
+                  "lng" : 75.81190538029149
+               },
+               "southwest" : {
+                  "lat" : 26.85236021970849,
+                  "lng" : 75.80920741970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "073996764c51c6b5ed55dfbbecbe0558238b8171",
+         "name" : "Body Fit Gym",
+         "photos" : [
+            {
+               "height" : 2560,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108122577059281889207/photos\"\u003eRavi Arya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA6BdYpiLRRDuQWBmTt0In_j2MMQZ4nH4JWPbly61zUOndLpgDvPrfQvDgj41YsScBRcl5YbUvfM7EEqFYjSolIU2gG1LMllVKHMp2LZCayUuRM4qgEM9Z1BnByKMSCkWrEhDT1N2BXkcXJJlnXjY5X6CgGhSH9fsGf8itqeWuWKu758GZdaaMrA",
+               "width" : 1440
+            }
+         ],
+         "place_id" : "ChIJ2d5Z93S2bTkRliwtMjM57fQ",
+         "rating" : 3.6,
+         "reference" : "CmRSAAAAT_w-ni8EyQHFy2T96vcCRQ-JOh2lbY_GPxTFKSjQFtxP1n6irD4m44J4vL2u5XCpeMW33rOQFsIbCtyXjM2WqzB5kvpcmo0Z7EzxUF_IXeuAITn8SPGvOLW3_7H0MyoSEhBJiVAVBLEYLurjEkMbeu74GhQOIc9XeE3FF1-cShLWgFowbZOS1Q",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "B-415, Hari Marg, Vidyut Abhiyanta Colony, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8576,
+               "lng" : 75.8132305
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8589916302915,
+                  "lng" : 75.8145940302915
+               },
+               "southwest" : {
+                  "lat" : 26.8562936697085,
+                  "lng" : 75.8118960697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "1a1a2bc449a87f5e6c1068e8d95279f2177b219a",
+         "name" : "Shape & Shine",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJAQAAAHS2bTkREVEG0grxnDM",
+         "reference" : "CmRRAAAAAdwcLLKojSG2kzm1Nn_Am2PQq9MwnSY-xVqYSTDQDtTnNVXoszacn2Pto30PJEW3wrqbH-AnvfplaJP17wlYd7lt8v-ImPczb-_iT-BWapz-S4A5rUw3QYiACzHc5NAZEhALcAzue_ijsEDVvUfnbO5ZGhQM7VtSYbR7U44wAD4VgrWNsdQU9A",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Calgiri Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.85243629999999,
+               "lng" : 75.8161137
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8538036302915,
+                  "lng" : 75.8174967302915
+               },
+               "southwest" : {
+                  "lat" : 26.8511056697085,
+                  "lng" : 75.81479876970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a9cf88f967183aac4634cf66824caebdce7b725b",
+         "name" : "Smart Gym",
+         "place_id" : "ChIJP-Gf0HK2bTkRT9TOOEtx30c",
+         "reference" : "CmRRAAAAIQfRfNffu0M0ZI3jaCGtmsRHUruVY4K30Z0aa1gAsnwZ32k9x1rjEOktqEU-acqcRjmBc1FCpVJEMPaALZWza9tRy-xFaVHemIwsvPwIY_7C2kGkU6ikLd1InElgPv_cEhCw4mOVqIHi1s1CXfSMwDStGhRyTUrEUNNR2VtHLaA7PmO6BfiiLQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Maharaja Agrasen Marg, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8578478,
+               "lng" : 75.8125008
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8592179302915,
+                  "lng" : 75.8138582802915
+               },
+               "southwest" : {
+                  "lat" : 26.85651996970849,
+                  "lng" : 75.81116031970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e4e14298eb669ebf74e5baea8c685a114de4a24b",
+         "name" : "Shape and Slim",
+         "place_id" : "ChIJizthsna2bTkR9KJnJp0QNow",
+         "rating" : 3,
+         "reference" : "CmRSAAAAb0M_WHrvrm9X_7jMmIS3V57Nd9cgtxz3xlk0ILiO0T_SGM4FEZHtpWuTGUAyyfEmAiVrJ0L2ELQ5qkrYr_oq3Ss9G4HmwJbh3W-LfqXVn90JjLfVxkif3NNzmMmDG8C1EhCeJjhoXprW39i-EVWrXtboGhQ0Sjpy_LwnF1Rq_Yi73xZYCWll0w",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Calgiri Marg, Vidyut Abhiyanta Colony, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.858026,
+               "lng" : 75.81183399999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8594294302915,
+                  "lng" : 75.8132107802915
+               },
+               "southwest" : {
+                  "lat" : 26.8567314697085,
+                  "lng" : 75.81051281970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "21f936e86636f645bbcd5e8876063a90c1b83281",
+         "name" : "Yog Sidha",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110795851124742203823/photos\"\u003eLata Makhija\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA757hodq-6oRGt83vaH9xmm3llYCkjrsipDcKEOQBOk6PWD4e7Vv5LDuUMKqAdT1jmTYY_6XMt1luJ0J5RVpRunYeJ2iXgvdYHHBfBk6WDlf-QxhwMoiwJF7csoH9thDSEhAFYOd7naFwOwCEahU1tpwqGhSnzj23UQSOZIRGXAkJQlT-j53Gfg",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJpQFKuna2bTkRoq85MC-sEFs",
+         "reference" : "CmRRAAAAYZznF43QXeekd654QYU4dPzkYoz-VVh8JqslPLBEFswIEs_FHWFePw-JhNjVA0fONiUqAsHI5-VDTcNT5b9AgUvpcZ4KECtltavCF8Jrxa2YwdOpaAb0YSoG2gAP6cryEhBpTvBsEXMNWXLhwz9bR62tGhQh80DP-XOyr5vJgsxPB3VW_PP7rQ",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "A-251, Calgiri Marg, Gem Enclave, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8502776,
+               "lng" : 75.8144671
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8516265802915,
+                  "lng" : 75.81581608029151
+               },
+               "southwest" : {
+                  "lat" : 26.8489286197085,
+                  "lng" : 75.81311811970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "6b101d4e4d7f3d046ea9e73ccc4b2cb8f708d8bc",
+         "name" : "Bhumi Nutrition Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJJQGewQy2bTkRvygBLYDlDnQ",
+         "reference" : "CmRRAAAAQJdSEYdPQKJr0W4ex90WWF_y-ZSlCMZ4IpXkdBupJPeFX1B0qX518-hSzP2pOcCrH5gg8HpNAxbzz-B0eorWrXt7xt3qlMaursepi_xCEEoE_ejRPbTxLKw10KjI_OV0EhDSHPzxWr2LiCBw8nT2Soe3GhRY8ts06PqT21PU_Rs6Rwl_7VWxoA",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "4/270, Malviya Nagar, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.852656,
+               "lng" : 75.8075211
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8541012802915,
+                  "lng" : 75.8088949302915
+               },
+               "southwest" : {
+                  "lat" : 26.8514033197085,
+                  "lng" : 75.80619696970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "308e80a9666bcc526791a86bbd91039a342b783a",
+         "name" : "Natural Health Care",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJz98LZnW2bTkRHkphDo2uGLE",
+         "reference" : "CmRSAAAA1yv-iMddQAIfbaGBz95XQmMMnhY-InqkaaBsl_Udg5CCnYcwnVs6VHzHvzgXDlgSx175IBLGOXgXcirHGWWfsEfDHaz9JNOWWDEgdwqrFyS519umJyUMTuElgSZT4FJ1EhDcXzAU1d8jAzdU_kHOLUviGhTJeWUA2bsWErisa23lq4AU8NB5uA",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "hospital", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Mahesh Marg, Malviya Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

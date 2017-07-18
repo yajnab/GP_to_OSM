@@ -1,0 +1,200 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8641145,
+               "lng" : 75.8107643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8654634802915,
+                  "lng" : 75.81211328029151
+               },
+               "southwest" : {
+                  "lat" : 26.8627655197085,
+                  "lng" : 75.80941531970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "1592573fd3af94bdb9a79ad0243fc6cb358c2983",
+         "name" : "Placement and Training Cell",
+         "place_id" : "ChIJkbl8x3m2bTkRqCiYDJDR3oU",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAzgS1bwQ-DncYsVOXAovYAfNxqz8kJvDWNj6ptCrSfovbKBYogy1UqcovYTOsTWR0lyYlzekzuOy5_6H-PROCDiTGUp91WYY1j93niRJ7CuBvAYWSd4Ndnx9lBDCLZJLrEhD1KqHS39e4ms5XOXZRZmZuGhRz8iBwt9S6rlDFJHMKjvPOIb07Gw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8625939,
+               "lng" : 75.80898999999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8640538802915,
+                  "lng" : 75.81035908029151
+               },
+               "southwest" : {
+                  "lat" : 26.86135591970849,
+                  "lng" : 75.80766111970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "c5f10c49fe901ba7c2113c6baa3be549f8d288e6",
+         "name" : "Director's Office",
+         "place_id" : "ChIJMx-Hi3e2bTkRjqUhKD9nQbE",
+         "reference" : "CmRSAAAACCXkBTxXhlP9DGd95_lczjEZzgSao_Q_fSjwx9v6Q979hUJtu-0-SysPjYbUYtNfz7-ER3ZXNwxDCoDeuzqhdrfnMuDRSao2g0nGtdGnV_ausIf52I3UPYdmOeWtaaNmEhCI5EoOW1ripV8mV6G3QRZjGhQgYspsVD2ef75A8tHJNkwbrztZWw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8616082,
+               "lng" : 75.8107704
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8629651802915,
+                  "lng" : 75.8120201802915
+               },
+               "southwest" : {
+                  "lat" : 26.8602672197085,
+                  "lng" : 75.80932221970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "72c77454ab0e77e706514eccdb25683c47f44920",
+         "name" : "Foundry Laboratory",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJdVKcbne2bTkRC30bhMJBZKc",
+         "reference" : "CmRSAAAArWfKVWrxO1kA4d9fDvoPB9h84tmJmYE3TfLbRtlp3ewOqqn2Kq4Ky5x1W4Bm73hyTNZ8jDHWgFBJ5Ou7GJ6HurCY3Q-3gBKtnK3f4HRknLlQpFQlcG6NSeCBFR2VADB7EhDSFht7-3-Fu4Wc9UmtzvggGhSCEY9MWb0jPkxzcWWGLcwqxiPa2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "MALAVIYA NATIONAL INSTITUTE OF TECHNOLOGY (MNIT), Naya Bass, Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8608057,
+               "lng" : 75.8108477
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8620252302915,
+                  "lng" : 75.8122481802915
+               },
+               "southwest" : {
+                  "lat" : 26.8593272697085,
+                  "lng" : 75.80955021970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f9163e59446ecaef64adc4706f652ca97e011ca0",
+         "name" : "Mechanical Workshop",
+         "place_id" : "ChIJs391EXe2bTkR9Qi3vZ-G36c",
+         "rating" : 5,
+         "reference" : "CmRSAAAANo3WNMB1K2HnoWUFRBlvv2A7Ab5cLNWogB8UjnRyuJk2hOYocdhay3XuXnfUaSE2wneTyXt5kmviwA8kf8Dnpj5q9PkDL-XeSolEx3ESU1QSqkHDlZi-9QnXIjOvB75aEhDjN2v90GfxT_Vu0haPNnZaGhRdfHkBLlKa6Qfy8v48sJ_BnFXPVQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8637353,
+               "lng" : 75.8102614
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8650842802915,
+                  "lng" : 75.8116103802915
+               },
+               "southwest" : {
+                  "lat" : 26.8623863197085,
+                  "lng" : 75.80891241970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bf2d35e6cd25af083a7013bd2c9f6867d89e37f7",
+         "name" : "Dean Academic Office",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJN0NKyXm2bTkRUcDqWT1SsEU",
+         "rating" : 4,
+         "reference" : "CmRRAAAAw5US442432gUcSYkDWbiWV_rmaDCdmaqDzOkUAaHHY1AVOoU9Ie4DDIsybOpRaMaJowosL-IiaxMF1JMzrxqvDoLWKUmFVweh2EhooEzsp5jfeiwJyetZ-wa2eZqUD4pEhCSCKanwLUovIZ0bWNis3f0GhSy3VbsGmZOPNxJrxSST5eTgSoETQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8637137,
+               "lng" : 75.81052149999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8650626802915,
+                  "lng" : 75.8118704802915
+               },
+               "southwest" : {
+                  "lat" : 26.8623647197085,
+                  "lng" : 75.80917251970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "1ba980e8cbe97804a129609e32e067ce959fdd0c",
+         "name" : "LT-12, LT-13",
+         "place_id" : "ChIJeydXz3m2bTkR7RjBF5PRBak",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAk73GDLCvfzTTqZpNH-0o-_aVd0G94oNPSX0rhPlH7_cMJvkIpVQX4FEoKBBsdZGmmJC6cpMvFEE0AaOxFB6yhuAgpccU17iLIQlW8nO7539EnIRrtrLHadoZQUGvUZxREhBQzQK2Mt6rTlqVrNJXgUjFGhQYmcWrG8AE6FBesesSmj2u1w4lWw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8622441,
+               "lng" : 75.81066000000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8635930802915,
+                  "lng" : 75.81200898029151
+               },
+               "southwest" : {
+                  "lat" : 26.8608951197085,
+                  "lng" : 75.8093110197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "3ad30a54f4fdbf155d882981b17a4008d5d3041f",
+         "name" : "Department of Chemical Engineering",
+         "place_id" : "ChIJw0FYZHe2bTkRFuhj04SQie8",
+         "reference" : "CmRbAAAAINYGTCYLY-DwAdf8eW46Qq0ueaw8pcM_98Gx-bwX3K9uVKvQSJQQQMUbJhk4vrkigacEtUMHl1yFbZNCKletKUZZNbgTGi3MGK45PagruVd26aiMvET1i4mbQnK89a-uEhCL1tQT67WRSC3z6EigW2G9GhRrfK53OO_-2b15voecKlIUKR7J4A",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "premise", "point_of_interest", "establishment" ],
+         "vicinity" : "Jhalana Gram"
+      }
+   ],
+   "status" : "OK"
+}
