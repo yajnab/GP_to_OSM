@@ -38,7 +38,7 @@ public class Ltlggrid {
         }
         else{
             double x = 26.847275, y =  75.814685;
-            String grid[][] = new String[1][2];
+            String grid[][] = new String[1][1];
             /*
             We Only one point 
             */
