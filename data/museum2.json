@@ -1,0 +1,32 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8462803,
+               "lng" : 75.8137016
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8476292802915,
+                  "lng" : 75.81505058029151
+               },
+               "southwest" : {
+                  "lat" : 26.8449313197085,
+                  "lng" : 75.81235261970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "9f4b83e74a60301b92ab5278056291899f41cf59",
+         "name" : "Sector 11 Temple",
+         "place_id" : "ChIJm6JIGgy2bTkRGefLAmdxVAU",
+         "reference" : "CmRRAAAAcaMzVKo0u1xv241_AbgIOfPgyho_n-lS2mg8OktOoDAU5MwX3F436XjyGNdnX2XV_Xl5xu0E3id6Rs_ZDH9L5zBDdIw_GZNSjL93WHNze-_wWDRrIgSVnYgxvQkymcDXEhAtWYiQdbrEX6_FPJ2_24mZGhQu08uW10wd664RIOev6GCn_cnfTA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "11/321-336, Sector 11 Road, Sahid Colony, Sector 11, Malviya Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,663 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAwEAANXinFpQWqzXjaRG38PoxjZvsTDqixccK6lg6HvUUEc-KtCjJjqIh5X6BRHjku9rq3dJxx0E2se0bTda8xSuEdOrti3qmcKv-muCOKyQF4Q3bgRaHB2hbQBraMky1UUjrPfFERe_sDIaIcO_JY9tKwqB9JPzjprnr8Oq-UcMSULz2sgZ7Hxg2UxnDB5r3Vz2f6ThQWSCT9CXejBinsSS6DDhtCcxO9-UEn8Uec5Ded3N-leBUrJro3QGDcoNqRV394mQIETEm_J2X8VWwDJRQZpkpnx64jboqyMWEjsuihcSZ5dCK_1X3bL9hBj1i4qW9CTlPyhLbcy31lz4b9B9zpSUsxyQpPnl1n5RDYixu_D8EhAI7tTRpaTcNJOX2o9b6OLBGhRHzSvtatrlbhnRYVQfivcniunH0w",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8483793,
+               "lng" : 75.8182312
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8497282802915,
+                  "lng" : 75.81958018029151
+               },
+               "southwest" : {
+                  "lat" : 26.8470303197085,
+                  "lng" : 75.8168822197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "fb1141b99b95d7fd1d2b0d4d2961ee7b217f4ddd",
+         "name" : "Adarsh Vidya Mandir",
+         "photos" : [
+            {
+               "height" : 323,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111738186053796035652/photos\"\u003eBrahmanand Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwSg9qYX9Zx8mvLna8msJTWkSIvDxx6Eqbc0v2RTBIgSneRFuqW7feCBS1OZxddO7YdB7kBunRvJs7lS1HiAOJrTJisiuvTwChQLAjx7lAHDjh2nCzl_jD5QgFDwJDCOAEhBCe8K5yg10NsmXxcS-6RHFGhR_a-5PeFqye_PBgbOzSJGxLSTqpQ",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJe6RPiA22bTkRjqi0Ie0HNzc",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAbOF83I84vAszKVdH-Fdms4CmmFHlbKqjhgbHbo6jsNCc3z15w-P6zkIqk89x5G6mHVsTgJhkcVdAC9B3vG9y5uX_JHQ1I5JSTlgRtNcZ78Pw28vnmgIOlpS-ofuuk_g5EhAbvmLhVC3RdnUf8H6nwQV2GhQpv8eUIZ2Vkw-pQvw5vidUkJjNkg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Sector 3, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8496592,
+               "lng" : 75.81350979999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8508327802915,
+                  "lng" : 75.81489978029151
+               },
+               "southwest" : {
+                  "lat" : 26.8481348197085,
+                  "lng" : 75.81220181970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "d37dd8e8a2855e6d170a6c00096aaafedee4f817",
+         "name" : "Dolphins International School",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101983667123551752211/photos\"\u003eRahul Raj\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2omTZsaXvm4-9vwdCpC6GdyRGrmxX7wB0jnkzRpyFPRa9bcGJDpRVzbZD5SSXuYwTEy4QjEjMKmlCb96hbPzs2oum4U4GjiDvbgA3I2k0Dt8PGfw33eTai3TBqCUQ0tMEhCazwIRWaTB1B3Q3I1TngUlGhS06kEXQOSBzXdZopmFOXkLVP40MQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ8S-WkQy2bTkR1cf6DrXGN7I",
+         "rating" : 3,
+         "reference" : "CmRSAAAA-k3PlGjLwmngVQ_QU6y4A6BXRV6SR6dEcnBFPPh_cy9h7G5_d_TpuDof05bvG5nNO-D5qrrax6ZsTxQc9q0vpGdCs7fwzRpVX6i42lpmXL2zY5f6rYjPq-2PEryom2-EEhCcKmTGouAPCTL_vqPpzagmGhTzUPP0uTDONnFb50G0eSlO7G8Gkw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "4/456, Pradhan Marg, Vidyut Abhiyanta Colony, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8493175,
+               "lng" : 75.81356580000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8506635802915,
+                  "lng" : 75.8149098302915
+               },
+               "southwest" : {
+                  "lat" : 26.8479656197085,
+                  "lng" : 75.81221186970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "c4081259f856562947ece0ef0440cca447dbd192",
+         "name" : "EuroKids",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109451015490540739916/photos\"\u003eManish Godara\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwvcCiiQTZkQx1v4n-gT_Dx_Rpd1qEmqkOFRmMfx-bEwh9UrzMPfPMNbjIXAWhX3_NUtA5WytiDpWDmf8nmns74ZNZPHcaAq5y_poO5NPdXOjvsSyoHcx0Z-BZgGeIsuREhBuochRHSd61pt1KoJdJ_GYGhTsllqlWm4BoCbTe1ysgk1XlVIVmw",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJ2aNX_RG2bTkRCXRNeYlDZuQ",
+         "rating" : 5,
+         "reference" : "CmRSAAAAzcwuqS_We-anIKyRoXvbGD-C6R3yMsgbgg9E7QymG6CTO-_Um1TIxT7LC0fphdAZCIkSIfInJxK_LQ49dAgJu9fOvHvlbAWsE6W8v6QsJ2jtnAnmxMXHGIjdIC6gd_OEEhD7lfw5JUC3nYUkDEp0NCdoGhQvMv-lcH0msBakLyBQBwEPg9ylxw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "4/453, Pradhan Marg, Vidyut Abhiyanta Colony, Sector 4, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.847017,
+               "lng" : 75.817607
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8483659802915,
+                  "lng" : 75.81895598029151
+               },
+               "southwest" : {
+                  "lat" : 26.8456680197085,
+                  "lng" : 75.81625801970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f88c4d5781e734e5d74f6f9b0c59d9dc34c489c0",
+         "name" : "MIDBRAIN ACTIVATION (BRAIN BHEEM)",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 824,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102762200867557495545/photos\"\u003eMIDBRAIN ACTIVATION (BRAIN BHEEM)\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGfw1NaK4vhqdUnASzVAHyGchgiGR3jzoEReMgMU__dOFY4lJlrGZskStiNs8aK2fTEmxQnf1p96hnQOCSxByKM-z5Aut1zmUt_e29-UsoN4JyLaJVP0_YM-Fb8qnEBO-EhANiq0zdU-K0IdxpAEeXaw3GhTN_YAd3S36PciH-CHXgs7d-n6PKA",
+               "width" : 830
+            }
+         ],
+         "place_id" : "ChIJNcr-7g22bTkRT55vnneLFR4",
+         "rating" : 1,
+         "reference" : "CmRRAAAA-obRpYM5mhMwUYC7otdyekyLtkh_xvrtbNPxsGL0UhaqkGFQc3HvdLwNYtJ9CVaqJUOUrGp6Ab-AnkydaCUG7nU6YUlzeLY0dQVje1ZNKkFY_Fv5CnJgE93IDqmphZLYEhCnprGmTki-PMy6LBSHpp0XGhR24ztZBuTw0ON7lrWZI1ju8AxnCQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "3/322, Sector 3, Malviya Nagar,, Near Satkar Shopping Centre, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8455923,
+               "lng" : 75.8121699
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8469412802915,
+                  "lng" : 75.81351888029151
+               },
+               "southwest" : {
+                  "lat" : 26.84424331970849,
+                  "lng" : 75.81082091970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "c20242d6f46958be017f7434adc40fc67b7eec10",
+         "name" : "Kidvik",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1086,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109557135664300674358/photos\"\u003eKidvik\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsGhatHdsJs3UsouS40o40tIgvriqgRvzPeA3Atu5A8fF_SXQjyvrwAT3lv-4BhZKuMd-E_d2VnPUhNN_wSA_WkxgmLHUqRBr741_kx1UwxLECrkzHVRF5ONnRAjivgZAEhBKzRHQ_-dAMMFOe3qZJ94OGhQs1IwAB8-2cIBZWijXks91RQG7mw",
+               "width" : 2896
+            }
+         ],
+         "place_id" : "ChIJRwAAUAm2bTkRUaKEJaLZPjM",
+         "rating" : 5,
+         "reference" : "CmRRAAAAXKe0PB8VAYupGSS824m0XEtVqLTq0kUnIn6oJLte0hDDhRvhxcWcYLzG6HowK9YaScpXam_EE3j1o25nnszkzx1eWu4ARCIxcw5mtZ-45xsbt8e4tVqy-Qusph_DhozkEhBXtsYQ4k0TNqS5wtkHBtqGGhSGCTtHSM2Q5sEG3gzfncwjhspBDQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Sector - 12, House No. - 123, Malviya Nagar, Jaipur, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.849972,
+               "lng" : 75.81644299999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8513209802915,
+                  "lng" : 75.8177919802915
+               },
+               "southwest" : {
+                  "lat" : 26.84862301970849,
+                  "lng" : 75.8150940197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "edb66a09e98d75fa19e209bf4ee12a92aa25c245",
+         "name" : "Fame Gurukul School",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113275956523092083461/photos\"\u003eFame Gurukul School\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVPYOnFVbV7731NSQ4z0484t4BpT4mplrTjX__RPHPDWTZ_FvSVPsPhRNw19yM3yOB3bb-gGMiTxsul1_IwnbDA1jenhVgBQ5X2RnGHIP2BvCOFyFa2kzyzlA9PiUVBQAEhCgcF6ZoX0tuEk_FGMk_cwHGhTm06ngm-oU4L5J1Of97FYvpWfUbw",
+               "width" : 1541
+            }
+         ],
+         "place_id" : "ChIJARj59Ay2bTkR9M47D4Pu5rc",
+         "rating" : 5,
+         "reference" : "CmRSAAAABdkCi_2Fp_m_18n4u8SJq0IpS5DeIc-4kNvgFtO0UMMy91smN2xfsnsB3yYuwQJDSK6y04uQsmOxvowWYIVWW6NfLSq6DNdIviWYjNY2ZdirmOF9ZXdhzMeoIsSkc7CMEhCon-Ad5UoG3G5ABVyJiPJzGhTPe5XSQFi_y-DJVd3yJPXXHlwBuQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "3/513, Shivanand Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8466784,
+               "lng" : 75.82038229999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8480273802915,
+                  "lng" : 75.8217312802915
+               },
+               "southwest" : {
+                  "lat" : 26.8453294197085,
+                  "lng" : 75.8190333197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "c71ff1562c1351a52b0536618a2e4dc591b9fd50",
+         "name" : "Jayshree Periwal Pre School",
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110007217766393147041/photos\"\u003eAshok Garg\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXTuM1CWT1yuRn2eZXX7xSkSC7L5wIHMOkd_3CF7iy4YsQqkJpmkLDSICIGuITf7e2bpSrLgl9dMc47XLDmIUiw0dZFR9xBSUsCDZWR-OU0mkQt8gvFWI3u1tHPkEXJMZEhAc0FiHltzmWF7QYpOOgZMtGhQFbni_eawV-XmlxE8woX2DfBEcNg",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJsU8JJBK2bTkRwoXZJBJeiFc",
+         "rating" : 3.8,
+         "reference" : "CmRRAAAAr3i8d0khNLDeGCBPo7XpYwYPFcf6W19qooSKcuvBCeuGo0Yl7FoAEPAyQT1yDeoFW7sQIJhQJQuOWpZI7AXjTUNgZ0__T9hZS71dsTiifoa9kMpGLAjtaYHBWt4f06X2EhBSW6P9gNsmEW-b0rqgNtl2GhQ_T3ZdmhJCz6swmL7dcG2qGHCZ3Q",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "2/19, Malviya Nagar, Balaji Mod, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8486892,
+               "lng" : 75.81288359999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8500381802915,
+                  "lng" : 75.8142325802915
+               },
+               "southwest" : {
+                  "lat" : 26.8473402197085,
+                  "lng" : 75.81153461970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f8ba1e5970ea73c6cab482066092d99137e4c466",
+         "name" : "THE MODERN HAPPY SCHOOL",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1001,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102954484202602698419/photos\"\u003eKumar Satish\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALi-4-nTIe9ORAdJSQtYgdCpt57YKxvHd3v0ROU1MjDY6n1tsdZZVvAGG692Nwcrl3ehBiTy8ZKMpQxde77wHyIqn6l3eFgWawPQDURJ6ALfUN-uKnpWhNzJngvNTSHD0EhDw6WJ6ZLVN9xQj-tp7OesvGhQHd71GQipZh1WCXXk_SONqoXy0IQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJAQAAAHS2bTkRa-WlcgkEZ6M",
+         "rating" : 4.1,
+         "reference" : "CmRSAAAALSKslDsI5dptC2dQZlyHlIGZkwHxuzMoD1Y4j7QEm096X6kI27kapK1LYLczbYbMIJBuOgz69FXnbIkGjU-3ajMZx0USAbEUs6CheRO0nwnM5HRxqFzQrzPY_syRl6YLEhCuZw3doRSeAMVIOly5rKVNGhQWfpz3sbn0rClZsZ5hygrYzzQm6A",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Sector 10, Malviya Nagar,, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8465011,
+               "lng" : 75.81357489999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8478500802915,
+                  "lng" : 75.8149238802915
+               },
+               "southwest" : {
+                  "lat" : 26.84515211970849,
+                  "lng" : 75.8122259197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "0480107bd82573831a0eb590979e23be81f7359c",
+         "name" : "Mehra Commerce College",
+         "place_id" : "ChIJ--xCEAy2bTkRlRSRE9qNKGg",
+         "reference" : "CmRRAAAAWRgPWV1Fp6ZpQcfqPfbwh5oJ8_CXSDGaBZPH0xQHonehUrxVUDDp_mkx2IMaCQOJqFz6sNut0neFjr5lPauAtQiglXUm3ZE2mQETsquP-GzaFYPdzwC9yEfp0Oj_NecXEhDHIcGdscftAZ6e2mOgwEEpGhSANzQfp5uFDx68YVf-D2vuE9Lftg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "11, 117-25, Sector 12 Road, Siddharth Nagar, Sector 11, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8465011,
+               "lng" : 75.81357489999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8478245802915,
+                  "lng" : 75.8149445802915
+               },
+               "southwest" : {
+                  "lat" : 26.8451266197085,
+                  "lng" : 75.81224661970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "43a25f2065da99f740d60efa955dd26f81e31ba2",
+         "name" : "Akashdeep P.G. Mahila College",
+         "place_id" : "ChIJ--xCEAy2bTkRhWt9wkXwh0A",
+         "rating" : 5,
+         "reference" : "CmRRAAAAf2cfOk5vdNDfXUcbchzijP88cO1IYvs49zl3o3mebZDVNkh8nCiHiaJXAuVEhkSLKejCdy-n2YyILnHKFmA6Abk5Cla83RZSVj0AQ9EG4JOwZm58cqiBop6moJbGD24QEhCytqP_6_jisYx_ALbbNHraGhSiNNC4bf0M2rCBbXvH9_cy5oO9sg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Sector 11 Road, Mansarover, Agarwal Farm, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8483549,
+               "lng" : 75.8132648
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8497038802915,
+                  "lng" : 75.81461378029151
+               },
+               "southwest" : {
+                  "lat" : 26.8470059197085,
+                  "lng" : 75.8119158197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "0002dceec88906a2a7e3c091378321e2c3641088",
+         "name" : "MN Modern Public Senior Secondary School",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101441048674547144144/photos\"\u003eDevendra Sihrra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoOA7Se5QSmmT3iqYsohh2OuTvM5tNP9hvjZHZfdRwl_OxjAhnBPRztRsOgIf9OkRxxCRJj1s3XSz4pHSJx9CGRMdQOqsF8ArNrnG4AnAFZk-zDEY6COOmXCvOGumz6rGEhCa9-GnYLanWO5-ofOuR2l4GhSjKkFhtpxzVeluAxUFntlatKBcWg",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJC56bfgy2bTkRqFnRHkstSLk",
+         "rating" : 4.2,
+         "reference" : "CmRSAAAABRBYZDZiZgeYlyFTzTKsmNnlNGgCkQt5KBqs-n_7dkZIJdVGYjoFU3OmK1uEJZDm2yTfJi9lvTxhm-6ReijmTBtsNnG6haswR_8EEaQB4efJj4WsrKILRcWTlTW7MbmrEhAMBDsOFOfiuDv8Tc6AFtIhGhQdfqEEsJWUA72SqSfU7V7KwiMslQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Sector 10, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8461671,
+               "lng" : 75.812788
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8475160802915,
+                  "lng" : 75.81413698029151
+               },
+               "southwest" : {
+                  "lat" : 26.8448181197085,
+                  "lng" : 75.81143901970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "6c2d666a02fb89c4c733cc506a954c093dbf5f54",
+         "name" : "Rajkiya Madhyamik School",
+         "place_id" : "ChIJk-H0Bwy2bTkRfbhatcUJKFw",
+         "reference" : "CmRRAAAAweg_OVysez7KsKNNqIEvCbRrvOU_fvMJ5z5aKkqmr8I4wFPE4PBXfHtfBIW_3S2XSYCg5HI3XBwnt_YSS6GNI0Q-GY6xBzf8Drqah4-5kvbPx4bwd4Yb6obNZCZGuVEjEhD4RRX_XjVtNscnhaDCExA9GhTTnMtFYFIsTLOUHz2RUbqeazE7Tg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "11/1069-1072, Sector 11 Road, Sector 10, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8460938,
+               "lng" : 75.8127413
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.84744278029151,
+                  "lng" : 75.8140902802915
+               },
+               "southwest" : {
+                  "lat" : 26.8447448197085,
+                  "lng" : 75.81139231970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "a290e534c988dc014d27698260bcc87a9cc70659",
+         "name" : "13 Sector Government School",
+         "place_id" : "ChIJx-GaBwy2bTkR1uHQRHJedPs",
+         "rating" : 4,
+         "reference" : "CmRSAAAAlXu1LYbhN5PtHGoqCwe9HZA2JnHII3YdW8p7oE3Im0n-RUyDB4nEXIJqhYQNe0q7tZ-ZHbMZtdpKRzTYPsRrN2W5gn6La5O2zMVJh5486NP-_CqXLQ1DH0fuZAEetWYNEhADLtr3lDl1-Mnf005aDV7OGhRiQmW1H-D6ByEDTpnRJoVcqb6PmA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "155-166, Sector 12 Road, Sector 9, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8460938,
+               "lng" : 75.8127413
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.84744278029151,
+                  "lng" : 75.8140902802915
+               },
+               "southwest" : {
+                  "lat" : 26.8447448197085,
+                  "lng" : 75.81139231970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "c62c0356aed668d0fbe42ea967f0233fe8fcb7c6",
+         "name" : "Aryans Vedic Mathematics",
+         "place_id" : "ChIJd1RjBwy2bTkRYFnWqKzq7cY",
+         "rating" : 5,
+         "reference" : "CmRSAAAAFL6CDZ9HDkChhEZFVtdUsmRcL26mgzlb7mCOyKnRS2djpUmBkqCftDR8AGFm3ZoKBGOLIaBZ_j2EkEtNVAdV40UX6Taeq9c2ZhZ3cHeWs7s3bMsjjC4ITaxCpNtuelCTEhDOl3rw-v0ZVIyal1CeHah0GhRpa8zRn0-qaQd3M-FB5P1qrZi2lA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "e 27, Siddhartha Nagar, opp, 13, Sector 7 Road, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8465942,
+               "lng" : 75.81242329999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8479431802915,
+                  "lng" : 75.8137722802915
+               },
+               "southwest" : {
+                  "lat" : 26.8452452197085,
+                  "lng" : 75.8110743197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "3b5e9d42feb67ee672e55efec0c9997eb0a1cf0b",
+         "name" : "Tender Feet Play School",
+         "place_id" : "ChIJUXu79gu2bTkRTp7yhdW0BB8",
+         "reference" : "CmRRAAAAJXSanDfwRvWJPm0UWQBwzqthdW1bd8AX7rfQC8soZLHmbRXtdDpOhNQDNbZYG7CmrsrxOtHQS2wz5789DBnn_s6_kd25oTQ0h1k1UQpcvFjcJAzcQQesV2ouiC51GAlyEhAoirtvGc-75Cr-jx4cNqXWGhTPWwa3BnW6MD_PWmLAa_z2gB_lZw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "D 668, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8493347,
+               "lng" : 75.8153093
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8507251802915,
+                  "lng" : 75.81662668029149
+               },
+               "southwest" : {
+                  "lat" : 26.8480272197085,
+                  "lng" : 75.81392871970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f4ebb6459af1a2562c2526a4e6305800e321e1e1",
+         "name" : "Colors School",
+         "place_id" : "ChIJoXSQ_Ay2bTkR4c7V60tTw6A",
+         "reference" : "CmRSAAAAmeKiCJTJdlEYCWSTfs3z9o6d8uY9plLhVTCRB94elM-4-fINTr9RAQcmGSIjAkYwnjKTVl8J37jkHcMdfP28nsz2DEIaSRpjeYHK9b95-Fbm6p4JlMFZHts79LKW8NmoEhD75LnRxhsezQ9nva2B8J6LGhRGWwOgDCYAbENjc0mh8pTsoLm-WQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Shivanand Marg, Sector 3, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.84784,
+               "lng" : 75.81208629999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8491889802915,
+                  "lng" : 75.8134352802915
+               },
+               "southwest" : {
+                  "lat" : 26.8464910197085,
+                  "lng" : 75.81073731970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "165d1440170d00f8eed140759f23be238263da87",
+         "name" : "Govt School Malviya Nagar Jaipur",
+         "place_id" : "ChIJU3wYhQu2bTkRXFkuxaS4vGc",
+         "reference" : "CmRRAAAAkd1XPhDw27Dfj4AQNK5_cHQdX4Qi1r9_alLvTmVVtqJK5jLb0VogpcrHuO8aan8w0V9CHpDQbztgLVVrpCn-4aB7N_6hqVLW-eiI6YD_d2QpcW5K3tnsx_gIISzomRJZEhDojOmzQ0Mwb0L2ppIc-e_yGhRnLSH0UzuLqJbpkLg5JaQjCYuGhw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "13/811, Sector 13, Siddharth Nagar, Sector 10, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.847161,
+               "lng" : 75.817398
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8485099802915,
+                  "lng" : 75.81874698029151
+               },
+               "southwest" : {
+                  "lat" : 26.8458120197085,
+                  "lng" : 75.81604901970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "a19064196b8ce2c3e17000d7afb8f841773ff690",
+         "name" : "Tree House Play Group",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJjzb96w22bTkRLlu3Bs1o00U",
+         "reference" : "CmRRAAAA9vHzE9IUniCNi1txxCvQyU3EhfmTUwl7vvzHzxcswaKa5dgDjvXMow46DpOVFfDZZ9vRyDeU0FyUxIMUxgMuf8JoPPNGnP9IDHXGuumsRkS3NdlBseqOp4S-x7xQp80cEhBojZvmlUJds3EMJMVcbhCoGhSQvJBbR8ALT5AH0zEIwgzzLNu3rA",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "2/8 Malviya nagar ,, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8445683,
+               "lng" : 75.8154524
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8459172802915,
+                  "lng" : 75.81680138029151
+               },
+               "southwest" : {
+                  "lat" : 26.8432193197085,
+                  "lng" : 75.8141034197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "bd773659b1d25824f1cd01ff76522bdf0399c769",
+         "name" : "Tirupati Vidyapeeth(Govt. Recogd)",
+         "photos" : [
+            {
+               "height" : 1702,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110686968536577700595/photos\"\u003eanoop md\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbbnbtCEt9EIwxbLbvXDHEChsJpv5nqMOj4pEjJce2nPiOdgGlfRX4Rii8hEj2OVzmY6QC3T3A4gjzaxj1BK5W0SKzdC1ndfp1X_L8nh9fZ2jM-zb8K18_8DYstl9rk2YEhAIL-d6z7ue4nP7r1iPXiKeGhT_NOK0JJhH5JfBjZgqQIqBJhGNdw",
+               "width" : 2340
+            }
+         ],
+         "place_id" : "ChIJ7c3iig62bTkRBe2szJVj96Y",
+         "reference" : "CmRSAAAAZC9JXiS2feQJCibTmc5uFl37sQmbLTE2UAZKJh8sWslKJCmEYRYfJT59Ci2MZJxNJq4il53lNWchDFvwregXGq2N_VyETkzT_F5l5DFlhBPV7SyzHdcx8-cMYnHCKst0EhAP2vSIOhwA2a4DFmlRfukHGhTZDzVnSKlKJEFNhRmxUCuTKo--Aw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "11/1489 To 11/1496, Ashok Vihar, Sector 11, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8462812,
+               "lng" : 75.8115488
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8475792802915,
+                  "lng" : 75.81288033029151
+               },
+               "southwest" : {
+                  "lat" : 26.8448813197085,
+                  "lng" : 75.81018236970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "e3992488546bedd7c1e8a898696391874d29bac9",
+         "name" : "Venture Coaching Classes",
+         "place_id" : "ChIJQUTI6Qu2bTkR_qNut2dv6DY",
+         "reference" : "CmRRAAAAswamaSpL6PJ_EI3YH-L94yxp1XRYOWP-FYNJaLhpb4vsEKu_0_WYrStWPyi9PJ0Ms3MAQ0nL0sKNSIZjNOJN98OuB6WVaVQM5OB-7Fqrc5C9D7S7sAGoQmNEASMnsWCvEhDmQcRqnXuSWh3xhUyosOPbGhRIh3Y0tELXPF2K2f2jX3DBLam41Q",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Girdhar Marg, Siddharth Nagar, Malviya Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

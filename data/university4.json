@@ -1,0 +1,38 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8498971,
+               "lng" : 75.81031639999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8512460802915,
+                  "lng" : 75.81166538029149
+               },
+               "southwest" : {
+                  "lat" : 26.8485481197085,
+                  "lng" : 75.80896741970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "767caaa8d6005e8f78f4fba9456545f3a79ea93c",
+         "name" : "Little Angels",
+         "place_id" : "ChIJX--vIwu2bTkRKQw9Npycy1A",
+         "reference" : "CmRRAAAAVFg6YzzGVEFresBlPGMjfwCw1zpF_MNNIk2pFmbjyavY_7_BoXCm6prKX2alcNUBuj1MrKhYs02BAbigty90WtelP58An5jS2TxSXGOrdC4rNd41V0SCAjS_0bUoeOuLEhBeX9TrkV98OHH0MT8bymnMGhSZia8WQPvwRdfr9s6TkqaFnihogA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "university",
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Siddharth Nagar, Malviya Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

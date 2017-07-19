@@ -1,0 +1,704 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCAgEAAO3_eQIuljUq2vSyTYRg9lLRVqa2mEv8hp2xSpDWT1RJvgpbmwqF8wt7r6jHaApjnBlvWiYWFAklm7J5t_5Uu0dEp0LKu7NuS5VrgfieQW7tv-HnNDsqWVhn_2qOkioh4klOIV3O_yGyonxoMjhEcjdUcvCB3NyHCngOiwD080X1K5ag_RrOx4MYL1tVDNIVhW93eRVE2Ee4M7AI5ZkQALaiSZEoyENr-BY1VcoP5F6hxrNmphmsZcJcu3pOqRSFNDg6SoUPDx5Kyt0zpGInrXJiVkvq1J5jjJ-1dJjw6p8HdoSlNfAX7ZJyUybG-F2T7bQ5Xbvn2pBOSTti7-uIaw0PyfFZxNJ7tLDHIXEnlqbcEhAPXm8ct2un2zW10BzTedO3GhTKyZX1WYVykUurxXCKSPZe1RbxLg",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.84924,
+               "lng" : 75.81729
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8505889802915,
+                  "lng" : 75.81863898029151
+               },
+               "southwest" : {
+                  "lat" : 26.8478910197085,
+                  "lng" : 75.81594101970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4394c4b6e99e9db59f60db3116e229f143259559",
+         "name" : "Kishor Kumar",
+         "place_id" : "ChIJgyRkdA22bTkRrSOQp7-U6sU",
+         "reference" : "CmRSAAAA2IcLAca14Xd4oaBRltqXhCi3YBgMNfVoQGGO6D4xxiq3eGRI73YDa-zk4nEK1A6AlqAwinV_DAOCM9_MfQ1mpA1lmrKW2NcKwSEXtBrnYGbv2deyQdcP17ido_61_XcfEhBJIow3r4Llblyk3LP_1NTlGhQcZcSjMEctQCueh0pMjujS5tbV9A",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "3/322 Vegetable Shop, 3/322 Vegetable Shop, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.847263,
+               "lng" : 75.81994899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8486119802915,
+                  "lng" : 75.8212979802915
+               },
+               "southwest" : {
+                  "lat" : 26.8459140197085,
+                  "lng" : 75.81860001970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8a7821e11d5336c2f901940c323253391e4e1fd5",
+         "name" : "Sunshine Creation (My Gadi Track)",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJba_9bQ22bTkRlLT92BYmVrY",
+         "rating" : 4.3,
+         "reference" : "CmRSAAAANVmuS6yo9k9zg49Hw61BLx5zOvj4kT0PBJRf87p-GPpVEZtWlVBszURYFGix6LcAMkBB0IJ3SlvJ8WQP0milmddxVikYMNvcsn3lSdrRRvkrlRMB5YkM0l0FVSt_WzHDEhDvozg3TsEyTcsibcQzVt4YGhRt9qt9D_lGxtfBcOl_yt0iu3S5lg",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Gurudwara Building, Near Jaipur, Govind Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.845658,
+               "lng" : 75.811908
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8470069802915,
+                  "lng" : 75.81325698029151
+               },
+               "southwest" : {
+                  "lat" : 26.8443090197085,
+                  "lng" : 75.81055901970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "728d9a73fc211bf4fc283a6a189450ed4eb127b5",
+         "name" : "PRG & COMPANY",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105174167460054964793/photos\"\u003ePRG &amp; COMPANY\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHqJupI889b0e-1MCUAksMTnZ_cbJt-XzjfWFfBPpDdTedbP1r2O7VfMs6FbLKeCWhzgCgmeEAnTx4hsSsU6YhShBAPs8Z50W3zFik4Q4tWR9TauVR4XrNQ4vIwJUoCL5EhDi9S65ciBoW0r3m1IQaqQ3GhRIrB7Pum9IgRX2IAaMot4Zd3hf1A",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJX23d4gu2bTkRuMYj-j0l0UE",
+         "rating" : 5,
+         "reference" : "CmRRAAAAa8OQzqT2Cw466I4kSJ_XjOzFwf7y0QvJn5l_TKvnj5IDcpVC9hiwqbE4hEpvQs7XPWwWXGfiD9exMbWt4YNRSfmoT788UoQBWvBykXMZO4G_xoKh7q9GxpMy3uGVJNkVEhCWYo3U3umQ6I-Twa1EV-pAGhRpA3ragIOGZPbxAmeEeTh8QZWzvg",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Sector - 12, House No. - 123, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8477553,
+               "lng" : 75.81715459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8491042802915,
+                  "lng" : 75.81850358029151
+               },
+               "southwest" : {
+                  "lat" : 26.8464063197085,
+                  "lng" : 75.81580561970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "489a5be7f8c8b13fcf4c24ea058be34b21d81f7e",
+         "name" : "Siddhi Vinayak enterprises",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110757082330769495906/photos\"\u003evirendra shekhawat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA94avW79kGlQB-gTSqyy3NOUjmW6X-gLX_Ay12za35-CLQHF-58ZhpENPtMFlGjUEuNSChQp0RMsJ6ppahV-6Amgb4ffOCBCm4VJXMbkb4EdsZnao2qgN0jjKtW60UfjqEhBW_2Ujebgr7RzCdKNkLmF9GhTLFuaNk_uI0bkeUTgNTV4UiTs1uQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ_cKUlQ22bTkRE208b8762CQ",
+         "rating" : 5,
+         "reference" : "CmRRAAAA7WK-i_SUtcKAyrVQgOfUnYNSKxYmGLBP6pDwomzinkORzqHPURTdCZqIvKCBQuCtkfbo4Qb7HX7ETSu9F3KJ6O2iJQbdB8k1ezgMETrqam7hFcxz0PVK__-3JJEbd9W6EhBcjo8yTRnhznn3juZBF1q-GhS9OLflwoLmt55d7Hmath-WofMOXQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Basement, Near Sabzi mandi, Sector 3, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8464259,
+               "lng" : 75.81630869999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8477748802915,
+                  "lng" : 75.8176576802915
+               },
+               "southwest" : {
+                  "lat" : 26.8450769197085,
+                  "lng" : 75.8149597197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f96571ba927045dca83703885f410271f4fad0bc",
+         "name" : "Ganpati Jewellers",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1010,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111017699332193991016/photos\"\u003eGanpati Jewellers\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXr3dCyOQgmAh4KOcageFMKh2Q8HdO1tHd_9QADZw4QbFS36pIe5Md03q1CogWoh31mXdQcfHITX03qtv5R1Goi__KD8ZewLNk_RvnsdXK49D_SKbi89OamvJYpbZG5CREhDip0Pm5bFXydGW3nfJ9KJeGhQ3yLCgCipRHRu3LfERyxoHEb3r1g",
+               "width" : 1005
+            }
+         ],
+         "place_id" : "ChIJWZcvww22bTkR3U2z1k9ONMs",
+         "reference" : "CmRSAAAAeghxMHfmQsQCMDJABkwBNm7_pv5exD_hebWezzCWgPF7uWzMYxW_kJjoLfI2jfqf-LZ85UFLhgsjq3FJkJrl4ZPdKgqVAy6a7OmEijqalRU_EyJ7ZOcnmbV2PQJD0XkXEhAIrxUpYaRIJzso0L_tzgLfGhRUGuVVqdcarnYvBiMgDsznp8rHMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "3/727, Gandhi Grah, Railway Pulia, Sector 3, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8463367,
+               "lng" : 75.81319599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8476856802915,
+                  "lng" : 75.8145449802915
+               },
+               "southwest" : {
+                  "lat" : 26.8449877197085,
+                  "lng" : 75.81184701970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f587fa82816f5d9779c8d93cbd18da65f404042d",
+         "name" : "Krishna Mobile- Vodafone",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ1SCMBQy2bTkRl_3dSRGzLlI",
+         "reference" : "CmRRAAAAw0erMf7bcH50lTqvANLJSbII-c-CNG6FMgIFiONxkc1p7VlTyimmGv6AHdNUTYTTiw-TwmC5jCm-JEIiTTS7g4coPDHnoIx-IAJSkxTU71pSCYMu3cMdoGeiXFjrr-sxEhDMJ2HC6XDPOz2-NHlYEfTdGhSHone-MKIE6HqsYjajdfo3Y7zt0A",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "13/1058, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.84863,
+               "lng" : 75.81215
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8499789802915,
+                  "lng" : 75.81349898029151
+               },
+               "southwest" : {
+                  "lat" : 26.8472810197085,
+                  "lng" : 75.81080101970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "59d30fd1bd4fc59b1a9dca6d4bf867e340bdd55a",
+         "name" : "Pink City Furniture",
+         "place_id" : "ChIJO8iueQu2bTkRG7Et6l79EOk",
+         "reference" : "CmRSAAAABtvIxhar2UbWlJkO1zw6xKzaMybrbzxgtTjCKJQLVQxBnHlPHcuZviEtwkaIT6res0XT8at_ELfyncge4I7H7m-2p1qKA6Z6NOtTdcRkG4dLyAbmgL8-jKjKS6KlQnXJEhBlhYfwUz3wdStj2sSnA26XGhSJrA-nteVIL3sHKEWnCkM_YFZCqg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Shop No 311, Sector 13, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8482521,
+               "lng" : 75.81424509999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8496010802915,
+                  "lng" : 75.8155940802915
+               },
+               "southwest" : {
+                  "lat" : 26.8469031197085,
+                  "lng" : 75.81289611970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4da0d7888709a8f227642eeef71adf9097cc8439",
+         "name" : "Jaipur Dairy",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJrUzhXQy2bTkRP6y4COZ4dTA",
+         "rating" : 5,
+         "reference" : "CmRRAAAAz5lkgdPl_Fc9Hg8vJ-C3e0-bV1NFISwkfIU-ROsqKPim99EI-EJgX6Bgu8xGbEsh3AqZw7OHU2qa-qxEnRM0bqTQ5VT9xeTVkFuwzn2iQq90nYsDI-cyMPGNfoZNSyRrEhAe8o7oCtXDYvJZeule_vgpGhS3hEvWUD0dNregU8c8i588sfz_Jg",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "5328, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.847431,
+               "lng" : 75.8160546
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8487799802915,
+                  "lng" : 75.8174035802915
+               },
+               "southwest" : {
+                  "lat" : 26.84608201970849,
+                  "lng" : 75.81470561970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d06301b713667f7ca8be39678430eff38880d686",
+         "name" : "Shivam Auto Center",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJvc8Qtg22bTkRNl7_Pmp4xAw",
+         "rating" : 1,
+         "reference" : "CmRRAAAAIIwhecqrNZPCeyf_CH1cKmbJNFjfbP1tUoPsPB3SHkVS9dgFBOz7Jq8mBwgi-URVhUKfKQ5lta-uGc3iMXzD0NPFdN7HzfkxswNYaqLsJmd5zbrzVf6GdBMJS_EwS8bdEhB0cy43RSmusf1gu6hmxJgnGhSWsREYf-mm-dHz7HeUiBRhxA2Slw",
+         "scope" : "GOOGLE",
+         "types" : [ "car_repair", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.84591,
+               "lng" : 75.81254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8472589802915,
+                  "lng" : 75.81388898029151
+               },
+               "southwest" : {
+                  "lat" : 26.8445610197085,
+                  "lng" : 75.81119101970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "69e82708e4de08ecbcb9c1d6a60101249563e906",
+         "name" : "Saundraya Boutique",
+         "place_id" : "ChIJPdwp_wu2bTkRP9324KMnhSI",
+         "reference" : "CmRRAAAAC00R6g-s7gwssBDFlniAt2xco1K5ivX318zyrJoSYftJj2uIQ77s0dc6ubXXoYYJBx-dgZYMDBqlsh8F_nBTg3F24UBXd6ePZOs2mYhUU1vyBPjgHt5juD3khC-KXbPfEhD1Crk0q2vd8aWpGBLDW_CEGhQHf6_yuFRrhD-Lhrm2I8_pzEivTw",
+         "scope" : "GOOGLE",
+         "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Malviya nagar nagar, Near Surya Market, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.848297,
+               "lng" : 75.813368
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8496459802915,
+                  "lng" : 75.81471698029151
+               },
+               "southwest" : {
+                  "lat" : 26.8469480197085,
+                  "lng" : 75.8120190197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4d7ae6f35b1c70846cfcf79229fba00f4a3d744a",
+         "name" : "Tattoo Factory",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 758,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113598325466826997552/photos\"\u003eTattoo Factory\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmMaTOM2zczjpdfuxH3FcVicEZDsWFxKYp98jZUVz381Y0q1dTeqLJqseBkabJeLLb_288bLVmxsZo16RbqHTJWF01Z4vl4qlJdjO_gGV-9HeFZOmAFdi_roOGY3201SUEhCrdNOZteKacC94stX3fz-cGhTdEzF-PH3D644bVI013tWrOkWZXg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJF7aQ0sO2bTkRNIfV1nEweCo",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAA_DpVlvvP7Pt7SMKJgXvKZQh7UnD_5jILeoAqgmjVUE4tUzB9QbqqdYGMWb6WvY7nu1as11mYHCqQES60ncx8WBhux7MkEl6f5xm8XE3p92ehBxbuc5IlZ9rXvEQbPVxJEhD36woMqi7epYQzqJZxuOASGhTS9PvTMUn81Q118QZQrXvAFAbWDQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Gaurav tower Central basement MS-45, malviya nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8485375,
+               "lng" : 75.81767459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8498864802915,
+                  "lng" : 75.8190235802915
+               },
+               "southwest" : {
+                  "lat" : 26.8471885197085,
+                  "lng" : 75.81632561970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "2c5ea121270dabb63fe7ec5bfc57c5d2deabf3a9",
+         "name" : "Jagdamba Jewellers",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ9aUpB3KzbTkR1kPJipmRa8Y",
+         "reference" : "CmRSAAAAiu8YD4ullJVfo5DY5_B7J7T0efBDgV8hYgt77af6S5ZwXhuwfUo1f9eplQF3YaSpZfzksssGfsdDFAmbMCGJ5CDbAxv8z40UMA0m2O4UVudETlzAa5GAwZAskz4q6Cj7EhAErWDCgykr1My-35s9Y_QvGhSbld51OIkre8Oga9rv7YpEuwMQOQ",
+         "scope" : "GOOGLE",
+         "types" : [ "jewelry_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Sector 3, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8457352,
+               "lng" : 75.81559589999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.84708418029151,
+                  "lng" : 75.8169448802915
+               },
+               "southwest" : {
+                  "lat" : 26.8443862197085,
+                  "lng" : 75.81424691970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "70e68fabcdf7eac92b0e5818bf875ffc24692ca3",
+         "name" : "Godam",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJAY57gA62bTkRMl3bNfFEJMk",
+         "rating" : 5,
+         "reference" : "CmRSAAAAhAJdWmRfbRKHtcusklonDDExkMlRbR_TXocXiX_0CuuPO5m5VwaqQAKwaHHCFhkDcbcch2Kms_ZT1jFQGku9DqXITH4rhx6UGQ-Te7RwXaZi_t11qBKeTMezbXioG1riEhD15j8r08DFCaOVRaSJzbBZGhSTZEu07gYJ843jkKRQx6IssGIBRA",
+         "scope" : "GOOGLE",
+         "types" : [ "home_goods_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Sector-11, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.84653999999999,
+               "lng" : 75.81647
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8478889802915,
+                  "lng" : 75.81781898029151
+               },
+               "southwest" : {
+                  "lat" : 26.84519101970849,
+                  "lng" : 75.8151210197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5e84b18a0091b62f0e9a8e72e00da97db98144ad",
+         "name" : "Rajesh Departmental Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ17b22g22bTkRmvwPLYrFqN0",
+         "rating" : 5,
+         "reference" : "CmRSAAAAIsADEybdMovlvxcy2DvdQleXveQx7QUKH0Zv_3B_NNcT8jF5EaeycRebdEuGjPADsVOxe2KeIbas1lPVaUKkZbj7i8Pw6WvpME4_1UK_P2M1XexzQb_UyeHTX4hVji2vEhD4pjljwN8p2aLA8QpZHz3pGhRKp57v8ADXXAHYHJjk5PQVIC0t_g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "food",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "1, Model Town, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8466463,
+               "lng" : 75.8165807
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8479952802915,
+                  "lng" : 75.81792968029151
+               },
+               "southwest" : {
+                  "lat" : 26.8452973197085,
+                  "lng" : 75.81523171970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8b63ee881c80361d835a90acad171537b603298b",
+         "name" : "Shree Vishwakarma Furnitures",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111903280408542480754/photos\"\u003eShree Vishwakarma Furnitures\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsewUg-HZRl729R1mHvam9BS09eaTs03s0-cyVMD7hklqiutzC4_0zc6M-wGkyijAqNjh2NylBqil7pHhk-NxkkNXUD_R80PFYu_W59TFbA8fqzkES3ow5-BMpx3BdEgFEhDQuDb0JItnKsjcKfVnpS2TGhTT42S5gd9tuHjK8ysltBq_4fzzWA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJx3kV2w22bTkRbAO_yp76zDU",
+         "rating" : 4.9,
+         "reference" : "CmRRAAAAhf_lowvVpaL6b10GzZM2JDMttnmYEwzFBtbZf0b9RAnQ5BBjSPSQllj2HZwuD3HW0EW9DD6ubeE1iquCEnElK3AXJaOB4Zs5TqFnu_usGfD0usmIdyUfNiSS1-B4CgtVEhA-wv0zge6vr66RFz8uhixsGhTZmG0m5ZOAXvDGdc8v-MVs-_KguA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Sector-03/719, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.846925,
+               "lng" : 75.81683
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8482739802915,
+                  "lng" : 75.81817898029151
+               },
+               "southwest" : {
+                  "lat" : 26.8455760197085,
+                  "lng" : 75.8154810197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "899544602bae4a01d76a02ad79465555270e04ec",
+         "name" : "S.R. Electricals",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101266124914001778545/photos\"\u003eS.R. Electricals\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtC0rLq1QcEd817FgWHQFpeP-SxwSapExGlypkm392fiQtwbffkdrGxpLEnYQDnBjh5fEfrUTatzD_qiAgMNqjwiUxzuQ9NbWVTvM-Z1vuNcb2864XnUiCbgSJzsKxNurEhAm1Bqq1r7kB_FisA06hiYGGhTzoQHqNz2me-JXMMvSSkAW04-yIQ",
+               "width" : 480
+            }
+         ],
+         "place_id" : "ChIJTb6j3Q22bTkRJ3TWa4MxtBw",
+         "rating" : 4,
+         "reference" : "CmRRAAAAKdgehz9PewESXrtyFW6sDcSjiBJJz_jNHFgZ1d31FvQt78BIXu4PvvUhHHJHGoDFcr82nElxE6__WxleNMseB_PlwB_nSZIANsYIxGx-6_j9Sf29m8dmvNTZmy8YDsSyEhAVAaFgYAv82EhYpPp4SeUVGhQAHfTh1gEIShR4UrQyCCxY8UF57g",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Shop No.3/947 A, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8483272,
+               "lng" : 75.81260569999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8496761802915,
+                  "lng" : 75.8139546802915
+               },
+               "southwest" : {
+                  "lat" : 26.84697821970849,
+                  "lng" : 75.8112567197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "97204192e2ca7fc9261e44d68862e401d5029118",
+         "name" : "Saras Dairy",
+         "place_id" : "ChIJKdT_XQy2bTkRZsUAs2vIjNA",
+         "reference" : "CmRSAAAAXpdqS2oLNmTd7UPzBtAif4AyIz9KikQFz76fRh9l_D87kcpR4nJRGdBzhL7zFLhLS-7uK9e7g97RMFu_LAiDp_k9t_Z3qhwhFOLLiAjo4_rLN31F2sJCHgQ-kriIsvcnEhCCc-bz1eYwTYQ_Zp5Id-saGhRFcxdhw5GkKjYFzh5E23YYmQ3OTA",
+         "scope" : "GOOGLE",
+         "types" : [ "food", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Satkar Underpass, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.845888,
+               "lng" : 75.81286799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8472369802915,
+                  "lng" : 75.8142169802915
+               },
+               "southwest" : {
+                  "lat" : 26.8445390197085,
+                  "lng" : 75.81151901970848
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "de322c9859cbddcd8e3cade6b53c74a20bc38782",
+         "name" : "Medicine Corner",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 353,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110101582963320578181/photos\"\u003eMedicine Corner\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVFk62Z6G4tzzwFeZMWgMwVpp1rntqdqHCJK4ncFhndG9eLSHvXF2MJeJ5TmAdfKaeH2MYozngqF-gwBsI7HO-RntEV4_IPjeiJGvT3Hbi2xuXCfurSx8cxgU5sVCkziWEhAdbnfRpRBeshMpbbfUJsg1GhSnlLz4itRJWodtIDlQsCiv7vnbiA",
+               "width" : 354
+            }
+         ],
+         "place_id" : "ChIJj5_dAAy2bTkRMsByjevg1RQ",
+         "rating" : 4,
+         "reference" : "CmRRAAAAEoEMq9DpZB4cEN44Z4k5z1vjoHBCDJE8GYWE-0YMmRieJMAZKOkvoFhk6AgD-Y7MkWSXLMVjMXTdiGkjgXl2M3QHiHne8tsrCsPsUHqbTihf3ctNsl7aKdeL3YEKXiDSEhAIJannlq7Im807pCh4VLtQGhToVhTqfz_31AnjAqKAWQCxPCu53w",
+         "scope" : "GOOGLE",
+         "types" : [ "pharmacy", "health", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Shop No.10 , Sector 11, Girdhar Road, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.847139,
+               "lng" : 75.817272
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8484879802915,
+                  "lng" : 75.81862098029151
+               },
+               "southwest" : {
+                  "lat" : 26.8457900197085,
+                  "lng" : 75.81592301970851
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "fd9bfcfae0da1a57f799c6795245bfe91ab9efe4",
+         "name" : "Toshiba laptop Service Center Jaipur",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116595367018342038256/photos\"\u003eToshiba laptop Service Center Jaipur\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7Cl2lWffwds7_RpM9sAdW5QLPDjWyNkw3gQPd-5d854_e5DUKRpQCJWsefkHvKEL7Awo0qIU5FiYYZaewOXbFumdKNwqTMXfI54Bd2pN1YAuMBmoyVFqkceSwpLI_I-xEhCI-xcuH-OpPw0siicmU--gGhQKx9f2AQlbhX6n_liy0yEnruAyng",
+               "width" : 949
+            }
+         ],
+         "place_id" : "ChIJAang1uO1bTkRlJI3gJpfB-k",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAAJ0qY3_CbJMatB-eNCKgNnGf1j-TEk_Pqfpyqj4a5nJHcUpO8kFncRWBi-Q8gAzRJiXSHpJI3g_CyIH3gcDcCqTboRAxn160RAq1jRiZ8wsDFEJ-D5DUqKMrQMZ2S3MK1EhCQqj808kQytpVxNq75ctOcGhSnWNfe_EyznzJvUhT024Z6D7xBPA",
+         "scope" : "GOOGLE",
+         "types" : [ "electronics_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "sector 5 block no 262 shop no 3 malviya nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.848289,
+               "lng" : 75.8123401
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.8496379802915,
+                  "lng" : 75.81368908029151
+               },
+               "southwest" : {
+                  "lat" : 26.8469400197085,
+                  "lng" : 75.8109911197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "98a159e1d83be7e1df1f5872105f12605935b277",
+         "name" : "Griha Suvidha",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJNxUpggu2bTkR26R950dqxHU",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAPpLUMjd3jfzF4nTpfLOH2o75KyeWEK16xRhA7GyIz1kuLMx2FM_kMEwxMOFHLWpoVCf2FrL_L4rUkHNNvDFfaQgIuuyNLz99vl1ohPFYsWU_pY2vF-rs7YznHaQTnj9yEhAs_D4LzxeOFeqLV2qF1DQDGhSxnriV8ESn99i6hs87IIuZAQ8vQw",
+         "scope" : "GOOGLE",
+         "types" : [ "department_store", "store", "point_of_interest", "establishment" ],
+         "vicinity" : "Sector 10, Malviya Nagar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}
