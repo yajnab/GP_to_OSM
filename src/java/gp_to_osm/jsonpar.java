@@ -24,7 +24,7 @@ public class jsonpar {
           String[] file = {"hospital", "restaurant", "museum", "bank", "atm", "movie", "mosque", 
               "hindu_temple", "church", "school", "university", "store", "gym", "doctor"};
           for(int it=0;it<file.length;it++){
-              for(int j=1;j<=4;j++ ){
+              for(int j=1;j<=5;j++ ){
                 try{
                     String JSON_FILE="data/"+file[it]+j+".json";
                     InputStream fis = new FileInputStream(JSON_FILE);		
